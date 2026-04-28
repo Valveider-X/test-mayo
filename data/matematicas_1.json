@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es el resultado de 7 x 8?",
+    "options": [
+      { "text": "56", "isCorrect": true },
+      { "text": "54", "isCorrect": false },
+      { "text": "64", "isCorrect": false },
+      { "text": "48", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Si x + 5 = 12, ¿cuánto vale x?",
+    "options": [
+      { "text": "7", "isCorrect": true },
+      { "text": "5", "isCorrect": false },
+      { "text": "17", "isCorrect": false },
+      { "text": "12", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál es el área de un cuadrado de lado 4?",
+    "options": [
+      { "text": "16", "isCorrect": true },
+      { "text": "8", "isCorrect": false },
+      { "text": "12", "isCorrect": false },
+      { "text": "20", "isCorrect": false }
+    ]
+  }
+]
