@@ -1,6 +1,6 @@
 const appRoot = document.querySelector("#app");
 
-const subjectFiles = ["Desarrollo de Interfaces.json", "Digitalizacion.json", "IPE.json"];
+const subjectFiles = ["Acceso a Datos.json","Desarrollo de Interfaces.json", "Digitalizacion.json", "IPE.json", ];
 const countOptions = [10, 20, 50, "all", "custom"];
 
 const initialState = {
