@@ -1,0 +1,671 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué término define la relación entre entorno natural, sociedad y economía?",
+    "options": [
+      { "text": "Urbanismo", "isCorrect": false },
+      { "text": "Desarrollo lineal", "isCorrect": false },
+      { "text": "Medioambiente", "isCorrect": false },
+      { "text": "Sostenibilidad", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál de estos factores obstaculiza la sostenibilidad?",
+    "options": [
+      { "text": "Coordinación entre instituciones", "isCorrect": false },
+      { "text": "Falta de conciencia social", "isCorrect": true },
+      { "text": "Aplicación de los ODS", "isCorrect": false },
+      { "text": "Prácticas responsables", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿Qué documento promueve acciones globales para erradicar la pobreza y proteger el planeta hasta 2030?",
+    "options": [
+      { "text": "Acuerdo de París", "isCorrect": false },
+      { "text": "Pacto Verde Europeo", "isCorrect": false },
+      { "text": "Agenda 2030", "isCorrect": true },
+      { "text": "Protocolo de Montreal", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "¿Qué evento internacional en 1992 marcó un hito en la acción ambiental global?",
+    "options": [
+      { "text": "Protocolo de Kioto", "isCorrect": false },
+      { "text": "Cumbre de Estocolmo", "isCorrect": false },
+      { "text": "Cumbre de la Tierra de Río de Janeiro", "isCorrect": true },
+      { "text": "Acuerdo de París", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál no es uno de los 17 ODS?",
+    "options": [
+      { "text": "Vida submarina", "isCorrect": false },
+      { "text": "Producción y consumo responsable", "isCorrect": false },
+      { "text": "Desarrollo nuclear", "isCorrect": true },
+      { "text": "Igualdad de género", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿Qué significa no dejar a nadie atrás?",
+    "options": [
+      { "text": "Solo proteger a los países ricos", "isCorrect": false },
+      { "text": "Excluir a los contaminantes", "isCorrect": false },
+      { "text": "Promover igualdad y justicia social", "isCorrect": true },
+      { "text": "Priorizar la economía", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es un ejemplo de acción empresarial ASG?",
+    "options": [
+      { "text": "Uso de materiales contaminantes", "isCorrect": false },
+      { "text": "Transparencia financiera", "isCorrect": true },
+      { "text": "Evadir impuestos", "isCorrect": false },
+      { "text": "Desigualdad salarial", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "¿En qué año se firmó el Acuerdo de París?",
+    "options": [
+      { "text": "2000", "isCorrect": false },
+      { "text": "2010", "isCorrect": false },
+      { "text": "2015", "isCorrect": true },
+      { "text": "2020", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿Qué sector promueve empleos verdes?",
+    "options": [
+      { "text": "Energía fósil", "isCorrect": false },
+      { "text": "Agricultura sostenible", "isCorrect": true },
+      { "text": "Minería tradicional", "isCorrect": false },
+      { "text": "Automoción convencional", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Qué es el desarrollo sostenible?",
+    "options": [
+      { "text": "Un modelo económico basado en el crecimiento sin límites", "isCorrect": false },
+      { "text": "Un concepto exclusivamente ecológico", "isCorrect": false },
+      { "text": "Un modelo que busca satisfacer las necesidades actuales sin comprometer las futuras", "isCorrect": true },
+      { "text": "Una estrategia empresarial para mejorar las ventas", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál de estas acciones no es coherente con la economía circular?",
+    "options": [
+      { "text": "Reparar productos", "isCorrect": false },
+      { "text": "Reciclar materiales", "isCorrect": false },
+      { "text": "Diseñar para un solo uso", "isCorrect": true },
+      { "text": "Reutilizar envases", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál de los siguientes sectores es una fuente importante de emisiones de metano?",
+    "options": [
+      { "text": "Electrónica", "isCorrect": false },
+      { "text": "Ganadería", "isCorrect": true },
+      { "text": "Energía solar", "isCorrect": false },
+      { "text": "Construcción", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿Qué significa movilidad sostenible?",
+    "options": [
+      { "text": "Uso intensivo del coche privado", "isCorrect": false },
+      { "text": "Desarrollo sin restricciones de autopistas", "isCorrect": false },
+      { "text": "Sistema de transporte con bajo impacto ambiental", "isCorrect": true },
+      { "text": "Aumento del tráfico aéreo", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿Qué efecto tiene la contaminación lumínica sobre la biodiversidad?",
+    "options": [
+      { "text": "Favorece el desarrollo vegetal", "isCorrect": false },
+      { "text": "Desorienta a las especies nocturnas", "isCorrect": true },
+      { "text": "Aumenta la polinización", "isCorrect": false },
+      { "text": "Mejora el equilibrio de ecosistemas", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Qué ventaja ofrece la eficiencia energética?",
+    "options": [
+      { "text": "Aumento del consumo eléctrico", "isCorrect": false },
+      { "text": "Generación de más residuos", "isCorrect": false },
+      { "text": "Reducción de costes y emisiones", "isCorrect": true },
+      { "text": "Mayor dependencia energética", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "¿Qué estrategia consiste en convertir residuos en nuevos productos?",
+    "options": [
+      { "text": "Reducción", "isCorrect": false },
+      { "text": "Reutilización", "isCorrect": false },
+      { "text": "Reciclaje", "isCorrect": true },
+      { "text": "Vertido", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "¿Qué actividad humana contribuye directamente a la pérdida de biodiversidad?",
+    "options": [
+      { "text": "Rotación de cultivos", "isCorrect": false },
+      { "text": "Deforestación masiva", "isCorrect": true },
+      { "text": "Uso de energías renovables", "isCorrect": false },
+      { "text": "Siembra de especies autóctonas", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "¿Qué concepto representa la cantidad total de emisiones de gases de efecto invernadero generadas por una actividad o producto?",
+    "options": [
+      { "text": "Huella hídrica", "isCorrect": false },
+      { "text": "Huella de carbono", "isCorrect": true },
+      { "text": "Huella ecológica", "isCorrect": false },
+      { "text": "Impacto energético", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál de estas acciones representa una medida de descarbonización en una empresa?",
+    "options": [
+      { "text": "Uso de gasóleo en maquinaria", "isCorrect": false },
+      { "text": "Instalación de paneles solares", "isCorrect": true },
+      { "text": "Compra de productos importados", "isCorrect": false },
+      { "text": "Aumento de horas de operación", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "¿Qué institución impulsó la Agenda 2030 y los ODS?",
+    "options": [
+      { "text": "Unión Europea", "isCorrect": false },
+      { "text": "Naciones Unidas", "isCorrect": true },
+      { "text": "Banco Mundial", "isCorrect": false },
+      { "text": "OCDE", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "¿Qué medida ayuda directamente a reducir la brecha digital?",
+    "options": [
+      { "text": "Reducción del IVA", "isCorrect": false },
+      { "text": "Planes de alfabetización tecnológica", "isCorrect": true },
+      { "text": "Reforma fiscal", "isCorrect": false },
+      { "text": "Subsidios agrarios", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál es una medida clave para lograr una transición ecológica justa?",
+    "options": [
+      { "text": "Recortes en gasto social", "isCorrect": false },
+      { "text": "Eliminar subsidios a energías renovables", "isCorrect": false },
+      { "text": "Invertir en formación para empleos verdes", "isCorrect": true },
+      { "text": "Incrementar el consumo de productos importados", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "¿Qué ejemplo refleja una acción propia de la economía social?",
+    "options": [
+      { "text": "Outsourcing de servicios financieros", "isCorrect": false },
+      { "text": "Fondo de inversión en bolsa", "isCorrect": false },
+      { "text": "Cooperativa agrícola local", "isCorrect": true },
+      { "text": "Empresa multinacional tecnológica", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "¿Qué tipo de desigualdad afecta al acceso a recursos como salud y educación en función del territorio?",
+    "options": [
+      { "text": "Desigualdad digital", "isCorrect": false },
+      { "text": "Desigualdad económica", "isCorrect": false },
+      { "text": "Desigualdad territorial", "isCorrect": true },
+      { "text": "Desigualdad ambiental", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "¿Qué herramienta mide la desigualdad en una sociedad?",
+    "options": [
+      { "text": "PIB", "isCorrect": false },
+      { "text": "Índice de Gini", "isCorrect": true },
+      { "text": "Inflación", "isCorrect": false },
+      { "text": "Población activa", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "¿Qué aspecto no forma parte de la educación para el desarrollo sostenible?",
+    "options": [
+      { "text": "Conciencia crítica", "isCorrect": false },
+      { "text": "Consumo responsable", "isCorrect": false },
+      { "text": "Competencias digitales", "isCorrect": true },
+      { "text": "Participación ciudadana", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "¿Qué organismo internacional gestiona el Fondo Verde para el Clima?",
+    "options": [
+      { "text": "UNESCO", "isCorrect": false },
+      { "text": "PNUD", "isCorrect": false },
+      { "text": "UNFCCC", "isCorrect": true },
+      { "text": "FMI", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es una función principal de los presupuestos participativos?",
+    "options": [
+      { "text": "Reducir impuestos", "isCorrect": false },
+      { "text": "Privatizar servicios", "isCorrect": false },
+      { "text": "Fomentar la participación ciudadana", "isCorrect": true },
+      { "text": "Eliminar gasto público", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Una cooperativa que reinvierte beneficios en su comunidad forma parte de:",
+    "options": [
+      { "text": "Economía informal", "isCorrect": false },
+      { "text": "Economía circular", "isCorrect": false },
+      { "text": "Economía social", "isCorrect": true },
+      { "text": "Economía digital", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "¿Qué organismo promueve la educación para el desarrollo sostenible (EDS) a nivel global?",
+    "options": [
+      { "text": "FMI", "isCorrect": false },
+      { "text": "UNESCO", "isCorrect": true },
+      { "text": "OMS", "isCorrect": false },
+      { "text": "OIT", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "¿Qué ODS está enfocado en la mejora de la nutrición y seguridad alimentaria?",
+    "options": [
+      { "text": "ODS 2", "isCorrect": true },
+      { "text": "ODS 6", "isCorrect": false },
+      { "text": "ODS 9", "isCorrect": false },
+      { "text": "ODS 12", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "¿Cuál de los siguientes es un riesgo en la aplicación de los ODS?",
+    "options": [
+      { "text": "Participación ciudadana activa", "isCorrect": false },
+      { "text": "Educación para el desarrollo sostenible", "isCorrect": false },
+      { "text": "Fragmentación de esfuerzos", "isCorrect": true },
+      { "text": "Alianzas público-privadas", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "¿Cuántos objetivos de desarrollo sostenible (ODS) existen?",
+    "options": [
+      { "text": "15", "isCorrect": false },
+      { "text": "17", "isCorrect": true },
+      { "text": "21", "isCorrect": false },
+      { "text": "20", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "¿Qué ODS se relaciona directamente con la acción climática?",
+    "options": [
+      { "text": "ODS 3", "isCorrect": false },
+      { "text": "ODS 6", "isCorrect": false },
+      { "text": "ODS 13", "isCorrect": true },
+      { "text": "ODS 15", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "¿Qué es el greenwashing?",
+    "options": [
+      { "text": "Un proceso de reciclaje industrial", "isCorrect": false },
+      { "text": "Una política energética sostenible", "isCorrect": false },
+      { "text": "Una falsa apariencia de responsabilidad ambiental", "isCorrect": true },
+      { "text": "Un sistema de gestión hídrica", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "¿Qué principio promueve la economía circular dentro de los ODS?",
+    "options": [
+      { "text": "Producción en masa", "isCorrect": false },
+      { "text": "Consumo desechable", "isCorrect": false },
+      { "text": "Producción y consumo responsables", "isCorrect": true },
+      { "text": "Uso ilimitado de recursos", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "¿Cuál de los siguientes principios está más vinculado a la responsabilidad social corporativa?",
+    "options": [
+      { "text": "Maximización del beneficio", "isCorrect": false },
+      { "text": "Transparencia y ética empresarial", "isCorrect": true },
+      { "text": "Reducción de costes", "isCorrect": false },
+      { "text": "Competencia desleal", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "¿Qué ODS promueve el acceso a energías limpias y asequibles?",
+    "options": [
+      { "text": "ODS 7", "isCorrect": true },
+      { "text": "ODS 10", "isCorrect": false },
+      { "text": "ODS 4", "isCorrect": false },
+      { "text": "ODS 11", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "¿Cuál es un beneficio directo de aplicar los ODS en las empresas?",
+    "options": [
+      { "text": "Reducción de la plantilla", "isCorrect": false },
+      { "text": "Pérdida de competitividad", "isCorrect": false },
+      { "text": "Mejora de la reputación corporativa", "isCorrect": true },
+      { "text": "Disminución de alianzas estratégicas", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "¿Qué objetivo busca asegurar agua potable y saneamiento para todos?",
+    "options": [
+      { "text": "ODS 6", "isCorrect": true },
+      { "text": "ODS 3", "isCorrect": false },
+      { "text": "ODS 7", "isCorrect": false },
+      { "text": "ODS 12", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "¿Qué componente es clave para avanzar en la economía circular desde la FP?",
+    "options": [
+      { "text": "Aprendizaje pasivo", "isCorrect": false },
+      { "text": "Competencia digital", "isCorrect": false },
+      { "text": "Formación en sostenibilidad", "isCorrect": true },
+      { "text": "Compra masiva de materiales", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "¿Qué componente es clave para hacer duradero un producto?",
+    "options": [
+      { "text": "Uso de materiales desechables", "isCorrect": false },
+      { "text": "Producción en masa", "isCorrect": false },
+      { "text": "Diseño modular y reparable", "isCorrect": true },
+      { "text": "Obsolescencia programada", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "¿Qué tipo de residuos se generan en mayor volumen en Europa?",
+    "options": [
+      { "text": "RAEE", "isCorrect": false },
+      { "text": "Residuos agrícolas", "isCorrect": false },
+      { "text": "Residuos urbanos", "isCorrect": false },
+      { "text": "Residuos industriales", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "¿Qué tipo de energía se promueve en la economía circular?",
+    "options": [
+      { "text": "Carbón", "isCorrect": false },
+      { "text": "Nuclear", "isCorrect": false },
+      { "text": "Renovable", "isCorrect": true },
+      { "text": "Fósil", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "¿Qué recurso se considera ilimitado en el contexto de sostenibilidad?",
+    "options": [
+      { "text": "Petróleo", "isCorrect": false },
+      { "text": "Energía solar", "isCorrect": true },
+      { "text": "Litio", "isCorrect": false },
+      { "text": "Agua fósil", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "¿Qué medida fomenta el cambio hacia una economía circular?",
+    "options": [
+      { "text": "Incentivos fiscales para prácticas sostenibles", "isCorrect": true },
+      { "text": "Subvenciones a industrias contaminantes", "isCorrect": false },
+      { "text": "Reducción de tasas al vertido", "isCorrect": false },
+      { "text": "Promoción del plástico de un solo uso", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "¿Qué se entiende por economía regenerativa?",
+    "options": [
+      { "text": "Ampliar el uso del petróleo", "isCorrect": false },
+      { "text": "Promover vertederos controlados", "isCorrect": false },
+      { "text": "Restaurar ecosistemas y devolver nutrientes", "isCorrect": true },
+      { "text": "Generar residuos de forma controlada", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "¿Cuál es uno de los riesgos del modelo lineal?",
+    "options": [
+      { "text": "Aprovechamiento de residuos", "isCorrect": false },
+      { "text": "Dependencia de recursos finitos", "isCorrect": true },
+      { "text": "Creación de empleo verde", "isCorrect": false },
+      { "text": "Uso de energías limpias", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "¿Qué instrumento digital ayuda a la economía circular?",
+    "options": [
+      { "text": "Fotocopiadoras", "isCorrect": false },
+      { "text": "IoT (internet de las cosas)", "isCorrect": true },
+      { "text": "Televisión analógica", "isCorrect": false },
+      { "text": "Linterna manual", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "¿Cuál es una ventaja de la economía circular respecto al modelo lineal?",
+    "options": [
+      { "text": "Incremento de residuos", "isCorrect": false },
+      { "text": "Mayor dependencia energética", "isCorrect": false },
+      { "text": "Reducción de costes y residuos", "isCorrect": true },
+      { "text": "Uso de productos de un solo uso", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "¿Qué institución supervisa el cumplimiento de los ODS en España?",
+    "options": [
+      { "text": "Ministerio de Defensa", "isCorrect": false },
+      { "text": "Comisión Nacional de los Mercados", "isCorrect": false },
+      { "text": "Alto Comisionado para la Agenda 2030", "isCorrect": true },
+      { "text": "Banco de España", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "¿Por qué es importante la gobernanza en sostenibilidad?",
+    "options": [
+      { "text": "Porque impone sanciones", "isCorrect": false },
+      { "text": "Porque decide precios", "isCorrect": false },
+      { "text": "Porque garantiza decisiones éticas y transparentes", "isCorrect": true },
+      { "text": "Porque dirige campañas publicitarias", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "La brecha salarial de género se refiere a:",
+    "options": [
+      { "text": "Diferencia en el coste de vida", "isCorrect": false },
+      { "text": "Diferencia en el acceso a salud", "isCorrect": false },
+      { "text": "Diferencia de salarios por trabajos equivalentes", "isCorrect": true },
+      { "text": "Desigualdad educativa entre sexos", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "¿Qué significa ASG en sostenibilidad empresarial?",
+    "options": [
+      { "text": "Alimentación, suministro y gestión", "isCorrect": false },
+      { "text": "Ambiental, social y gobernanza", "isCorrect": true },
+      { "text": "Análisis de sostenibilidad global", "isCorrect": false },
+      { "text": "Administración y servicios generales", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "¿Qué papel tiene la FP en la sostenibilidad?",
+    "options": [
+      { "text": "Ninguno", "isCorrect": false },
+      { "text": "Formar profesionales comprometidos", "isCorrect": true },
+      { "text": "Rechazar políticas verdes", "isCorrect": false },
+      { "text": "Aplicar solo teoría", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "¿Qué practica refleja la economía circular?",
+    "options": [
+      { "text": "Usar materiales vírgenes", "isCorrect": false },
+      { "text": "Desechar productos rotos", "isCorrect": false },
+      { "text": "Reutilizar materiales de construcción", "isCorrect": true },
+      { "text": "Comprar más", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "¿Qué tipo de movilidad es más sostenible?",
+    "options": [
+      { "text": "Uso del coche privado", "isCorrect": false },
+      { "text": "Bicicleta y transporte público", "isCorrect": true },
+      { "text": "Avión de bajo coste", "isCorrect": false },
+      { "text": "Moto de gasolina", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "¿Qué ODS busca la igualdad de género?",
+    "options": [
+      { "text": "ODS 1", "isCorrect": false },
+      { "text": "ODS 5", "isCorrect": true },
+      { "text": "ODS 9", "isCorrect": false },
+      { "text": "ODS 12", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "¿Qué objetivo persigue la Agenda 2030?",
+    "options": [
+      { "text": "Crecimiento industrial global", "isCorrect": false },
+      { "text": "Aumento del PIB", "isCorrect": false },
+      { "text": "Erradicar la pobreza y proteger el planeta", "isCorrect": true },
+      { "text": "Regular el comercio mundial", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "¿Cuál es uno de los compromisos del Acuerdo de París?",
+    "options": [
+      { "text": "Evitar los ciclones tropicales", "isCorrect": false },
+      { "text": "Limitar el aumento de temperatura a 1,5 - 2 °C", "isCorrect": true },
+      { "text": "Prohibir el plástico", "isCorrect": false },
+      { "text": "Frenar la urbanización", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "¿Qué ODS promueve la educación de calidad?",
+    "options": [
+      { "text": "ODS 8", "isCorrect": false },
+      { "text": "ODS 4", "isCorrect": true },
+      { "text": "ODS 6", "isCorrect": false },
+      { "text": "ODS 10", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "¿Cuál de los siguientes gases es un GEI natural y antropogénico?",
+    "options": [
+      { "text": "Argón", "isCorrect": false },
+      { "text": "Dióxido de carbono (CO₂)", "isCorrect": true },
+      { "text": "Helio", "isCorrect": false },
+      { "text": "Oxígeno", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "¿Qué tipo de energía es renovable?",
+    "options": [
+      { "text": "Gas natural", "isCorrect": false },
+      { "text": "Carbón", "isCorrect": false },
+      { "text": "Solar", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "¿Qué ecosistema tiene más capacidad de absorber carbono?",
+    "options": [
+      { "text": "Desierto", "isCorrect": false },
+      { "text": "Bosque", "isCorrect": true },
+      { "text": "Ciudad", "isCorrect": false },
+      { "text": "Montaña rocosa", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "¿Por qué es importante la huella de carbono?",
+    "options": [
+      { "text": "Mide la eficiencia del agua", "isCorrect": false },
+      { "text": "Permite cuantificar el impacto climático de una persona o actividad", "isCorrect": true },
+      { "text": "Sustituye el impuesto al carbono", "isCorrect": false },
+      { "text": "Define la calidad del aire", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Una empresa que fomenta la contratación inclusiva y la igualdad de género está actuando en el ámbito:",
+    "options": [
+      { "text": "Ambiental", "isCorrect": false },
+      { "text": "Social", "isCorrect": true },
+      { "text": "Económico", "isCorrect": false },
+      { "text": "Financiero", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "¿Qué significa obsolescencia programada?",
+    "options": [
+      { "text": "Reparar productos", "isCorrect": false },
+      { "text": "Fabricar objetos con vida útil limitada a propósito", "isCorrect": true },
+      { "text": "Reciclar rápido", "isCorrect": false },
+      { "text": "Innovación ecológica", "isCorrect": false }
+    ]
+  }
+]

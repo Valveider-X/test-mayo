@@ -1,0 +1,452 @@
+[
+    {
+      "id": 1,
+      "question": "¿Qué hace el método redirectInput() en ProcessBuilder?",
+      "options": [
+        { "text": "Redirige la entrada estándar hacia un archivo o un flujo de entrada.", "isCorrect": true },
+        { "text": "Redirige la salida estándar hacia un archivo.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "¿Qué significa la ejecución de la clase Tabla en un programa Java?",
+      "options": [
+        { "text": "Ejecuta la clase Tabla desde la JVM con el classpath especificado.", "isCorrect": true },
+        { "text": "Inicia un nuevo hilo que ejecuta la clase Tabla.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "¿Qué sucede si el archivo entrada.txt no contiene un número válido y el código intenta leer un entero con nextInt()?",
+      "options": [
+        { "text": "Lanzará una excepción NoSuchElementException.", "isCorrect": true },
+        { "text": "Lanzará una excepción IOException.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el propósito de la clase ProcessBuilder en Java?",
+      "options": [
+        { "text": "Ejecutar procesos externos desde un programa Java.", "isCorrect": true },
+        { "text": "Crear nuevos hilos.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "¿Qué sucede si usas redirectOutput(new File(\"salida.txt\")) en un ProcessBuilder?",
+      "options": [
+        { "text": "La salida estándar del proceso será redirigida al archivo salida.txt.", "isCorrect": true },
+        { "text": "La salida estándar del proceso será redirigida a la consola.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "¿Qué necesitamos añadir a ProcessBuilder para que la clase Tabla se ejecute correctamente?",
+      "options": [
+        { "text": "Pasando 2 parámetros, -cp y la classpath usando System.getProperty.", "isCorrect": true },
+        { "text": "Compilar la clase Tabla en el archivo entrada.txt.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "¿Qué método en ProcessBuilder te permite redirigir la salida de errores del proceso a un archivo específico?",
+      "options": [
+        { "text": "redirectError()", "isCorrect": true },
+        { "text": "redirectFile()", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál es la función de la línea System.out.println(\"El proceso ha sido lanzado con éxito\"); en LanzadorTabla?",
+      "options": [
+        { "text": "Muestra mensaje en consola cuando el proceso ha sido lanzado con éxito.", "isCorrect": true },
+        { "text": "Es un mensaje que aparece solo si hay un error en la ejecución del proceso.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "¿Qué sucede si ProcessBuilder intenta ejecutar una clase que no se encuentra en el classpath especificado?",
+      "options": [
+        { "text": "Lanzará una excepción ClassNotFoundException.", "isCorrect": true },
+        { "text": "El proceso se ejecutará correctamente.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "¿Qué método de ProcessBuilder se usa para esperar que un proceso externo finalice antes de continuar con el código?",
+      "options": [
+        { "text": "waitFor()", "isCorrect": true },
+        { "text": "wait()", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "¿Qué es un protocolo de comunicación?",
+      "options": [
+        { "text": "Un conjunto de normas para la comunicación entre equipos.", "isCorrect": true },
+        { "text": "Una herramienta para configurar redes.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "¿Qué significa TCP/IP?",
+      "options": [
+        { "text": "Transmission Control Protocol / Internet Protocol.", "isCorrect": true },
+        { "text": "Transfer Connection Protocol / Internet Protocol.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "¿Qué protocolo permite la transferencia de archivos entre computadoras?",
+      "options": [
+        { "text": "FTP", "isCorrect": true },
+        { "text": "POP3", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "¿Qué característica tiene el protocolo FTP?",
+      "options": [
+        { "text": "Utiliza texto plano sin cifrado.", "isCorrect": true },
+        { "text": "Es totalmente seguro.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "¿Qué protocolo se utiliza para recibir correos electrónicos?",
+      "options": [
+        { "text": "POP3", "isCorrect": true },
+        { "text": "HTTP", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál es el propósito del protocolo SMTP?",
+      "options": [
+        { "text": "Enviar correos electrónicos.", "isCorrect": true },
+        { "text": "Descargar correos electrónicos.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "¿Qué protocolo permite manejar remotamente un equipo desde otro?",
+      "options": [
+        { "text": "Telnet", "isCorrect": true },
+        { "text": "FTP", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "¿Qué diferencia principal tiene HTTPS respecto a HTTP?",
+      "options": [
+        { "text": "HTTPS usa cifrado SSL/TLS.", "isCorrect": true },
+        { "text": "HTTPS es más lento.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "¿Qué método HTTP se usa para enviar parámetros en la URL?",
+      "options": [
+        { "text": "GET", "isCorrect": true },
+        { "text": "POST", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "¿Qué clase en Java se utiliza para representar un correo en formato MIME?",
+      "options": [
+        { "text": "MimeMessage", "isCorrect": true },
+        { "text": "Message", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "¿Qué propiedad en JavaMail habilita el uso de TLS?",
+      "options": [
+        { "text": "mail.smtp.starttls.enable", "isCorrect": true },
+        { "text": "mail.smtp.ssl.trust", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "¿Cuál es el protocolo principal que utilizan los servicios web para la comunicación entre máquinas?",
+      "options": [
+        { "text": "HTTP", "isCorrect": true },
+        { "text": "FTP", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "¿Qué lenguaje utiliza el protocolo SOAP para definir los mensajes de solicitud y respuesta?",
+      "options": [
+        { "text": "XML", "isCorrect": true },
+        { "text": "JavaScript", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Los servicios REST son de tipo \"stateless\". ¿Qué significa esto?",
+      "options": [
+        { "text": "El servidor no tiene información de las solicitudes anteriores del cliente.", "isCorrect": true },
+        { "text": "El servidor guarda toda la información del cliente.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "¿A través de qué elemento identifica un cliente un recurso inequívocamente en la red?",
+      "options": [
+        { "text": "Una URI (Uniform Resource Identifier).", "isCorrect": true },
+        { "text": "Una dirección MAC.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "¿Qué nomenclatura se utiliza en REST para identificar el formato de los datos (ej. text/html)?",
+      "options": [
+        { "text": "MIME", "isCorrect": true },
+        { "text": "URI", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "¿Qué código de respuesta HTTP obtenemos habitualmente cuando un recurso no es encontrado?",
+      "options": [
+        { "text": "404", "isCorrect": true },
+        { "text": "302", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "¿Cuál es una de las ventajas clave de los servicios RESTful?",
+      "options": [
+        { "text": "Separación de los datos del recurso y su representación.", "isCorrect": true },
+        { "text": "Unen permanentemente los datos a su representación.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "¿Cuál es el propósito principal de la herramienta JSON Server?",
+      "options": [
+        { "text": "Crear una API RESTful completa a partir de un archivo JSON.", "isCorrect": true },
+        { "text": "Gestionar bases de datos SQL relacionales.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "¿Qué requisitos previos son necesarios para instalar JSON-Server?",
+      "options": [
+        { "text": "Node.js y la herramienta npx.", "isCorrect": true },
+        { "text": "Java JDK 17 y Python.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "¿Cuál es el comando correcto para instalar JSON-Server en una carpeta de trabajo?",
+      "options": [
+        { "text": "npm install json-server", "isCorrect": true },
+        { "text": "npx start json-server", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "¿Cuál es el objetivo principal de la criptografía?",
+      "options": [
+        { "text": "Proteger la información frente a accesos no autorizados.", "isCorrect": true },
+        { "text": "Acelerar la transmisión de datos.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "¿De dónde proviene la palabra \"criptografía\"?",
+      "options": [
+        { "text": "De dos palabras griegas.", "isCorrect": true },
+        { "text": "Del latín técnico.", "isCorrect": false },
+        { "text": "Del árabe medieval.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "En un sistema cliente-servidor, ¿qué datos es más crítico proteger?",
+      "options": [
+        { "text": "Las credenciales del usuario.", "isCorrect": true },
+        { "text": "La dirección IP del servidor.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "¿Qué proceso vuelve ilegible la información para terceros?",
+      "options": [
+        { "text": "Encriptación.", "isCorrect": true },
+        { "text": "Autenticación.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "¿Cuál es la diferencia entre cifrar y descifrar?",
+      "options": [
+        { "text": "Cifrar protege la información y descifrar la recupera.", "isCorrect": true },
+        { "text": "Cifrar elimina datos y descifrar los recupera.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "¿Qué es un criptograma?",
+      "options": [
+        { "text": "Un mensaje cifrado.", "isCorrect": true },
+        { "text": "Un algoritmo de cifrado.", "isCorrect": false },
+        { "text": "Una clave secreta.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "El cifrado César es un ejemplo de cifrado por...",
+      "options": [
+        { "text": "Sustitución.", "isCorrect": true },
+        { "text": "Transposición.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "En el cifrado César, la clave se basa en...",
+      "options": [
+        { "text": "Un desplazamiento en el alfabeto.", "isCorrect": true },
+        { "text": "Dos números primos.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "¿Por qué se usa el operador módulo en el cifrado César?",
+      "options": [
+        { "text": "Para volver al inicio del alfabeto al llegar al final.", "isCorrect": true },
+        { "text": "Para mejorar la seguridad.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "¿Qué mejora el cifrado afín respecto al César?",
+      "options": [
+        { "text": "Utiliza una función matemática con dos valores.", "isCorrect": true },
+        { "text": "Funciona sin alfabeto.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "En el cifrado afín, la clave está formada por...",
+      "options": [
+        { "text": "Dos valores: a y b.", "isCorrect": true },
+        { "text": "Tres valores.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "¿Qué es la autenticación?",
+      "options": [
+        { "text": "Verificar la identidad de un usuario.", "isCorrect": true },
+        { "text": "Cifrar información.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "¿Por qué no es seguro guardar contraseñas en texto plano?",
+      "options": [
+        { "text": "Porque cualquiera que acceda puede leerlas.", "isCorrect": true },
+        { "text": "Porque no se pueden enviar por red.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "¿Qué aporta la autenticación de dos factores (2FA)?",
+      "options": [
+        { "text": "Añade una capa extra de seguridad.", "isCorrect": true },
+        { "text": "Sustituye al servidor.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "¿Qué API de Java se considera el \"pilar\" de la criptografía?",
+      "options": [
+        { "text": "JCA (Java Cryptography Architecture).", "isCorrect": true },
+        { "text": "JCE (Java Cryptography Extension).", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "¿Qué clase de Java es la encargada principal de realizar las operaciones de cifrado y descifrado?",
+      "options": [
+        { "text": "Cipher.", "isCorrect": true },
+        { "text": "KeyGenerator.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "¿Cuál es el tamaño efectivo de la clave en el algoritmo DES?",
+      "options": [
+        { "text": "56 bits.", "isCorrect": true },
+        { "text": "32 bits.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "¿Cuántos ciclos de transformación (rondas) realiza el algoritmo DES?",
+      "options": [
+        { "text": "16 ciclos.", "isCorrect": true },
+        { "text": "8 ciclos.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Para generar claves en un cifrado simétrico (como DES o AES), ¿qué clase de Java se utiliza?",
+      "options": [
+        { "text": "KeyGenerator.", "isCorrect": true },
+        { "text": "KeyPairGenerator.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "¿Cuál es el tamaño del bloque de información con el que opera el algoritmo AES?",
+      "options": [
+        { "text": "128 bits.", "isCorrect": true },
+        { "text": "64 bits.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "¿Qué longitudes de clave admite el estándar AES?",
+      "options": [
+        { "text": "128, 192 y 256 bits.", "isCorrect": true },
+        { "text": "1024 y 2048 bits.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Si indicas un algoritmo que no existe en Java, ¿qué excepción se lanza?",
+      "options": [
+        { "text": "NoSuchAlgorithmException.", "isCorrect": true },
+        { "text": "InvalidKeyException.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "¿Qué define principalmente al algoritmo RSA frente a DES o AES?",
+      "options": [
+        { "text": "Es asimétrico: usa una clave pública y una privada.", "isCorrect": true },
+        { "text": "No utiliza claves, solo hash.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "En RSA, ¿qué clave usas para cifrar un mensaje seguro para alguien?",
+      "options": [
+        { "text": "La clave pública del destinatario.", "isCorrect": true },
+        { "text": "La clave privada del destinatario.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "¿Qué clase de Java se utiliza para almacenar y gestionar certificados y claves de forma segura?",
+      "options": [
+        { "text": "KeyStore.", "isCorrect": true },
+        { "text": "Mac.", "isCorrect": false }
+      ]
+    }
+  ]

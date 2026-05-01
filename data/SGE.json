@@ -1,0 +1,1251 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué tipo de datos son aquellos que las empresas recopilan, pero no utilizan?",
+    "options": [
+      { "text": "Big data.", "isCorrect": false },
+      { "text": "Datos polvorientos.", "isCorrect": false },
+      { "text": "Dark data.", "isCorrect": true },
+      { "text": "Datos estructurados.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "¿Qué tipo de datos empresariales se generan a través de interacciones como compras, ventas y pagos?",
+    "options": [
+      { "text": "Datos de transacciones.", "isCorrect": true },
+      { "text": "Datos de interacción con el cliente.", "isCorrect": false },
+      { "text": "Datos de navegación web.", "isCorrect": false },
+      { "text": "Datos de redes sociales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál de las siguientes opciones corresponde a uno de los principales retos en la captura de datos empresariales?",
+    "options": [
+      { "text": "La homogeneidad de los formatos y fuentes de datos.", "isCorrect": false },
+      { "text": "El bajo volumen y la lentitud en la generación de datos.", "isCorrect": false },
+      { "text": "La facilidad para extraer y analizar datos no estructurados.", "isCorrect": false },
+      { "text": "La diversidad de formatos y fuentes de datos.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál de las siguientes opciones no es una tendencia actual en la captura de datos empresariales?",
+    "options": [
+      { "text": "Automatización y digitalización.", "isCorrect": false },
+      { "text": "Captura manual de datos.", "isCorrect": true },
+      { "text": "Integración de múltiples fuentes de datos.", "isCorrect": false },
+      { "text": "Enfoque en la calidad de los datos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Qué tecnología se utiliza para procesar y analizar grandes volúmenes de datos de manera distribuida?",
+    "options": [
+      { "text": "Tableau.", "isCorrect": false },
+      { "text": "Power BI.", "isCorrect": false },
+      { "text": "Hadoop.", "isCorrect": true },
+      { "text": "Microsoft Excel.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿Qué característica no es esencial en un KPI efectivo?",
+    "options": [
+      { "text": "Relevante.", "isCorrect": false },
+      { "text": "Medible.", "isCorrect": false },
+      { "text": "Complejo.", "isCorrect": true },
+      { "text": "Temporal.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál de las siguientes opciones es una herramienta común para el análisis de datos básico?",
+    "options": [
+      { "text": "Hadoop.", "isCorrect": false },
+      { "text": "Microsoft Excel.", "isCorrect": true },
+      { "text": "Spark", "isCorrect": false },
+      { "text": "Python", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "¿Qué es el análisis de la información empresarial?",
+    "options": [
+      { "text": "La recopilación de datos sin procesar.", "isCorrect": false },
+      { "text": "El proceso de examinar, limpiar y modelar datos para obtener información útil.", "isCorrect": true },
+      { "text": "La creación de informes financieros.", "isCorrect": false },
+      { "text": "La implementación de software de gestión empresarial.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿Qué tipo de datos incluye información sobre el rendimiento de equipos y el estado de activos?",
+    "options": [
+      { "text": "Datos de machine to machine (M2M).", "isCorrect": true },
+      { "text": "Datos biométricos.", "isCorrect": false },
+      { "text": "Dark data.", "isCorrect": false },
+      { "text": "Datos de redes sociales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es la función principal de un dashboard?",
+    "options": [
+      { "text": "Almacenar grandes cantidades de datos sin procesar.", "isCorrect": false },
+      { "text": "Realizar análisis estadísticos complejos.", "isCorrect": false },
+      { "text": "Presentar visualmente los KPI y otros datos relevantes.", "isCorrect": true },
+      { "text": "Automatizar la toma de decisiones empresariales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿Qué tipo de ISS utiliza la inteligencia artificial para simular el conocimiento de un experto?",
+    "options": [
+      { "text": "DSS.", "isCorrect": false },
+      { "text": "Sistemas expertos.", "isCorrect": true },
+      { "text": "MIS.", "isCorrect": false },
+      { "text": "ERP.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿Qué tecnología permite el acceso a DSS a través de Internet?",
+    "options": [
+      { "text": "Inteligencia artificial.", "isCorrect": false },
+      { "text": "Big data.", "isCorrect": false },
+      { "text": "Cloud computing.", "isCorrect": true },
+      { "text": "Visualización de datos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿En qué área se puede utilizar un DSS para el análisis de inversiones?",
+    "options": [
+      { "text": "Finanzas.", "isCorrect": true },
+      { "text": "Marketing.", "isCorrect": false },
+      { "text": "Recursos Humanos.", "isCorrect": false },
+      { "text": "Producción.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál de las siguientes opciones no es un componente principal de un DSS?",
+    "options": [
+      { "text": "Base de datos.", "isCorrect": false },
+      { "text": "Modelo.", "isCorrect": false },
+      { "text": "Interfaz de usuario.", "isCorrect": false },
+      { "text": "Sistema de gestión de proyectos.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál de los siguientes sistemas está diseñado específicamente para las necesidades de los altos ejecutivos?",
+    "options": [
+      { "text": "ERP.", "isCorrect": false },
+      { "text": "CRM.", "isCorrect": false },
+      { "text": "SCM.", "isCorrect": false },
+      { "text": "EIS.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "¿Qué significa DSS?",
+    "options": [
+      { "text": "Decision support system.", "isCorrect": true },
+      { "text": "Data storage system.", "isCorrect": false },
+      { "text": "Digital security system.", "isCorrect": false },
+      { "text": "Distributed software system.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál de los siguientes sistemas integra todas las áreas funcionales de una empresa en un solo sistema?",
+    "options": [
+      { "text": "CRM.", "isCorrect": false },
+      { "text": "ERP.", "isCorrect": true },
+      { "text": "EIS.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "¿Qué tipo de DSS utiliza modelos matemáticos o simulaciones?",
+    "options": [
+      { "text": "Basado en datos.", "isCorrect": false },
+      { "text": "Basado en modelos.", "isCorrect": true },
+      { "text": "Basado en conocimiento.", "isCorrect": false },
+      { "text": "Basado en la nube.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "¿Por qué es importante la gestión empresarial informatizada en el mundo actual?",
+    "options": [
+      { "text": "Permite a las empresas ser más competitivas.", "isCorrect": false },
+      { "text": "Facilita la toma de decisiones estratégicas.", "isCorrect": false },
+      { "text": "Optimiza las operaciones y reduce costos.", "isCorrect": false },
+      { "text": "Todas las anteriores.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál de las siguientes opciones no es una ventaja de utilizar un DSS?",
+    "options": [
+      { "text": "Mejora de la calidad de la toma de decisiones.", "isCorrect": false },
+      { "text": "Aumento de la complejidad.", "isCorrect": true },
+      { "text": "Reducción de riesgos.", "isCorrect": false },
+      { "text": "Mejora de la comunicación.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "¿Cuál es el objetivo principal de la exportación de datos en Odoo?",
+    "options": [
+      { "text": "Eliminar información del sistema.", "isCorrect": false },
+      { "text": "Extraer información para su análisis o uso en otras aplicaciones.", "isCorrect": true },
+      { "text": "Crear una copia de seguridad de la base de datos.", "isCorrect": false },
+      { "text": "Actualizar la información de los registros.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál de las siguientes opciones no es una forma de migrar datos a Odoo?",
+    "options": [
+      { "text": "Migración manual.", "isCorrect": false },
+      { "text": "Migración mediante archivos.", "isCorrect": false },
+      { "text": "Migración mediante correo electrónico.", "isCorrect": true },
+      { "text": "Migración mediante API.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "¿Qué tecnología utiliza Odoo para facilitar la interacción con la base de datos?",
+    "options": [
+      { "text": "API.", "isCorrect": false },
+      { "text": "MVC.", "isCorrect": false },
+      { "text": "ORM.", "isCorrect": true },
+      { "text": "Python.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "¿Cómo se llama la API que permite la integración de Odoo con otras aplicaciones?",
+    "options": [
+      { "text": "ORM.", "isCorrect": false },
+      { "text": "API.", "isCorrect": true },
+      { "text": "MVC.", "isCorrect": false },
+      { "text": "Python.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál de las siguientes opciones no es un módulo estándar de Odoo?",
+    "options": [
+      { "text": "Ventas.", "isCorrect": false },
+      { "text": "Recursos Humanos.", "isCorrect": false },
+      { "text": "Marketing digital.", "isCorrect": true },
+      { "text": "Fabricación.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "¿Cómo se garantiza la seguridad de los datos en Odoo?",
+    "options": [
+      { "text": "Mediante la encriptación de la base de datos.", "isCorrect": false },
+      { "text": "Mediante la definición de roles de usuario con diferentes niveles de acceso.", "isCorrect": true },
+      { "text": "A través de la implementación de firewalls.", "isCorrect": false },
+      { "text": "Con la utilización de contraseñas seguras.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "¿Qué tipo de archivos se pueden utilizar para importar datos a Odoo?",
+    "options": [
+      { "text": "Solo archivos XML.", "isCorrect": false },
+      { "text": "Archivos CSV y Excel.", "isCorrect": true },
+      { "text": "Únicamente archivos PDF.", "isCorrect": false },
+      { "text": "Archivos de texto plano (.txt).", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "¿Qué elemento de la interfaz de usuario de Odoo ofrece una vista general de la información más relevante para el usuario?",
+    "options": [
+      { "text": "Menú principal.", "isCorrect": false },
+      { "text": "Panel de control.", "isCorrect": true },
+      { "text": "Vistas de lista.", "isCorrect": false },
+      { "text": "Vistas de formulario.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "¿Qué lenguaje de programación se utiliza principalmente en el desarrollo de Odoo?",
+    "options": [
+      { "text": "Java.", "isCorrect": false },
+      { "text": "C++.", "isCorrect": false },
+      { "text": "Python.", "isCorrect": true },
+      { "text": "PHP.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "¿Qué permite la personalización en Odoo?",
+    "options": [
+      { "text": "Cambiar el logo de la empresa.", "isCorrect": false },
+      { "text": "Adaptar la interfaz y las funcionalidades a las necesidades de la empresa.", "isCorrect": true },
+      { "text": "Acceder a módulos ocultos.", "isCorrect": false },
+      { "text": "Modificar el código fuente de Odoo.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Si realizas una copia de seguridad utilizando la herramienta nativa de PostgreSQL, pg_dump, ¿qué componente crucial de Odoo debes respaldar por separado?",
+    "options": [
+      { "text": "El código fuente de los módulos personalizados.", "isCorrect": false },
+      { "text": "El archivo de configuración odoo.conf.", "isCorrect": false },
+      { "text": "El filestore (directorio de adjuntos/binarios).", "isCorrect": true },
+      { "text": "Los logs del servidor Odoo.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "¿Cuál es el nombre del archivo fundamental dentro de un directorio de módulo que describe sus metadatos, dependencias y archivos a cargar?",
+    "options": [
+      { "text": "__init__.py", "isCorrect": false },
+      { "text": "models.py", "isCorrect": false },
+      { "text": "__manifest__.py", "isCorrect": true },
+      { "text": "setup.py", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Al realizar una copia de seguridad (backup) desde la interfaz web de Odoo, ¿qué contiene el archivo.zip resultante?",
+    "options": [
+      { "text": "Solo el volcado SQL de la base de datos.", "isCorrect": false },
+      { "text": "Solo los archivos del filestore.", "isCorrect": false },
+      { "text": "El volcado SQL (dump.sql) y una copia del filestore.", "isCorrect": true },
+      { "text": "Únicamente los archivos XML de configuración.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "¿Qué operación del gestor de bases de datos web de Odoo es más útil para crear un entorno de pruebas (staging)?",
+    "options": [
+      { "text": "Backup Database.", "isCorrect": false },
+      { "text": "Restore Database.", "isCorrect": false },
+      { "text": "Create Database.", "isCorrect": false },
+      { "text": "Duplicate Database.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "¿Qué protege el acceso a las operaciones críticas en el gestor de bases de datos web?",
+    "options": [
+      { "text": "La contraseña del usuario administrador.", "isCorrect": false },
+      { "text": "La contraseña del usuario de PostgreSQL.", "isCorrect": false },
+      { "text": "La contraseña maestra (admin_passwd).", "isCorrect": true },
+      { "text": "Un certificado SSL.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "¿Cuál es el comando básico de docker-compose para iniciar los servicios en segundo plano?",
+    "options": [
+      { "text": "docker-compose start", "isCorrect": false },
+      { "text": "docker-compose run -d", "isCorrect": false },
+      { "text": "docker-compose build", "isCorrect": false },
+      { "text": "docker-compose up -d", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "¿Cuál es el propósito principal del directorio static/ dentro de un módulo Odoo?",
+    "options": [
+      { "text": "Contener archivos de datos XML.", "isCorrect": false },
+      { "text": "Contener archivos Python para lógica.", "isCorrect": false },
+      { "text": "Contener archivos estáticos (CSS, JS, imágenes).", "isCorrect": true },
+      { "text": "Contener archivos de traducción.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "¿Qué método de instalación proporciona el mayor nivel de aislamiento para Odoo?",
+    "options": [
+      { "text": "Desde el código fuente.", "isCorrect": false },
+      { "text": "Paquete .exe en Windows.", "isCorrect": false },
+      { "text": "Usando apt en Ubuntu.", "isCorrect": false },
+      { "text": "Mediante Docker/Docker Compose.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "¿Qué herramienta se usa comúnmente para instalar las dependencias Python de Odoo en Linux?",
+    "options": [
+      { "text": "apt", "isCorrect": false },
+      { "text": "git", "isCorrect": false },
+      { "text": "pip", "isCorrect": true },
+      { "text": "npm", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "¿Para qué se utiliza principalmente el directorio controllers/ en un módulo Odoo?",
+    "options": [
+      { "text": "Definir modelos persistentes.", "isCorrect": false },
+      { "text": "Definir vistas XML.", "isCorrect": false },
+      { "text": "Manejar peticiones HTTP y definir rutas web.", "isCorrect": true },
+      { "text": "Almacenar datos de demostración.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "¿Qué principio permite la interacción fluida y consistencia de datos entre módulos de Odoo?",
+    "options": [
+      { "text": "Sincronizaciones programadas.", "isCorrect": false },
+      { "text": "Una única base de datos compartida.", "isCorrect": true },
+      { "text": "Llamadas API internas complejas.", "isCorrect": false },
+      { "text": "Importación manual entre módulos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "¿Cuál es la forma recomendada de gestionar la cuenta de un usuario que deja la empresa?",
+    "options": [
+      { "text": "Eliminar permanentemente el registro.", "isCorrect": false },
+      { "text": "Cambiar contraseña a una aleatoria.", "isCorrect": false },
+      { "text": "Archivar el registro del usuario.", "isCorrect": true },
+      { "text": "Asignarlo al grupo público.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "¿Para qué es particularmente útil el modo desarrollador con assets?",
+    "options": [
+      { "text": "Acceder al menú Técnico.", "isCorrect": false },
+      { "text": "Mejorar el rendimiento del servidor.", "isCorrect": false },
+      { "text": "Depurar problemas de JavaScript o CSS.", "isCorrect": true },
+      { "text": "Crear nuevos tipos de usuarios.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "¿Qué elemento de la UI muestra enlaces rápidos a registros relacionados en otros módulos?",
+    "options": [
+      { "text": "El menú técnico.", "isCorrect": false },
+      { "text": "Las acciones automatizadas.", "isCorrect": false },
+      { "text": "Los botones inteligentes (smart buttons).", "isCorrect": true },
+      { "text": "Los informes QWeb.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "¿Cuál es uno de los principales riesgos de usar el modo desarrollador sin precaución?",
+    "options": [
+      { "text": "Ralentizar la carga de páginas.", "isCorrect": false },
+      { "text": "Recibir demasiadas notificaciones.", "isCorrect": false },
+      { "text": "Modificar o eliminar accidentalmente configuraciones críticas.", "isCorrect": true },
+      { "text": "Activar módulos de pago por error.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "El concepto de herencia (_inherit, <xpath>) se utiliza fundamentalmente para:",
+    "options": [
+      { "text": "Crear una copia exacta de un módulo.", "isCorrect": false },
+      { "text": "Modificar o extender modelos o vistas estándar.", "isCorrect": true },
+      { "text": "Conectar con bases de datos externas.", "isCorrect": false },
+      { "text": "Traducir la interfaz.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál de las siguientes opciones es una característica fundamental de Odoo?",
+    "options": [
+      { "text": "Es un sistema operativo.", "isCorrect": false },
+      { "text": "Funciona con módulos independientes sin conexión.", "isCorrect": false },
+      { "text": "Es una suite de aplicaciones empresariales modulares e integradas.", "isCorrect": true },
+      { "text": "Se enfoca únicamente en CRM.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "¿Qué herramienta de la versión Enterprise permite personalizaciones visuales sin código?",
+    "options": [
+      { "text": "Modo desarrollador.", "isCorrect": false },
+      { "text": "Módulos personalizados.", "isCorrect": false },
+      { "text": "Odoo Studio.", "isCorrect": true },
+      { "text": "API Externa.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "¿Qué atributo XML se usa para hacer un campo visible o invisible basándose en otros valores?",
+    "options": [
+      { "text": "widget.", "isCorrect": false },
+      { "text": "string.", "isCorrect": false },
+      { "text": "attrs.", "isCorrect": true },
+      { "text": "groups.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "El menú «Técnico» permite configurar elementos como:",
+    "options": [
+      { "text": "Preferencias de idioma y zona horaria.", "isCorrect": false },
+      { "text": "Logotipo y datos de la empresa.", "isCorrect": false },
+      { "text": "Modelos, vistas, acciones y grupos de seguridad.", "isCorrect": true },
+      { "text": "Objetivos de venta y comisiones.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "¿Qué módulos priorizaría una startup de servicios con presupuesto limitado en Fase 1?",
+    "options": [
+      { "text": "Fabricación, Mantenimiento y Calidad.", "isCorrect": false },
+      { "text": "Marketing por email, redes y eventos.", "isCorrect": false },
+      { "text": "CRM, Ventas, Proyectos, Hojas de horas y Contabilidad.", "isCorrect": true },
+      { "text": "Sitio web, blog y eLearning.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "¿Cuál es el principal mecanismo técnico para integraciones con sistemas externos?",
+    "options": [
+      { "text": "Exportación manual.", "isCorrect": false },
+      { "text": "API robusta (XML-RPC y JSON-RPC).", "isCorrect": true },
+      { "text": "Envío de correos entre sistemas.", "isCorrect": false },
+      { "text": "Documentación en PDF.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "¿Cuál es el principio más importante para una formación de usuarios efectiva?",
+    "options": [
+      { "text": "Que sea solo teórica.", "isCorrect": false },
+      { "text": "Que sea genérica para todos.", "isCorrect": false },
+      { "text": "Orientada al rol del usuario y procesos prácticos.", "isCorrect": true },
+      { "text": "Realizada meses antes del arranque.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "¿Cuál es el objetivo principal de implantar un ERP como Odoo?",
+    "options": [
+      { "text": "Reducir el número de empleados.", "isCorrect": false },
+      { "text": "Integrar procesos y mejorar la eficiencia operativa.", "isCorrect": true },
+      { "text": "Cumplir solo con obligaciones fiscales.", "isCorrect": false },
+      { "text": "Tener el software más moderno.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál es el objetivo principal de la migración de datos al implantar Odoo?",
+    "options": [
+      { "text": "Eliminar información histórica.", "isCorrect": false },
+      { "text": "Asegurar continuidad cargando datos relevantes (maestros/saldos).", "isCorrect": true },
+      { "text": "Probar la capacidad de importación.", "isCorrect": false },
+      { "text": "Entrenar en la introducción manual.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "¿Cuál es el momento más adecuado para la formación principal a usuarios finales?",
+    "options": [
+      { "text": "Al inicio del proyecto.", "isCorrect": false },
+      { "text": "Justo después del arranque.", "isCorrect": false },
+      { "text": "Cerca de la fecha de arranque (1-3 semanas antes).", "isCorrect": true },
+      { "text": "Seis meses después.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "«Generar presupuestos aplicando descuentos automáticos»: ¿qué tipo de requisito es?",
+    "options": [
+      { "text": "No funcional.", "isCorrect": false },
+      { "text": "Funcional.", "isCorrect": true },
+      { "text": "De datos.", "isCorrect": false },
+      { "text": "Regulatorio.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "¿Qué método es más recomendado para cargar volúmenes grandes de datos en la migración?",
+    "options": [
+      { "text": "Introducción manual.", "isCorrect": false },
+      { "text": "Herramienta nativa (CSV/Excel).", "isCorrect": false },
+      { "text": "Scripts personalizados vía API.", "isCorrect": true },
+      { "text": "Escribir directo en PostgreSQL.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "En la migración de datos, ¿qué son los datos maestros?",
+    "options": [
+      { "text": "Facturas abiertas solamente.", "isCorrect": false },
+      { "text": "Histórico de los últimos 10 años.", "isCorrect": false },
+      { "text": "Datos fundamentales estáticos (clientes, productos, plan contable).", "isCorrect": true },
+      { "text": "Logs de errores de importación.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Los pedidos de venta abiertos o facturas pendientes de cobro se consideran:",
+    "options": [
+      { "text": "Datos maestros.", "isCorrect": false },
+      { "text": "Requisitos no funcionales.", "isCorrect": false },
+      { "text": "Datos transaccionales abiertos.", "isCorrect": true },
+      { "text": "Requisitos regulatorios.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "¿Qué acción UI es necesaria para que un nuevo módulo aparezca en la lista?",
+    "options": [
+      { "text": "Vaciar caché del navegador.", "isCorrect": false },
+      { "text": "Copia de seguridad.", "isCorrect": false },
+      { "text": "Clic en «Actualizar lista de aplicaciones».", "isCorrect": true },
+      { "text": "Reinstalar el módulo base.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "¿Cuál es el propósito principal del ORM de Odoo?",
+    "options": [
+      { "text": "Definir estructura visual.", "isCorrect": false },
+      { "text": "Gestionar peticiones HTTP.", "isCorrect": false },
+      { "text": "Abstraer BBDD usando objetos Python en vez de SQL.", "isCorrect": true },
+      { "text": "Controlar permisos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "¿Qué decorador se usa en campos calculados para indicar dependencias?",
+    "options": [
+      { "text": "@api.constrains", "isCorrect": false },
+      { "text": "@api.onchange", "isCorrect": false },
+      { "text": "@api.depends", "isCorrect": true },
+      { "text": "@api.model", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "¿Qué registro conecta un modelo con sus vistas y define el acceso (menú)?",
+    "options": [
+      { "text": "ir.ui.view", "isCorrect": false },
+      { "text": "ir.model.access", "isCorrect": false },
+      { "text": "res.config.settings", "isCorrect": false },
+      { "text": "ir.actions.act_window", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "¿Cómo se hace accesible una acción de ventana desde la interfaz principal?",
+    "options": [
+      { "text": "Creando un controlador.", "isCorrect": false },
+      { "text": "Definiendo un campo calculado.", "isCorrect": false },
+      { "text": "Creando un registro ir.ui.menu.", "isCorrect": true },
+      { "text": "Añadiendo a ir.model.access.csv.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "¿Cómo se accede generalmente al entorno (env) dentro de un controlador?",
+    "options": [
+      { "text": "self.env", "isCorrect": false },
+      { "text": "odoo.http.environment", "isCorrect": false },
+      { "text": "request.env", "isCorrect": true },
+      { "text": "odoo.api.Environment", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "¿Qué vista muestra y edita detalles de un único registro?",
+    "options": [
+      { "text": "Vista Tree.", "isCorrect": false },
+      { "text": "Vista Form.", "isCorrect": true },
+      { "text": "Vista Search.", "isCorrect": false },
+      { "text": "Vista Kanban.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "En @http.route, ¿qué significa auth='public'?",
+    "options": [
+      { "text": "Solo administradores.", "isCorrect": false },
+      { "text": "Usuario interno logueado.", "isCorrect": false },
+      { "text": "Accesible por cualquier persona (público).", "isCorrect": true },
+      { "text": "Autenticación externa.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "¿Cómo se define una clase para un modelo persistente estándar?",
+    "options": [
+      { "text": "class MiModelo(models.TransientModel):", "isCorrect": false },
+      { "text": "class MiModelo(models.Model):", "isCorrect": true },
+      { "text": "class MiModelo(models.AbstractModel):", "isCorrect": false },
+      { "text": "class MiModelo(odoo.Model):", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "¿Qué mecanismo permite modificar vistas existentes sin redefinirlas?",
+    "options": [
+      { "text": "Herencia de modelos.", "isCorrect": false },
+      { "text": "Definición de controladores.", "isCorrect": false },
+      { "text": "Herencia de vistas (inherit_id y xpath).", "isCorrect": true },
+      { "text": "Acciones de ventana.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "¿En qué módulo se recomiendan las macros generales y UDF?",
+    "options": [
+      { "text": "Módulo de Hoja.", "isCorrect": false },
+      { "text": "Módulo ThisWorkbook.", "isCorrect": false },
+      { "text": "Módulo estándar.", "isCorrect": true },
+      { "text": "Módulo de clase.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "¿Cuál es incorrecta sobre las funciones definidas por usuario (UDF)?",
+    "options": [
+      { "text": "Usables en fórmulas de celdas.", "isCorrect": false },
+      { "text": "Se definen con Function.", "isCorrect": false },
+      { "text": "Modifican directamente el formato de otras celdas.", "isCorrect": true },
+      { "text": "Devuelven un valor al nombre de función.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "¿Qué propiedad de TextBox se usa para obtener su texto?",
+    "options": [
+      { "text": "Caption.", "isCorrect": false },
+      { "text": "Name.", "isCorrect": false },
+      { "text": "Value (o Text).", "isCorrect": true },
+      { "text": "ControlSource.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "¿Qué paso es fundamental para early binding con Outlook?",
+    "options": [
+      { "text": "Guardar como .xlsx.", "isCorrect": false },
+      { "text": "Referencia a Microsoft Outlook Object Library.", "isCorrect": true },
+      { "text": "Usar siempre CreateObject.", "isCorrect": false },
+      { "text": "Escribir en ThisWorkbook.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "¿Qué palabra clave declara una variable a nivel de módulo?",
+    "options": [
+      { "text": "Global.", "isCorrect": false },
+      { "text": "Static.", "isCorrect": false },
+      { "text": "Dim (o Private).", "isCorrect": true },
+      { "text": "Public.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "¿Beneficio clave de la automatización de procesos (BPA)?",
+    "options": [
+      { "text": "Aumento de complejidad.", "isCorrect": false },
+      { "text": "Reducción de errores y mejor eficiencia.", "isCorrect": true },
+      { "text": "Software adicional costoso.", "isCorrect": false },
+      { "text": "Más tiempo manual.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "¿Método para copiar gráfico de Excel a PowerPoint?",
+    "options": [
+      { "text": "ChartObject.TransferToPowerPoint.", "isCorrect": false },
+      { "text": "Chart.Copy y Slide.Shapes.Paste.", "isCorrect": true },
+      { "text": "PowerPoint.ImportExcelChart.", "isCorrect": false },
+      { "text": "Excel.ExportChartToSlide.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "¿Cómo hacer que una UDF sea volátil?",
+    "options": [
+      { "text": "Application.RecalculateNow", "isCorrect": false },
+      { "text": "Me.Volatile = True", "isCorrect": false },
+      { "text": "Application.Volatile", "isCorrect": true },
+      { "text": "Function.IsVolatile = True", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "¿Propósito de Application.ScreenUpdating = False?",
+    "options": [
+      { "text": "Bloquear usuario.", "isCorrect": false },
+      { "text": "Ocultar Excel.", "isCorrect": false },
+      { "text": "Acelerar ejecución evitando redibujar pantalla.", "isCorrect": true },
+      { "text": "Deshabilitar alertas.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "¿Propósito principal de un UserForm?",
+    "options": [
+      { "text": "Cálculos complejos.", "isCorrect": false },
+      { "text": "Interfaces gráficas personalizadas.", "isCorrect": true },
+      { "text": "Almacenar grandes datos.", "isCorrect": false },
+      { "text": "Grabar acciones.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "¿Ejemplo de aprendizaje supervisado?",
+    "options": [
+      { "text": "Agrupar clientes por comportamiento.", "isCorrect": false },
+      { "text": "Predecir precio de casa usando datos históricos con precios.", "isCorrect": true },
+      { "text": "Identificar temas en textos.", "isCorrect": false },
+      { "text": "Robot navegando laberinto.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "¿Estrategia para manejar outliers sin eliminarlos?",
+    "options": [
+      { "text": "Convertir a string.", "isCorrect": false },
+      { "text": "Reemplazar por la media.", "isCorrect": false },
+      { "text": "Capping/winsorizing o logarítmica.", "isCorrect": true },
+      { "text": "Ignorarlos siempre.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "¿Función y parámetro para heatmap con valores en celdas?",
+    "options": [
+      { "text": "sns.matrixplot(showvalues=True)", "isCorrect": false },
+      { "text": "sns.heatmap(annot=True)", "isCorrect": true },
+      { "text": "sns.correlationchart(text=True)", "isCorrect": false },
+      { "text": "sns.gridplot(displaynumbers=True)", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "¿Comando para borrar duplicados en el original?",
+    "options": [
+      { "text": "df.deleteduplicates(keep='first')", "isCorrect": false },
+      { "text": "df.uniquerows(keep='first')", "isCorrect": false },
+      { "text": "df.drop_duplicates(keep='first', inplace=True)", "isCorrect": true },
+      { "text": "df.removerepeats(keep='first')", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "¿Qué función da resumen estadístico rápido?",
+    "options": [
+      { "text": "df.summary()", "isCorrect": false },
+      { "text": "df.stats()", "isCorrect": false },
+      { "text": "df.describe()", "isCorrect": true },
+      { "text": "df.info()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "¿Gráfico para relación entre dos variables numéricas?",
+    "options": [
+      { "text": "Histograma.", "isCorrect": false },
+      { "text": "Gráfico de barras.", "isCorrect": false },
+      { "text": "Diagrama de dispersión.", "isCorrect": true },
+      { "text": "Diagrama de caja.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "¿Imputación robusta para columna con alta dispersión?",
+    "options": [
+      { "text": "Rellenar con cero.", "isCorrect": false },
+      { "text": "Rellenar con la media.", "isCorrect": false },
+      { "text": "Rellenar con la mediana.", "isCorrect": true },
+      { "text": "ffill.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "¿Para qué sirve sns.pairplot()?",
+    "options": [
+      { "text": "Un solo gráfico dispersión.", "isCorrect": false },
+      { "text": "Matriz de relaciones bivariadas de todos los pares.", "isCorrect": true },
+      { "text": "Gráfico de líneas temporal.", "isCorrect": false },
+      { "text": "Heatmap similitudes.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "¿En qué enfatizar ante audiencia ejecutiva?",
+    "options": [
+      { "text": "Matemática algoritmos.", "isCorrect": false },
+      { "text": "Desafíos limpieza.", "isCorrect": false },
+      { "text": "Insights, impacto (ROI) y recomendaciones.", "isCorrect": true },
+      { "text": "Código complejo.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "¿Convertir object a numérico con NaN para no numéricos?",
+    "options": [
+      { "text": "astype(float)", "isCorrect": false },
+      { "text": "pd.to_numeric(errors='coerce')", "isCorrect": true },
+      { "text": "change_type('float')", "isCorrect": false },
+      { "text": "float()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "¿Acción dashboard para resaltar marcas relacionadas?",
+    "options": [
+      { "text": "URL.", "isCorrect": false },
+      { "text": "Resaltado (highlight).", "isCorrect": true },
+      { "text": "Filtro.", "isCorrect": false },
+      { "text": "Ir a hoja.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "¿Qué es un dashboard en Tableau?",
+    "options": [
+      { "text": "Hoja con gráfico complejo.", "isCorrect": false },
+      { "text": "Archivo .twb.", "isCorrect": false },
+      { "text": "Colección de hojas y objetos en una única pantalla.", "isCorrect": true },
+      { "text": "Secuencia narrativa.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "¿Ventaja de extracto (Extract) sobre conexión Live?",
+    "options": [
+      { "text": "Actualizado tiempo real.", "isCorrect": false },
+      { "text": "Mejora rendimiento y permite trabajo offline.", "isCorrect": true },
+      { "text": "Altera BBDD original.", "isCorrect": false },
+      { "text": "Única forma nube.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "¿Para qué se usa una historia (Story)?",
+    "options": [
+      { "text": "Cálculos LOD.", "isCorrect": false },
+      { "text": "Nuevas fuentes.", "isCorrect": false },
+      { "text": "Guiar audiencia por narrativa secuencial.", "isCorrect": true },
+      { "text": "Seguridad.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "¿Paleta apropiada para categorías distintas?",
+    "options": [
+      { "text": "Secuencial.", "isCorrect": false },
+      { "text": "Categórica.", "isCorrect": true },
+      { "text": "Divergente.", "isCorrect": false },
+      { "text": "Grises.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "¿Qué se pierde al exportar a PDF?",
+    "options": [
+      { "text": "Colores.", "isCorrect": false },
+      { "text": "Interactividad dinámica.", "isCorrect": true },
+      { "text": "Resolución.", "isCorrect": false },
+      { "text": "Conexión origen.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "¿Ventaja clave de Tableau Server/Cloud?",
+    "options": [
+      { "text": "Gratuito comercial.", "isCorrect": false },
+      { "text": "Gestión centralizada, seguridad y actualizaciones.", "isCorrect": true },
+      { "text": "Solo estático.", "isCorrect": false },
+      { "text": "Sin licencias.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "¿Consideración en Tableau Public?",
+    "options": [
+      { "text": "Solo numéricos.", "isCorrect": false },
+      { "text": "Pago.", "isCorrect": false },
+      { "text": "Visualizaciones y datos visibles públicamente.", "isCorrect": true },
+      { "text": "Misma seguridad Server.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "¿A qué patrón de lectura se refiere guiar el ojo?",
+    "options": [
+      { "text": "Circular.", "isCorrect": false },
+      { "text": "Aleatorio.", "isCorrect": false },
+      { "text": "Patrón Z o F.", "isCorrect": true },
+      { "text": "Abajo-Arriba.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "¿Software gratuito para abrir archivos .twbx?",
+    "options": [
+      { "text": "Prep Builder.", "isCorrect": false },
+      { "text": "Server.", "isCorrect": false },
+      { "text": "Tableau Reader.", "isCorrect": true },
+      { "text": "Excel.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "¿Objetivo principal ERP?",
+    "options": [
+      { "text": "CRM solamente.", "isCorrect": false },
+      { "text": "SCM solamente.", "isCorrect": false },
+      { "text": "Integrar y centralizar todos los procesos.", "isCorrect": true },
+      { "text": "Marketing digital.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "¿Software para gestión de interacciones clientes?",
+    "options": [
+      { "text": "ERP.", "isCorrect": false },
+      { "text": "CRM.", "isCorrect": true },
+      { "text": "SCM.", "isCorrect": false },
+      { "text": "BI.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "¿Cual NO es fundamental en ERP moderno?",
+    "options": [
+      { "text": "Modularidad.", "isCorrect": false },
+      { "text": "Escalabilidad.", "isCorrect": false },
+      { "text": "Compatibilidad exclusiva con SO específico.", "isCorrect": true },
+      { "text": "Centralización.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "¿Qué representa un Módulo en Odoo?",
+    "options": [
+      { "text": "Servidor físico.", "isCorrect": false },
+      { "text": "Funcionalidad específica que extiende la base.", "isCorrect": true },
+      { "text": "BBDD principal.", "isCorrect": false },
+      { "text": "GUI.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "¿Cual NO es colección fundamental Python?",
+    "options": [
+      { "text": "List.", "isCorrect": false },
+      { "text": "Tuple.", "isCorrect": false },
+      { "text": "Object.", "isCorrect": true },
+      { "text": "Dictionary.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "¿Qué es el ORM?",
+    "options": [
+      { "text": "Diseño UI.", "isCorrect": false },
+      { "text": "Método para traducir objetos Python a BBDD y viceversa.", "isCorrect": true },
+      { "text": "Lenguaje Odoo.", "isCorrect": false },
+      { "text": "Capa seguridad.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "¿BBDD por defecto Odoo?",
+    "options": [
+      { "text": "MySQL.", "isCorrect": false },
+      { "text": "SQLite.", "isCorrect": false },
+      { "text": "PostgreSQL.", "isCorrect": true },
+      { "text": "MongoDB.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "¿Estructura ordenada y mutable Python?",
+    "options": [
+      { "text": "Tuple.", "isCorrect": false },
+      { "text": "Dictionary.", "isCorrect": false },
+      { "text": "Set.", "isCorrect": false },
+      { "text": "List.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "¿Módulo para leads y oportunidades?",
+    "options": [
+      { "text": "Sales.", "isCorrect": false },
+      { "text": "Accounting.", "isCorrect": false },
+      { "text": "CRM.", "isCorrect": true },
+      { "text": "Inventory.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "¿Usuario con acceso total inicial?",
+    "options": [
+      { "text": "Invitado.", "isCorrect": false },
+      { "text": "Ventas.", "isCorrect": false },
+      { "text": "Administrador.", "isCorrect": true },
+      { "text": "Almacén.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "¿Extensión modelos Odoo?",
+    "options": [
+      { "text": ".xml", "isCorrect": false },
+      { "text": ".js", "isCorrect": false },
+      { "text": ".py", "isCorrect": true },
+      { "text": ".css", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "¿Cual NO es componente principal Odoo?",
+    "options": [
+      { "text": "Modelos.", "isCorrect": false },
+      { "text": "Vistas.", "isCorrect": false },
+      { "text": "Controladores.", "isCorrect": false },
+      { "text": "Máquinas virtuales.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "¿Para qué sirve Pandas?",
+    "options": [
+      { "text": "UI.", "isCorrect": false },
+      { "text": "Cálculo científico.", "isCorrect": false },
+      { "text": "Manipulación datos tabulares (DataFrames).", "isCorrect": true },
+      { "text": "Juegos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "¿Archivo para apariencia formularios/listas?",
+    "options": [
+      { "text": ".js", "isCorrect": false },
+      { "text": ".py", "isCorrect": false },
+      { "text": ".xml", "isCorrect": true },
+      { "text": ".css", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "¿Inmutable y ordenada Python?",
+    "options": [
+      { "text": "List", "isCorrect": false },
+      { "text": "Set", "isCorrect": false },
+      { "text": "Dictionary", "isCorrect": false },
+      { "text": "Tuple", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "¿Módulo para stock y ubicaciones?",
+    "options": [
+      { "text": "Manufacturing.", "isCorrect": false },
+      { "text": "Purchase.", "isCorrect": false },
+      { "text": "Inventory.", "isCorrect": true },
+      { "text": "Project.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "¿Propósito principal sistema gestión?",
+    "options": [
+      { "text": "Contabilidad solamente.", "isCorrect": false },
+      { "text": "Eficiencia operativa y toma decisiones.", "isCorrect": true },
+      { "text": "Ventas online solamente.", "isCorrect": false },
+      { "text": "Almacenar documentos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "¿Qué significa modular?",
+    "options": [
+      { "text": "Solo en computadoras modulares.", "isCorrect": false },
+      { "text": "Aplicaciones activables según necesidad.", "isCorrect": true },
+      { "text": "Interfaz simple.", "isCorrect": false },
+      { "text": "Usuarios limitados.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "¿Cual NO es ventaja Community Edition?",
+    "options": [
+      { "text": "Código abierto.", "isCorrect": false },
+      { "text": "Personalización.", "isCorrect": false },
+      { "text": "Incluye nativas avanzadas (Enterprise).", "isCorrect": true },
+      { "text": "Comunidad activa.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "¿Rol odoo-bin?",
+    "options": [
+      { "text": "Config BBDD.", "isCorrect": false },
+      { "text": "Ejecutable principal servidor.", "isCorrect": true },
+      { "text": "Traducción.", "isCorrect": false },
+      { "text": "Instalador.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "¿Colección clave-valor Python?",
+    "options": [
+      { "text": "List.", "isCorrect": false },
+      { "text": "Tuple.", "isCorrect": false },
+      { "text": "Set.", "isCorrect": false },
+      { "text": "Dictionary.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "¿Módulo financiera y facturación?",
+    "options": [
+      { "text": "Sales.", "isCorrect": false },
+      { "text": "Purchase.", "isCorrect": false },
+      { "text": "Accounting.", "isCorrect": true },
+      { "text": "Manufacturing.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "¿Protocolo interfaz web?",
+    "options": [
+      { "text": "FTP.", "isCorrect": false },
+      { "text": "SSH.", "isCorrect": false },
+      { "text": "HTTP/HTTPS.", "isCorrect": true },
+      { "text": "SMTP.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "¿Proceso más beneficiado integración CRM-ERP?",
+    "options": [
+      { "text": "Producción.", "isCorrect": false },
+      { "text": "SCM.", "isCorrect": false },
+      { "text": "Lead a Pago.", "isCorrect": true },
+      { "text": "RRHH.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "¿Cuál es verdadera sobre módulos Odoo?",
+    "options": [
+      { "text": "Todos de pago.", "isCorrect": false },
+      { "text": "Solo equipo central.", "isCorrect": false },
+      { "text": "Se pueden desarrollar personalizados.", "isCorrect": true },
+      { "text": "No se pueden desinstalar.", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es el objetivo principal de la sincronización entre hilos?",
+    "options": [
+      { "text": "Reducir el uso de hilos en ejecución.", "isCorrect": false },
+      { "text": "Aumentar la velocidad de procesamiento.", "isCorrect": false },
+      { "text": "Garantizar acceso ordenado a recursos compartidos.", "isCorrect": true },
+      { "text": "Optimizar el uso de memoria.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "El método que bloquea un subproceso de un Thread es:",
+    "options": [
+      { "text": "run()", "isCorrect": false },
+      { "text": "create()", "isCorrect": false },
+      { "text": "join()", "isCorrect": true },
+      { "text": "setPriority()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "options": [
+      { "text": "Un hilo siempre se ejecuta de forma independiente al contexto de un proceso.", "isCorrect": false },
+      { "text": "Un hilo siempre se ejecuta dentro del contexto de un proceso.", "isCorrect": true },
+      { "text": "Un proceso siempre se ejecuta dentro del contexto de un hilo.", "isCorrect": false },
+      { "text": "Ninguna de las anteriores.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "¿Qué es una condición de carrera en el contexto de los hilos?",
+    "options": [
+      { "text": "Un mecanismo de sincronización de hilos.", "isCorrect": false },
+      { "text": "Un tipo de interbloqueo que se produce entre procesos.", "isCorrect": false },
+      { "text": "Una operación atómica que se ejecuta en paralelo.", "isCorrect": false },
+      { "text": "Un fenómeno donde los hilos compiten por recursos compartidos.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Qué ocurre con los recursos del sistema al añadir un hilo a un proceso existente?",
+    "options": [
+      { "text": "Se pierde eficiencia.", "isCorrect": false },
+      { "text": "Los recursos se comparten entre los hilos.", "isCorrect": true },
+      { "text": "Se asignan más recursos del sistema.", "isCorrect": false },
+      { "text": "El proceso se detiene.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿Cuál es una característica esencial que debe cumplir una solución al problema de la sección crítica?",
+    "options": [
+      { "text": "Permite que varios hilos accedan a la vez", "isCorrect": false },
+      { "text": "Exige que todos los hilos tengan la misma prioridad", "isCorrect": false },
+      { "text": "Garantiza la exclusión mutua", "isCorrect": true },
+      { "text": "Puede ser ignorada por algunos procesos", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Qué método se utiliza para crear un proceso nativo en el sistema operativo?",
+    "options": [
+      { "text": "Process.run()", "isCorrect": false },
+      { "text": "Thread.sleep()", "isCorrect": false },
+      { "text": "Thread.start()", "isCorrect": false },
+      { "text": "Runtime.exec()", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "En el contexto de los semáforos, ¿qué significa la operación wait?",
+    "options": [
+      { "text": "Suspender el proceso hasta que se libere un recurso.", "isCorrect": false },
+      { "text": "Liberar una instancia de un recurso.", "isCorrect": false },
+      { "text": "Aumentar el número de instancias disponibles.", "isCorrect": false },
+      { "text": "Reducir el número de instancias disponibles en uno.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Si decimos que el hilo se encuentra en espera de una operación de entrada/salida, su estado es:",
+    "options": [
+      { "text": "Concluido.", "isCorrect": false },
+      { "text": "Bloqueado.", "isCorrect": true },
+      { "text": "Nuevo.", "isCorrect": false },
+      { "text": "Ejecutable.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Se puede establecer la prioridad de cada Thread con:",
+    "options": [
+      { "text": "setThread()", "isCorrect": false },
+      { "text": "setFirst()", "isCorrect": false },
+      { "text": "setLast()", "isCorrect": false },
+      { "text": "setPriority()", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es una característica principal de los sockets datagram?",
+    "options": [
+      { "text": "Garantizan el orden de los mensajes.", "isCorrect": false },
+      { "text": "Son orientados a conexión.", "isCorrect": false },
+      { "text": "No garantizan la entrega de mensajes.", "isCorrect": true },
+      { "text": "Utilizan el protocolo TCP.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál es el propósito del método accept() en la clase ServerSocket?",
+    "options": [
+      { "text": "Enviar datos al cliente.", "isCorrect": false },
+      { "text": "Cerrar el servidor.", "isCorrect": false },
+      { "text": "Aceptar una conexión entrante de un cliente.", "isCorrect": true },
+      { "text": "Obtener la dirección IP del cliente.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿Qué método se utiliza para cerrar el flujo de entrada en un Socket?",
+    "options": [
+      { "text": "close()", "isCorrect": false },
+      { "text": "shutdownOutput()", "isCorrect": false },
+      { "text": "isInputShutdown()", "isCorrect": false },
+      { "text": "shutdownInput()", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál es la función principal de la clase ServerSocket en Java?",
+    "options": [
+      { "text": "Manejo de hilos de ejecución.", "isCorrect": false },
+      { "text": "Escuchar y aceptar conexiones entrantes de clientes.", "isCorrect": true },
+      { "text": "Envío de datos a través de una red.", "isCorrect": false },
+      { "text": "Cifrado de información transmitida.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es el primer paso en una operación de escritura de datos?",
+    "options": [
+      { "text": "Leer los datos.", "isCorrect": false },
+      { "text": "Escribir los datos.", "isCorrect": false },
+      { "text": "Cerrar el flujo de datos.", "isCorrect": false },
+      { "text": "Abrir el flujo de datos.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "¿Qué método de la clase Socket se utiliza para obtener el flujo de salida de datos?",
+    "options": [
+      { "text": "getInetAddress()", "isCorrect": false },
+      { "text": "getPort()", "isCorrect": false },
+      { "text": "getInputStream()", "isCorrect": false },
+      { "text": "getOutputStream()", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "¿En qué tipo de aplicaciones se utilizan principalmente los stream sockets?",
+    "options": [
+      { "text": "Aplicaciones de mensajería instantánea.", "isCorrect": false },
+      { "text": "Aplicaciones de juegos en línea.", "isCorrect": false },
+      { "text": "Aplicaciones de transmisión de vídeo.", "isCorrect": false },
+      { "text": "Aplicaciones distribuidas cliente-servidor.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "¿Qué comando se utiliza en el símbolo del sistema para obtener la dirección IP local?",
+    "options": [
+      { "text": "ping", "isCorrect": false },
+      { "text": "ipconfig", "isCorrect": true },
+      { "text": "netstat", "isCorrect": false },
+      { "text": "tracert", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "¿Qué representa un socket en la comunicación entre dos procesos?",
+    "options": [
+      { "text": "Un protocolo de red.", "isCorrect": false },
+      { "text": "Un extremo de un canal de datos.", "isCorrect": true },
+      { "text": "Un tipo de datos binarios.", "isCorrect": false },
+      { "text": "Una dirección IP.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál de los siguientes protocolos utilizan los sockets stream?",
+    "options": [
+      { "text": "TCP", "isCorrect": true },
+      { "text": "UDP", "isCorrect": false },
+      { "text": "HTTP", "isCorrect": false },
+      { "text": "FTP", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "¿Qué método se utiliza para obtener el flujo de salida de un socket en Java?",
+    "options": [
+      { "text": "receiveStream()", "isCorrect": false },
+      { "text": "getOutputStream()", "isCorrect": true },
+      { "text": "getInputStream()", "isCorrect": false },
+      { "text": "sendStream()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál de las siguientes NO es una ventaja de un servidor multihilo?",
+    "options": [
+      { "text": "Escalabilidad.", "isCorrect": false },
+      { "text": "Mayor latencia.", "isCorrect": true },
+      { "text": "Optimización del rendimiento.", "isCorrect": false },
+      { "text": "Robusteza.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "En la arquitectura de un servidor multihilo, ¿qué función tiene el hilo principal?",
+    "options": [
+      { "text": "Administrar el pool de hilos.", "isCorrect": false },
+      { "text": "Gestionar las solicitudes de los clientes existentes.", "isCorrect": false },
+      { "text": "Esperar nuevas conexiones y aceptar solicitudes de clientes.", "isCorrect": true },
+      { "text": "Ejecutar operaciones de entrada/salida para los hilos secundarios.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "¿Cuál es una de las condiciones para que un servidor pueda atender múltiples clientes de manera eficiente?",
+    "options": [
+      { "text": "Limitar el número de hilos disponibles.", "isCorrect": false },
+      { "text": "Bloquear nuevas solicitudes hasta que se termine la actual.", "isCorrect": false },
+      { "text": "Atender nuevas solicitudes con la mayor prontitud posible.", "isCorrect": true },
+      { "text": "Procesar solicitudes en orden secuencial sin paralelismo.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "¿Qué método se utiliza en la clase ServerSocket para aceptar una conexión entrante?",
+    "options": [
+      { "text": "listen()", "isCorrect": false },
+      { "text": "connect()", "isCorrect": false },
+      { "text": "bind()", "isCorrect": false },
+      { "text": "accept()", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "¿Qué garantiza que una nueva solicitud no interrumpa una que ya está en proceso en un servidor multihilo?",
+    "options": [
+      { "text": "El uso de sockets stream.", "isCorrect": false },
+      { "text": "La reducción de la latencia.", "isCorrect": false },
+      { "text": "La implementación de la interfaz Runnable.", "isCorrect": false },
+      { "text": "El manejo de cada cliente mediante un hilo de ejecución autónomo.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "¿Cuál de las siguientes clases en Java se utiliza para que un servidor escuche solicitudes de conexión?",
+    "options": [
+      { "text": "Socket", "isCorrect": false },
+      { "text": "SSLServerSocket", "isCorrect": false },
+      { "text": "SSLSocket", "isCorrect": false },
+      { "text": "ServerSocket", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es el método que se debe llamar para iniciar la ejecución de un hilo en Java?",
+    "options": [
+      { "text": "connect()", "isCorrect": false },
+      { "text": "execute()", "isCorrect": false },
+      { "text": "run()", "isCorrect": true },
+      { "text": "begin()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "¿Qué instancia se crea en el servidor para cada cliente que realiza una petición de conexión?",
+    "options": [
+      { "text": "Una nueva instancia de InputStream.", "isCorrect": false },
+      { "text": "Una nueva instancia de OutputStream.", "isCorrect": false },
+      { "text": "Una nueva instancia de ServerSocket.", "isCorrect": false },
+      { "text": "Una nueva instancia de Socket.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "En una arquitectura cliente-servidor, ¿qué clase utiliza el cliente para solicitar una conexión?",
+    "options": [
+      { "text": "SSLServerSocket", "isCorrect": false },
+      { "text": "ServerSocket", "isCorrect": false },
+      { "text": "Socket", "isCorrect": true },
+      { "text": "SSLSocket", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "¿Cómo se realiza la configuración de la clase Session en JavaMail?",
+    "options": [
+      { "text": "A través de la clase Properties.", "isCorrect": true },
+      { "text": "Mediante archivos XML.", "isCorrect": false },
+      { "text": "Con argumentos de línea de comandos.", "isCorrect": false },
+      { "text": "Usando variables de entorno.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "¿Qué ocurre cuando un objeto cliente invoca un método remoto?",
+    "options": [
+      { "text": "El método se ejecuta directamente en el servidor sin mensajes.", "isCorrect": false },
+      { "text": "El método es almacenado para su ejecución futura.", "isCorrect": false },
+      { "text": "El método y sus argumentos se convierten en un mensaje que se envía al servidor.", "isCorrect": true },
+      { "text": "El método se ejecuta localmente en el cliente.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "¿Cuál es la función principal de la biblioteca JavaMail?",
+    "options": [
+      { "text": "Administrar bases de datos.", "isCorrect": false },
+      { "text": "Gestionar conexiones de red.", "isCorrect": false },
+      { "text": "Implementar clientes de correo Java.", "isCorrect": true },
+      { "text": "Crear interfaces gráficas de usuario.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "¿Qué significa HTTP?",
+    "options": [
+      { "text": "Hypertext Transmission Protocol", "isCorrect": false },
+      { "text": "Hypertext Transfer Process", "isCorrect": false },
+      { "text": "Hyper Transfer Text Protocol", "isCorrect": false },
+      { "text": "Hypertext Transfer Protocol", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "¿Cuál es el rol del proceso servidor en RMI?",
+    "options": [
+      { "text": "Registrar las actividades del cliente.", "isCorrect": false },
+      { "text": "Convertir métodos en mensajes.", "isCorrect": false },
+      { "text": "Compartir objetos cuyos métodos pueden ser invocados remotamente.", "isCorrect": true },
+      { "text": "Gestionar la interfaz de usuario.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "¿Qué documento especifica la información del protocolo HTTP?",
+    "options": [
+      { "text": "RFC-7540", "isCorrect": false },
+      { "text": "RFC-2616", "isCorrect": true },
+      { "text": "RFC-7231", "isCorrect": false },
+      { "text": "RFC-1945", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "¿Qué clase de Java se utiliza para representar una conexión a un servicio HTTP?",
+    "options": [
+      { "text": "NetworkConnection", "isCorrect": false },
+      { "text": "HTTPConnection", "isCorrect": false },
+      { "text": "URLConnection", "isCorrect": true },
+      { "text": "HttpClient", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "¿Cuál es el puerto habitual vinculado al servicio WWW?",
+    "options": [
+      { "text": "22", "isCorrect": false },
+      { "text": "80", "isCorrect": true },
+      { "text": "443", "isCorrect": false },
+      { "text": "21", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "¿Qué protocolo utiliza el servicio WWW para el tráfico de páginas web?",
+    "options": [
+      { "text": "FTP", "isCorrect": false },
+      { "text": "HTTP", "isCorrect": true },
+      { "text": "SMTP", "isCorrect": false },
+      { "text": "DNS", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "¿Qué significa RMI en el contexto de la programación distribuida?",
+    "options": [
+      { "text": "Random Method Interface.", "isCorrect": false },
+      { "text": "Remote Memory Invocation.", "isCorrect": false },
+      { "text": "Remote Module Integration.", "isCorrect": false },
+      { "text": "Remote Method Invocation.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "En el proceso de verificación de una firma digital, ¿cuál de los siguientes elementos NO se utiliza?",
+    "options": [
+      { "text": "El mensaje por verificar.", "isCorrect": false },
+      { "text": "La función hash aplicada al mensaje.", "isCorrect": false },
+      { "text": "La clave pública correspondiente a la firma.", "isCorrect": false },
+      { "text": "La clave privada utilizada para generar la firma.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "¿Cuál es el propósito principal de SSH en entornos de red?",
+    "options": [
+      { "text": "Transferir archivos de manera segura.", "isCorrect": false },
+      { "text": "Cifrar correos electrónicos.", "isCorrect": false },
+      { "text": "Aumentar la velocidad de conexión a Internet.", "isCorrect": false },
+      { "text": "Proveer acceso remoto seguro a sistemas.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "¿Qué elemento se utiliza para verificar una firma digital?",
+    "options": [
+      { "text": "La clave privada.", "isCorrect": false },
+      { "text": "La clave pública.", "isCorrect": true },
+      { "text": "El certificado del servidor.", "isCorrect": false },
+      { "text": "El resumen hash generado durante la firma.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "¿Cuál de las siguientes características es propia de HTTPS?",
+    "options": [
+      { "text": "Permite el acceso directo al hardware del servidor.", "isCorrect": false },
+      { "text": "Cifra los datos transmitidos, asegurando confidencialidad, integridad y autenticidad.", "isCorrect": true },
+      { "text": "Reduce la velocidad de la conexión por sobrecarga de cifrado.", "isCorrect": false },
+      { "text": "Utiliza únicamente algoritmos de cifrado simétrico.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "¿Qué es una función hash en el contexto de control de acceso?",
+    "options": [
+      { "text": "Un algoritmo para cifrar datos de manera reversible.", "isCorrect": false },
+      { "text": "Un algoritmo que transforma datos de longitud variable en una cadena de longitud fija.", "isCorrect": true },
+      { "text": "Un protocolo para dividir archivos en partes iguales.", "isCorrect": false },
+      { "text": "Una técnica para generar claves asimétricas.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "¿Qué versión del algoritmo SHA está compuesta por variantes que generan resúmenes de 224, 256, 384 o 512 bits?",
+    "options": [
+      { "text": "SHA", "isCorrect": false },
+      { "text": "SHA-1", "isCorrect": false },
+      { "text": "SHA-2", "isCorrect": true },
+      { "text": "SHA-3", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "¿Qué ventaja aporta el uso de RSA en la creación de certificados digitales?",
+    "options": [
+      { "text": "Permite cifrar mensajes utilizando la clave pública, abriendo un canal seguro.", "isCorrect": true },
+      { "text": "Reduce la longitud del resumen hash.", "isCorrect": false },
+      { "text": "Simplifica el proceso de generación del resumen hash.", "isCorrect": false },
+      { "text": "Elimina la necesidad de una firma digital.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "¿Cuál de los siguientes algoritmos produce un resumen hash de 160 bits?",
+    "options": [
+      { "text": "MD5", "isCorrect": false },
+      { "text": "SHA-1", "isCorrect": true },
+      { "text": "AES", "isCorrect": false },
+      { "text": "RSA", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál es la diferencia principal entre FTPS y SFTP?",
+    "options": [
+      { "text": "FTPS utiliza SSL para cifrar y SFTP se basa en SSH.", "isCorrect": true },
+      { "text": "SFTP es una versión mejorada de FTPS.", "isCorrect": false },
+      { "text": "FTPS y SFTP son protocolos idénticos en funcionamiento.", "isCorrect": false },
+      { "text": "SFTP utiliza SSL y FTPS utiliza SSH.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "En el proceso de firma digital, ¿cuál es el propósito de cifrar el resumen hash con la clave privada?",
+    "options": [
+      { "text": "Crear una firma digital que acredite la autoría y garantice el no repudio.", "isCorrect": true },
+      { "text": "Comprimir el mensaje original.", "isCorrect": false },
+      { "text": "Cifrar el mensaje completo para su confidencialidad.", "isCorrect": false },
+      { "text": "Generar una nueva clave pública para la verificación.", "isCorrect": false }
+    ]
+  }
+]

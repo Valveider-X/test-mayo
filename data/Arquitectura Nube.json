@@ -1,0 +1,1490 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué modelo de servicio permite a los usuarios desplegar aplicaciones sin gestionar la infraestructura subyacente?",
+    "options": [
+      { "text": "IaaS", "isCorrect": false },
+      { "text": "PaaS", "isCorrect": true },
+      { "text": "SaaS", "isCorrect": false },
+      { "text": "VPN", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "¿Qué implica la optimización de costos en la nube?",
+    "options": [
+      { "text": "Utilizar más servidores físicos.", "isCorrect": false },
+      { "text": "Pagar tarifas fijas mensuales.", "isCorrect": false },
+      { "text": "Uso eficiente de recursos evitando gastos innecesarios.", "isCorrect": true },
+      { "text": "Minimizar el rendimiento.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál NO es uno de los tipos de modelos de servicio en la nube?",
+    "options": [
+      { "text": "IaaS", "isCorrect": false },
+      { "text": "PaaS", "isCorrect": false },
+      { "text": "SaaS", "isCorrect": false },
+      { "text": "LaaS", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es una ventaja clave del diseño modular en la nube?",
+    "options": [
+      { "text": "Depender de servidores monolíticos.", "isCorrect": false },
+      { "text": "Flexibilidad y escalabilidad del sistema.", "isCorrect": true },
+      { "text": "Uso de software local.", "isCorrect": false },
+      { "text": "Restricción en crecimiento de aplicaciones.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Qué modelo permite a los usuarios consumir aplicaciones completas por suscripción?",
+    "options": [
+      { "text": "IaaS", "isCorrect": false },
+      { "text": "SaaS", "isCorrect": true },
+      { "text": "DevOps", "isCorrect": false },
+      { "text": "Edge Computing", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿Qué beneficio ofrece el monitoreo proactivo?",
+    "options": [
+      { "text": "Detectar fallos solo después de ocurrir.", "isCorrect": false },
+      { "text": "Programar mantenimiento anual.", "isCorrect": false },
+      { "text": "Detectar problemas antes de afectar al usuario.", "isCorrect": true },
+      { "text": "Aumentar latencia.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál de los siguientes es un ejemplo de plataforma como servicio (PaaS)?",
+    "options": [
+      { "text": "Amazon EC2", "isCorrect": false },
+      { "text": "AWS Lambda", "isCorrect": false },
+      { "text": "Google App Engine", "isCorrect": true },
+      { "text": "Google Drive", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "¿Qué es una zona de disponibilidad?",
+    "options": [
+      { "text": "Un tipo de usuario con permisos especiales.", "isCorrect": false },
+      { "text": "Un clúster de datos cifrados.", "isCorrect": false },
+      { "text": "Una ubicación física aislada dentro de una región.", "isCorrect": true },
+      { "text": "Una red privada en la nube.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿Qué herramienta se usa para monitorear recursos en AWS?",
+    "options": [
+      { "text": "Azure DevOps.", "isCorrect": false },
+      { "text": "CloudWatch.", "isCorrect": true },
+      { "text": "Kubernetes.", "isCorrect": false },
+      { "text": "IAM.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Qué práctica está alineada con la seguridad en capas?",
+    "options": [
+      { "text": "Autenticación multifactorial.", "isCorrect": true },
+      { "text": "Backups cada hora.", "isCorrect": false },
+      { "text": "Scripting de despliegue.", "isCorrect": false },
+      { "text": "Latencia baja.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál de las siguientes es una ventaja principal del uso de máquinas virtuales?",
+    "options": [
+      { "text": "Mayor consumo energético.", "isCorrect": false },
+      { "text": "Menor seguridad.", "isCorrect": false },
+      { "text": "Aislamiento y flexibilidad.", "isCorrect": true },
+      { "text": "Incompatibilidad de software.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿Qué componente permite automatizar el aprovisionamiento de software en una VM?",
+    "options": [
+      { "text": "Firewall", "isCorrect": false },
+      { "text": "User data script / cloud-init", "isCorrect": true },
+      { "text": "CPU adicional", "isCorrect": false },
+      { "text": "Dirección IP pública", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿Qué elemento se puede usar para lanzar muchas VM con la misma configuración?",
+    "options": [
+      { "text": "Un bucket S3", "isCorrect": false },
+      { "text": "Una red privada", "isCorrect": false },
+      { "text": "Una imagen o plantilla de VM", "isCorrect": true },
+      { "text": "Un volumen en frío", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál es una ventaja clave del bootstrapping en VM?",
+    "options": [
+      { "text": "Requiere hardware específico.", "isCorrect": false },
+      { "text": "Disminuye la escalabilidad.", "isCorrect": false },
+      { "text": "Permite configuración automática posdespliegue.", "isCorrect": true },
+      { "text": "Aumenta el tiempo de arranque.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Qué medida de seguridad puede aplicarse a las VM en nube?",
+    "options": [
+      { "text": "Cambio de proveedor diario.", "isCorrect": false },
+      { "text": "Grupos de seguridad o firewalls virtuales.", "isCorrect": true },
+      { "text": "Borrado de datos sin cifrar.", "isCorrect": false },
+      { "text": "Compartir claves por correo.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "¿Qué significa aprovisionamiento automatizado?",
+    "options": [
+      { "text": "Crear infraestructura manualmente.", "isCorrect": false },
+      { "text": "Reutilizar componentes físicos.", "isCorrect": false },
+      { "text": "Crear recursos automáticamente con scripts o plantillas.", "isCorrect": true },
+      { "text": "No documentar nada.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "¿Qué herramienta de AWS permite estimar el costo mensual de máquinas virtuales?",
+    "options": [
+      { "text": "EC2 Mapper.", "isCorrect": false },
+      { "text": "AWS Budget Planner.", "isCorrect": false },
+      { "text": "AWS Pricing Calculator.", "isCorrect": true },
+      { "text": "Amazon Cost Viewer.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "¿Qué implica la alta disponibilidad en una arquitectura cloud?",
+    "options": [
+      { "text": "Suspender procesos en días festivos.", "isCorrect": false },
+      { "text": "Costes más bajos.", "isCorrect": false },
+      { "text": "Disposición para tolerar fallos sin pérdida de servicio.", "isCorrect": true },
+      { "text": "Uso de solo una zona.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "¿Qué significa escalar horizontalmente?",
+    "options": [
+      { "text": "Aumentar RAM en una VM.", "isCorrect": false },
+      { "text": "Cambiar a otro proveedor.", "isCorrect": false },
+      { "text": "Añadir más instancias de VM.", "isCorrect": true },
+      { "text": "Apagar todas las VM.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "¿Qué herramienta gráfica se usa para crear VM en AWS?",
+    "options": [
+      { "text": "Azure Portal", "isCorrect": false },
+      { "text": "Google Forms", "isCorrect": false },
+      { "text": "AWS Management Console", "isCorrect": true },
+      { "text": "EC2 Toolkit", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "¿Qué modelo es mejor para almacenar fotos en una aplicación?",
+    "options": [
+      { "text": "Bloques.", "isCorrect": false },
+      { "text": "Objetos.", "isCorrect": true },
+      { "text": "Archivos.", "isCorrect": false },
+      { "text": "Temporales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál es una ventaja principal del almacenamiento en la nube?",
+    "options": [
+      { "text": "Mayor uso de papel.", "isCorrect": false },
+      { "text": "Acceso limitado.", "isCorrect": false },
+      { "text": "Escalabilidad automática.", "isCorrect": true },
+      { "text": "Requiere hardware local.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "¿Cuál es una solución de caché de Azure?",
+    "options": [
+      { "text": "Azure Storage.", "isCorrect": false },
+      { "text": "Azure Queue.", "isCorrect": false },
+      { "text": "Azure Blob Cache.", "isCorrect": false },
+      { "text": "Azure Cache for Redis.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "¿Qué característica destaca en el almacenamiento en la nube?",
+    "options": [
+      { "text": "Requiere discos físicos.", "isCorrect": false },
+      { "text": "Tiene espacio limitado.", "isCorrect": false },
+      { "text": "Permite acceso distribuido y seguro.", "isCorrect": true },
+      { "text": "No ofrece redundancia.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "¿Qué unidad usa el almacenamiento de objetos?",
+    "options": [
+      { "text": "Bloques.", "isCorrect": false },
+      { "text": "Directorios.", "isCorrect": false },
+      { "text": "Objetos con metadatos.", "isCorrect": true },
+      { "text": "Segmentos de caché.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "¿Qué componente forma parte de una CDN?",
+    "options": [
+      { "text": "Nodo de monitoreo.", "isCorrect": false },
+      { "text": "Centro de datos central.", "isCorrect": false },
+      { "text": "Punto de presencia (PoP).", "isCorrect": true },
+      { "text": "Nodo de acceso directo.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "¿Qué define al almacenamiento por bloques?",
+    "options": [
+      { "text": "Archivos completos organizados por carpetas.", "isCorrect": false },
+      { "text": "Datos almacenados como objetos.", "isCorrect": false },
+      { "text": "Dividir los datos en bloques individuales.", "isCorrect": true },
+      { "text": "Solo disponible en redes locales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "¿Qué protocolo se usa comúnmente en almacenamiento de archivos en red?",
+    "options": [
+      { "text": "TCP.", "isCorrect": false },
+      { "text": "HTTP.", "isCorrect": false },
+      { "text": "NFS o SMB.", "isCorrect": true },
+      { "text": "SSH.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "¿Qué significa un caché hit?",
+    "options": [
+      { "text": "Falló en la caché.", "isCorrect": false },
+      { "text": "Se encontró el dato en caché.", "isCorrect": true },
+      { "text": "Sobrecarga del sistema.", "isCorrect": false },
+      { "text": "Expiración forzada.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "¿Qué tipo de base de datos se recomienda para datos relacionales con integridad referencial?",
+    "options": [
+      { "text": "NoSQL.", "isCorrect": false },
+      { "text": "SQL relacional.", "isCorrect": true },
+      { "text": "Almacenamiento de objetos.", "isCorrect": false },
+      { "text": "Blockchain.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "¿Cuál de los siguientes factores ayuda a mejorar la seguridad de una base de datos en la nube?",
+    "options": [
+      { "text": "Reducir el número de usuarios.", "isCorrect": false },
+      { "text": "Cifrar los datos en tránsito y en reposo.", "isCorrect": true },
+      { "text": "Desactivar los logs.", "isCorrect": false },
+      { "text": "Usar contraseñas simples.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "¿Cuál es una ventaja de usar Sharding en bases de datos NoSQL?",
+    "options": [
+      { "text": "Mejora la seguridad.", "isCorrect": false },
+      { "text": "Permite distribuir datos en múltiples nodos para escalar.", "isCorrect": true },
+      { "text": "Elimina la necesidad de indexación.", "isCorrect": false },
+      { "text": "Solo funciona con PostgreSQL", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "¿Qué ventaja principal ofrecen las bases de datos como servicio (DBaaS)?",
+    "options": [
+      { "text": "Requieren configuración manual del hardware.", "isCorrect": false },
+      { "text": "Implican licencias de software complejas.", "isCorrect": false },
+      { "text": "El proveedor gestiona mantenimiento, escalabilidad y disponibilidad.", "isCorrect": true },
+      { "text": "Solo se usan con bases de datos relacionales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "¿Cuál de las siguientes es una base de datos relacional en la nube?",
+    "options": [
+      { "text": "Amazon DynamoDB", "isCorrect": false },
+      { "text": "Amazon RDS", "isCorrect": true },
+      { "text": "MongoDB Atlas", "isCorrect": false },
+      { "text": "Redis", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "¿Qué significa un servicio administrado de base de datos?",
+    "options": [
+      { "text": "El cliente debe configurar y mantener todo.", "isCorrect": false },
+      { "text": "El proveedor se encarga de parches, backups y escalado.", "isCorrect": true },
+      { "text": "Solo está disponible para bases de datos NoSQL.", "isCorrect": false },
+      { "text": "No admite consultas complejas.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "¿Qué herramienta ofrece AWS para migrar bases de datos a la nube?",
+    "options": [
+      { "text": "CloudWatch.", "isCorrect": false },
+      { "text": "CloudTrail.", "isCorrect": false },
+      { "text": "AWS Database Migration Service (DMS).", "isCorrect": true },
+      { "text": "EC2.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "¿Qué técnica permite mantener sincronizados los datos entre diferentes regiones?",
+    "options": [
+      { "text": "Compresión.", "isCorrect": false },
+      { "text": "Encriptación.", "isCorrect": false },
+      { "text": "Replicación geográfica.", "isCorrect": true },
+      { "text": "Sharding.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "¿Qué tipo de datos son más apropiados para una base de datos NoSQL?",
+    "options": [
+      { "text": "Tablas relacionales normalizadas.", "isCorrect": false },
+      { "text": "Datos estructurados con relaciones complejas.", "isCorrect": false },
+      { "text": "Datos semiestructurados o sin esquema fijo.", "isCorrect": true },
+      { "text": "Transacciones financieras ACID.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "¿Qué diferencia a Cloud Spanner de otras bases de datos relacionales?",
+    "options": [
+      { "text": "Solo está disponible en local.", "isCorrect": false },
+      { "text": "Es relacional y distribuida globalmente con consistencia fuerte.", "isCorrect": true },
+      { "text": "No soporta SQL.", "isCorrect": false },
+      { "text": "Es una base clave-valor.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "¿Qué característica distingue a una subred privada?",
+    "options": [
+      { "text": "No puede lanzar instancias EC2", "isCorrect": false },
+      { "text": "Tiene acceso a Internet por defecto", "isCorrect": false },
+      { "text": "No tiene una ruta hacia un Internet Gateway", "isCorrect": true },
+      { "text": "Usa direcciones IPv6", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "¿Qué define la dirección IP de una instancia EC2 en una subred?",
+    "options": [
+      { "text": "Tipo de VPC", "isCorrect": false },
+      { "text": "Gateway", "isCorrect": false },
+      { "text": "Rango CIDR de la subred", "isCorrect": true },
+      { "text": "NAT Gateway", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "¿Cuál es el propósito principal de una tabla de rutas en una VPC?",
+    "options": [
+      { "text": "Autenticar tráfico.", "isCorrect": false },
+      { "text": "Encriptar datos.", "isCorrect": false },
+      { "text": "Definir cómo enrutar el tráfico.", "isCorrect": true },
+      { "text": "Almacenar registros.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "¿Dónde se aplican por separado las reglas de entrada y salida?",
+    "options": [
+      { "text": "Security Groups", "isCorrect": false },
+      { "text": "NAT Gateways", "isCorrect": false },
+      { "text": "Internet Gateways", "isCorrect": false },
+      { "text": "NACL", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "¿Cómo se define una ruta en una tabla de rutas?",
+    "options": [
+      { "text": "Origen y destino", "isCorrect": false },
+      { "text": "Destino y objetivo", "isCorrect": true },
+      { "text": "Subred y puerta de enlace", "isCorrect": false },
+      { "text": "ACL y protocolo", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "¿Cuál es una ventaja del VPC Peering?",
+    "options": [
+      { "text": "Compartir subredes entre VPC", "isCorrect": false },
+      { "text": "Encriptar automáticamente todo el tráfico", "isCorrect": false },
+      { "text": "Comunicación directa sin pasar por Internet", "isCorrect": true },
+      { "text": "Escalar automáticamente las VPC", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "¿Qué servicio proporciona IP públicas fijas reutilizables?",
+    "options": [
+      { "text": "NAT Gateway", "isCorrect": false },
+      { "text": "Elastic IP", "isCorrect": true },
+      { "text": "Route Table", "isCorrect": false },
+      { "text": "Subnet", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "¿Qué recurso se necesita para permitirle a una instancia EC2 privada acceder a Internet?",
+    "options": [
+      { "text": "Internet gateway", "isCorrect": false },
+      { "text": "Elastic IP", "isCorrect": false },
+      { "text": "NAT Gateway", "isCorrect": true },
+      { "text": "Route Table", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "¿Qué protocolo se usa habitualmente en una conexión VPN Site-to-Site?",
+    "options": [
+      { "text": "TCP/IP", "isCorrect": false },
+      { "text": "HTTP", "isCorrect": false },
+      { "text": "IPsec", "isCorrect": true },
+      { "text": "FTP", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál de las siguientes opciones describe mejor una subred pública?",
+    "options": [
+      { "text": "No permite acceso a Internet.", "isCorrect": false },
+      { "text": "Tiene una ruta a un internet gateway.", "isCorrect": true },
+      { "text": "Solo permite tráfico entre VPC.", "isCorrect": false },
+      { "text": "Utiliza exclusivamente IPv6.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "¿Qué práctica mejora la seguridad en la autenticación de usuarios?",
+    "options": [
+      { "text": "Uso de credenciales root.", "isCorrect": false },
+      { "text": "Contraseñas simples.", "isCorrect": false },
+      { "text": "Activar MFA (autenticación multifactor).", "isCorrect": true },
+      { "text": "Uso compartido de usuarios.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "¿Qué ventaja ofrece dividir permisos entre varias cuentas en AWS Organizations?",
+    "options": [
+      { "text": "Gestión única de logs.", "isCorrect": false },
+      { "text": "Mejor aislamiento de seguridad y facturación.", "isCorrect": true },
+      { "text": "Permisos automáticos.", "isCorrect": false },
+      { "text": "Recursos compartidos por defecto.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "¿Qué característica tiene un entorno multicuenta en la nube?",
+    "options": [
+      { "text": "Solo se gestiona una cuenta.", "isCorrect": false },
+      { "text": "Permite separar recursos por equipos o departamentos.", "isCorrect": true },
+      { "text": "Elimina la necesidad de roles.", "isCorrect": false },
+      { "text": "Comparte credenciales entre cuentas.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "¿Qué servicio AWS ofrece recomendaciones de seguridad?",
+    "options": [
+      { "text": "Lambda.", "isCorrect": false },
+      { "text": "IAM.", "isCorrect": false },
+      { "text": "AWS Trusted Advisor.", "isCorrect": true },
+      { "text": "Route 53.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "¿Qué recomienda AWS para administrar múltiples cuentas de forma segura?",
+    "options": [
+      { "text": "Usar la raíz en cada una.", "isCorrect": false },
+      { "text": "Compartir credenciales.", "isCorrect": false },
+      { "text": "Aplicar SCP y usar cuentas de propósito limitado.", "isCorrect": true },
+      { "text": "No usar roles.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "¿Qué herramienta permite registrar quién accede y qué hace en AWS?",
+    "options": [
+      { "text": "Inspector.", "isCorrect": false },
+      { "text": "CloudTrail.", "isCorrect": true },
+      { "text": "WAF.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "¿Qué tipo de acceso controla IAM en máquinas virtuales EC2?",
+    "options": [
+      { "text": "Solo red.", "isCorrect": false },
+      { "text": "Acceso mediante roles asociados a instancias.", "isCorrect": true },
+      { "text": "Solo consola.", "isCorrect": false },
+      { "text": "Acceso físico.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "¿Qué es necesario para federar usuarios de una empresa a AWS?",
+    "options": [
+      { "text": "Contrato físico.", "isCorrect": false },
+      { "text": "Proveedor de identidad compatible (SAML, AD, etc.).", "isCorrect": true },
+      { "text": "VPN.", "isCorrect": false },
+      { "text": "IP pública.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "¿Qué mecanismo proporciona AWS para la autenticación y autorización?",
+    "options": [
+      { "text": "S3.", "isCorrect": false },
+      { "text": "IAM.", "isCorrect": true },
+      { "text": "CloudWatch.", "isCorrect": false },
+      { "text": "Route 53.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "¿Qué servicio permite gestionar múltiples cuentas en AWS?",
+    "options": [
+      { "text": "AWS Organizations.", "isCorrect": true },
+      { "text": "IAM.", "isCorrect": false },
+      { "text": "CloudTrail.", "isCorrect": false },
+      { "text": "Config.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "¿Cuál es una ventaja clave de usar CloudWatch Dashboards?",
+    "options": [
+      { "text": "Lanzar instancias desde una interfaz gráfica.", "isCorrect": false },
+      { "text": "Visualizar métricas en tiempo real.", "isCorrect": true },
+      { "text": "Escanear vulnerabilidades.", "isCorrect": false },
+      { "text": "Encriptar datos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál es el objetivo principal del balanceador de carga (ALB) en AWS?",
+    "options": [
+      { "text": "Ejecutar bases de datos.", "isCorrect": false },
+      { "text": "Distribuir el tráfico entre múltiples instancias.", "isCorrect": true },
+      { "text": "Almacenar archivos.", "isCorrect": false },
+      { "text": "Gestionar funciones Lambda.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "¿Qué servicio proporciona métricas y alarmas para recursos de AWS?",
+    "options": [
+      { "text": "CloudWatch.", "isCorrect": true },
+      { "text": "CloudFormation.", "isCorrect": false },
+      { "text": "CloudTrail.", "isCorrect": false },
+      { "text": "Route 53.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "¿Cuál es una práctica recomendada al usar múltiples zonas de disponibilidad?",
+    "options": [
+      { "text": "Ejecutar todo en una sola zona.", "isCorrect": false },
+      { "text": "Desactivar el balanceador.", "isCorrect": false },
+      { "text": "Replicar recursos entre zonas.", "isCorrect": true },
+      { "text": "Usar una sola subred.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "¿Cuál de los siguientes es un tipo de Load Balancer en AWS?",
+    "options": [
+      { "text": "Application Load Balancer.", "isCorrect": true },
+      { "text": "Storage Load Balancer.", "isCorrect": false },
+      { "text": "Elastic Monitor.", "isCorrect": false },
+      { "text": "IAM Load Manager.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "¿Qué opción permite escalar una base de datos RDS automáticamente?",
+    "options": [
+      { "text": "Almacenamiento autoescalable.", "isCorrect": true },
+      { "text": "EC2 Auto Scaling.", "isCorrect": false },
+      { "text": "DynamoDB.", "isCorrect": false },
+      { "text": "Elastic Beanstalk.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "¿Qué servicio de AWS puede notificar cuando una métrica alcanza un umbral?",
+    "options": [
+      { "text": "EC2.", "isCorrect": false },
+      { "text": "CloudWatch + SNS.", "isCorrect": true },
+      { "text": "RDS.", "isCorrect": false },
+      { "text": "ELB.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "¿Cuál es una métrica típica que se usa para activar escalado automático en EC2?",
+    "options": [
+      { "text": "Espacio en disco.", "isCorrect": false },
+      { "text": "Utilización de CPU.", "isCorrect": true },
+      { "text": "Latencia de red.", "isCorrect": false },
+      { "text": "Número de logs.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "¿Qué recurso de AWS se configura para definir umbrales y respuestas ante eventos?",
+    "options": [
+      { "text": "EC2 Dashboard.", "isCorrect": false },
+      { "text": "IAM Policy.", "isCorrect": false },
+      { "text": "CloudWatch Alarms.", "isCorrect": true },
+      { "text": "S3 Lifecycle.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "¿Cuál de los siguientes permite visualizar el rendimiento de tus instancias EC2?",
+    "options": [
+      { "text": "IAM.", "isCorrect": false },
+      { "text": "CloudWatch.", "isCorrect": true },
+      { "text": "ELB.", "isCorrect": false },
+      { "text": "VPC.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "¿Qué comando de Terraform crea un archivo de estado de infraestructura?",
+    "options": [
+      { "text": "Terraform validate.", "isCorrect": false },
+      { "text": "Terraform apply.", "isCorrect": true },
+      { "text": "Terraform refresh.", "isCorrect": false },
+      { "text": "Terraform destroy.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "¿Cuál es un beneficio directo del uso de plantillas IaC?",
+    "options": [
+      { "text": "Incremento de costes.", "isCorrect": false },
+      { "text": "Reutilización y consistencia en los entornos.", "isCorrect": true },
+      { "text": "Eliminación de logs.", "isCorrect": false },
+      { "text": "Mayor dependencia del proveedor.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "¿Para qué se utiliza CloudFormation?",
+    "options": [
+      { "text": "Automatizar pruebas.", "isCorrect": false },
+      { "text": "Crear contenedores.", "isCorrect": false },
+      { "text": "Desplegar infraestructura en AWS.", "isCorrect": true },
+      { "text": "Monitorizar servicios.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "¿Cuál es el propósito del archivo .gitlab-ci.yml?",
+    "options": [
+      { "text": "Crear contenedores.", "isCorrect": false },
+      { "text": "Desplegar manualmente.", "isCorrect": false },
+      { "text": "Definir los pipelines de GitLab CI/CD.", "isCorrect": true },
+      { "text": "Subir artefactos a GitHub.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "¿Cuál es uno de los principales beneficios de automatizar la infraestructura?",
+    "options": [
+      { "text": "Reducción de errores manuales.", "isCorrect": true },
+      { "text": "Mayor complejidad operativa.", "isCorrect": false },
+      { "text": "Necesidad de más personal.", "isCorrect": false },
+      { "text": "Aumento del tiempo de despliegue.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Ejemplo de pipeline de CI/CD completo:",
+    "options": [
+      { "text": "Crear buckets en S3.", "isCorrect": false },
+      { "text": "Ejecutar tests, construir imagen Docker y desplegarla.", "isCorrect": true },
+      { "text": "Añadir un usuario IAM.", "isCorrect": false },
+      { "text": "Crear una base de datos en consola.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "¿Qué se consigue al integrar pruebas automatizadas en el pipeline?",
+    "options": [
+      { "text": "Más lentitud.", "isCorrect": false },
+      { "text": "Pérdida de control.", "isCorrect": false },
+      { "text": "Detectar errores antes del despliegue.", "isCorrect": true },
+      { "text": "Ejecutar scripts manuales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "¿En qué consiste un despliegue inmutable?",
+    "options": [
+      { "text": "Los servidores se actualizan en caliente.", "isCorrect": false },
+      { "text": "Se modifican las instancias activas.", "isCorrect": false },
+      { "text": "Las versiones se reemplazan por completo sin modificar las existentes.", "isCorrect": true },
+      { "text": "No hay rollback posible.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "¿Cuál es el propósito de usar un repositorio Git en CI/CD?",
+    "options": [
+      { "text": "Ejecutar scripts Bash.", "isCorrect": false },
+      { "text": "Guardar imágenes Docker.", "isCorrect": false },
+      { "text": "Versionar el código y activar pipelines con cambios.", "isCorrect": true },
+      { "text": "Crear scripts YAML.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "¿Con qué finalidad se usa el comando terraform plan?",
+    "options": [
+      { "text": "Mostrar los cambios que se aplicarían sin ejecutarlos.", "isCorrect": true },
+      { "text": "Eliminar recursos.", "isCorrect": false },
+      { "text": "Configurar IAM.", "isCorrect": false },
+      { "text": "Instalar Terraform.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "¿Qué ventaja tienen los contenedores frente a las máquinas virtuales?",
+    "options": [
+      { "text": "Mayor consumo de recursos.", "isCorrect": false },
+      { "text": "Menor peso y mayor portabilidad.", "isCorrect": true },
+      { "text": "Requieren más configuración.", "isCorrect": false },
+      { "text": "No pueden ejecutarse en la nube.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "¿Qué herramienta se utiliza para contenerizar aplicaciones en arquitecturas modernas?",
+    "options": [
+      { "text": "Docker.", "isCorrect": true },
+      { "text": "RabbitMQ.", "isCorrect": false },
+      { "text": "Flask.", "isCorrect": false },
+      { "text": "AWS SNS.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "¿Qué patrón de diseño se utiliza para manejar eventos en arquitecturas desacopladas?",
+    "options": [
+      { "text": "Publicación-suscripción.", "isCorrect": true },
+      { "text": "Circuit Breaker.", "isCorrect": false },
+      { "text": "Singleton.", "isCorrect": false },
+      { "text": "Proxy.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "¿Qué ventaja tienen los microservicios frente a los monolitos?",
+    "options": [
+      { "text": "Menor complejidad inicial.", "isCorrect": false },
+      { "text": "Escalabilidad independiente por servicio.", "isCorrect": true },
+      { "text": "Menor necesidad de DevOps.", "isCorrect": false },
+      { "text": "Uso exclusivo de un lenguaje de programación.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "¿Qué característica define a las funciones serverless?",
+    "options": [
+      { "text": "Persistencia de estado.", "isCorrect": false },
+      { "text": "Ejecución breve y sin estado.", "isCorrect": true },
+      { "text": "Uso exclusivo de contenedores.", "isCorrect": false },
+      { "text": "Requieren infraestructura dedicada.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "¿Qué herramienta facilita la integración de funciones serverless con API?",
+    "options": [
+      { "text": "Docker.", "isCorrect": false },
+      { "text": "RabbitMQ.", "isCorrect": false },
+      { "text": "API Gateway.", "isCorrect": true },
+      { "text": "Kubernetes.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "¿Qué herramienta se utiliza para gestionar infraestructura como código?",
+    "options": [
+      { "text": "Docker.", "isCorrect": false },
+      { "text": "RabbitMQ.", "isCorrect": false },
+      { "text": "Terraform.", "isCorrect": true },
+      { "text": "Kubernetes.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "¿Qué ventaja tienen las arquitecturas basadas en eventos?",
+    "options": [
+      { "text": "Reducen la necesidad de almacenamiento.", "isCorrect": false },
+      { "text": "Permiten una comunicación asíncrona eficiente.", "isCorrect": true },
+      { "text": "Eliminan la necesidad de API.", "isCorrect": false },
+      { "text": "Requieren menos servidores.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "¿Qué ventaja principal ofrecen las arquitecturas serverless?",
+    "options": [
+      { "text": "Mayor control sobre la infraestructura.", "isCorrect": false },
+      { "text": "Escalabilidad automática y mínima gestión.", "isCorrect": true },
+      { "text": "Reducción de la latencia en servicios.", "isCorrect": false },
+      { "text": "Uso exclusivo de contenedores.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "¿Qué herramienta se utiliza para implementar pipelines de CI/CD?",
+    "options": [
+      { "text": "Docker.", "isCorrect": false },
+      { "text": "RabbitMQ.", "isCorrect": false },
+      { "text": "Jenkins.", "isCorrect": true },
+      { "text": "Kubernetes.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "¿Qué patrón se basa en mantener una infraestructura mínima lista para escalar en un desastre?",
+    "options": [
+      { "text": "Pilot Light.", "isCorrect": true },
+      { "text": "Warm Standby.", "isCorrect": false },
+      { "text": "Full Restore.", "isCorrect": false },
+      { "text": "Hot Standby.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "¿Qué patrón implica recuperación desde respaldos?",
+    "options": [
+      { "text": "Backup and Restore.", "isCorrect": true },
+      { "text": "Warm Standby.", "isCorrect": false },
+      { "text": "Active-Passive.", "isCorrect": false },
+      { "text": "Replicación cruzada.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "¿Cuál es el beneficio de las pruebas de recuperación periódicas?",
+    "options": [
+      { "text": "Evitar el uso de firewalls.", "isCorrect": false },
+      { "text": "Validar que los procedimientos funcionen correctamente.", "isCorrect": true },
+      { "text": "Reducir el costo del backup.", "isCorrect": false },
+      { "text": "Crear nuevas cuentas en AWS.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "¿Qué el propósito de una comprobación de salud en Route 53?",
+    "options": [
+      { "text": "Validar DNS inverso.", "isCorrect": false },
+      { "text": "Detectar si un endpoint está disponible.", "isCorrect": true },
+      { "text": "Crear zonas privadas.", "isCorrect": false },
+      { "text": "Cambiar el TTL.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "¿Qué tipo de servicio de base de datos es más tolerante a fallos?",
+    "options": [
+      { "text": "RDS Single-AZ.", "isCorrect": false },
+      { "text": "DynamoDB sin replicación.", "isCorrect": false },
+      { "text": "RDS Multi-AZ.", "isCorrect": true },
+      { "text": "RDS con backups manuales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "¿Qué técnica evita la pérdida de datos manteniendo copias sincronizadas?",
+    "options": [
+      { "text": "Snapshots.", "isCorrect": false },
+      { "text": "Sharding.", "isCorrect": false },
+      { "text": "Replicación de datos.", "isCorrect": true },
+      { "text": "Minificación.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "¿Cuál de las siguientes opciones es más rápida en tiempo de recuperación?",
+    "options": [
+      { "text": "Backup and Restore.", "isCorrect": false },
+      { "text": "Pilot Light.", "isCorrect": false },
+      { "text": "Warm Standby.", "isCorrect": false },
+      { "text": "Hot Standby.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "¿Qué significa RPO?",
+    "options": [
+      { "text": "Tiempo que tarda un backup.", "isCorrect": false },
+      { "text": "Nivel de uso del disco.", "isCorrect": false },
+      { "text": "Punto máximo de datos que se puede perder en un fallo.", "isCorrect": true },
+      { "text": "Costo por segundo de caída.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "¿Qué solución se usaría para lograr failover geográfico?",
+    "options": [
+      { "text": "ALB con listeners.", "isCorrect": false },
+      { "text": "S3 Intelligent Tiering.", "isCorrect": false },
+      { "text": "Route 53 con registros de failover.", "isCorrect": true },
+      { "text": "CloudWatch Logs.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "¿Qué ventaja principal aporta usar infraestructura como código en recuperación?",
+    "options": [
+      { "text": "Requiere más personal.", "isCorrect": false },
+      { "text": "Reduce el rendimiento.", "isCorrect": false },
+      { "text": "Automatiza y acelera la reconstrucción de entornos.", "isCorrect": true },
+      { "text": "Aumenta el tráfico.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "¿Qué modelo de servicio en la nube ofrece el mayor control al usuario sobre la infraestructura?",
+    "options": [
+      { "text": "IaaS.", "isCorrect": true },
+      { "text": "SaaS.", "isCorrect": false },
+      { "text": "PaaS.", "isCorrect": false },
+      { "text": "FaaS.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "¿Cuál de las siguientes tecnologías se considera precursora de la computación en la nube moderna?",
+    "options": [
+      { "text": "Contenedores.", "isCorrect": false },
+      { "text": "Virtualización", "isCorrect": true },
+      { "text": "Inteligencia artificial.", "isCorrect": false },
+      { "text": "Web 3.0.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "¿Qué tipo de nube proporciona recursos compartidos entre múltiples clientes?",
+    "options": [
+      { "text": "Nube pública.", "isCorrect": true },
+      { "text": "Nube privada.", "isCorrect": false },
+      { "text": "Nube híbrida.", "isCorrect": false },
+      { "text": "Nube dedicada.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "¿Qué proveedor lanzó el servicio Google App Engine como ejemplo de PaaS?",
+    "options": [
+      { "text": "Google.", "isCorrect": true },
+      { "text": "Amazon.", "isCorrect": false },
+      { "text": "Microsoft.", "isCorrect": false },
+      { "text": "IBM.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "¿Qué componente es responsable de ejecutar múltiples VM sobre un servidor físico?",
+    "options": [
+      { "text": "VPC.", "isCorrect": false },
+      { "text": "Hipervisor.", "isCorrect": true },
+      { "text": "Orquestador.", "isCorrect": false },
+      { "text": "Agente de red.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "¿Cuál de los siguientes es un servicio de almacenamiento de objetos?",
+    "options": [
+      { "text": "Amazon EBS.", "isCorrect": false },
+      { "text": "Azure Disk.", "isCorrect": false },
+      { "text": "Azure SQL.", "isCorrect": false },
+      { "text": "Amazon S3.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "¿Qué modelo NoSQL está optimizado para relaciones entre entidades?",
+    "options": [
+      { "text": "Clave-valor.", "isCorrect": false },
+      { "text": "Documental.", "isCorrect": false },
+      { "text": "Columnar.", "isCorrect": false },
+      { "text": "Grafos.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "¿Cuál es un riesgo de depender exclusivamente de una plantilla de VM no actualizada?",
+    "options": [
+      { "text": "Obsolescencia y vulnerabilidades.", "isCorrect": true },
+      { "text": "Latencia.", "isCorrect": false },
+      { "text": "Multitenencia.", "isCorrect": false },
+      { "text": "Escalabilidad.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "¿Cuál de estos aspectos se relaciona con el pilar de desempeño del Well-Architected Framework?",
+    "options": [
+      { "text": "Backups.", "isCorrect": false },
+      { "text": "Redundancia.", "isCorrect": false },
+      { "text": "Seguridad en capas.", "isCorrect": false },
+      { "text": "Escalabilidad dinámica.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "¿Qué herramienta usa AWS para gestionar la configuración inicial de una VM al arrancar?",
+    "options": [
+      { "text": "Ansible.", "isCorrect": false },
+      { "text": "User Data.", "isCorrect": true },
+      { "text": "EC2 Boot Manager.", "isCorrect": false },
+      { "text": "AWS Vault.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "¿Qué componente permite replicar datos de forma síncrona para consulta en lectura?",
+    "options": [
+      { "text": "Sharding.", "isCorrect": false },
+      { "text": "Snapshot.", "isCorrect": false },
+      { "text": "Réplica de lectura.", "isCorrect": true },
+      { "text": "Indexador.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "¿Cuál es una ventaja clave del almacenamiento en bloques?",
+    "options": [
+      { "text": "Acceso mediante URL.", "isCorrect": false },
+      { "text": "Organización jerárquica.", "isCorrect": false },
+      { "text": "Metadatos personalizados.", "isCorrect": false },
+      { "text": "Acceso a nivel de byte.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "¿Qué tipo de escalado implica añadir más instancias en paralelo?",
+    "options": [
+      { "text": "Escalado vertical.", "isCorrect": false },
+      { "text": "Escalado regional.", "isCorrect": false },
+      { "text": "Escalado horizontal.", "isCorrect": true },
+      { "text": "Escalado compartido.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "¿Qué representa una instancia burstable?",
+    "options": [
+      { "text": "Alto consumo constante.", "isCorrect": false },
+      { "text": "Capacidad de aumentar temporalmente su rendimiento.", "isCorrect": true },
+      { "text": "Uso exclusivo de CPU.", "isCorrect": false },
+      { "text": "Replicación en caliente.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "¿Qué protocolo es común en sistemas de archivos compartidos?",
+    "options": [
+      { "text": "FTP.", "isCorrect": false },
+      { "text": "NFS.", "isCorrect": true },
+      { "text": "ICMP.", "isCorrect": false },
+      { "text": "SMTP.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "¿Qué tipo de caché almacena información en servidores geográficamente cercanos al usuario?",
+    "options": [
+      { "text": "Caché de sesión.", "isCorrect": false },
+      { "text": "Caché en disco.", "isCorrect": false },
+      { "text": "Edge caching.", "isCorrect": true },
+      { "text": "Memoria compartida.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "¿Qué servicio de Google permite base de datos relacional gestionada?",
+    "options": [
+      { "text": "Cloud SQL.", "isCorrect": true },
+      { "text": "Firebase.", "isCorrect": false },
+      { "text": "BigQuery.", "isCorrect": false },
+      { "text": "Firestore.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "¿Qué significa Lift and Shift en migraciones?",
+    "options": [
+      { "text": "Cambiar de modelo NoSQL a SQL.", "isCorrect": false },
+      { "text": "Mover una base de datos tal cual a la nube.", "isCorrect": true },
+      { "text": "Crear una nueva arquitectura.", "isCorrect": false },
+      { "text": "Fragmentar una base de datos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "¿Qué herramienta permite simular costes en AWS?",
+    "options": [
+      { "text": "AWS Monitor.", "isCorrect": false },
+      { "text": "AWS CloudTrail.", "isCorrect": false },
+      { "text": "AWS Pricing Calculator.", "isCorrect": true },
+      { "text": "AWS Metering Tool.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "¿Qué opción de almacenamiento sería mejor para un sistema de backup masivo y barato?",
+    "options": [
+      { "text": "Azure Disk.", "isCorrect": false },
+      { "text": "Amazon RDS.", "isCorrect": false },
+      { "text": "Redis.", "isCorrect": false },
+      { "text": "Amazon S3.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "¿Qué opción es un riesgo de usar caché sin control de versiones?",
+    "options": [
+      { "text": "Mayor latencia.", "isCorrect": false },
+      { "text": "Seguridad.", "isCorrect": false },
+      { "text": "Entrega de datos obsoletos.", "isCorrect": true },
+      { "text": "Menor concurrencia.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "¿Cuál es una base de datos documental NoSQL?",
+    "options": [
+      { "text": "MySQL.", "isCorrect": false },
+      { "text": "MongoDB.", "isCorrect": true },
+      { "text": "SQL Server.", "isCorrect": false },
+      { "text": "Cassandra.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "¿Qué implica el modelo de responsabilidad compartida en seguridad cloud?",
+    "options": [
+      { "text": "Cliente y proveedor tienen responsabilidades específicas.", "isCorrect": true },
+      { "text": "Todo depende del cliente.", "isCorrect": false },
+      { "text": "Solo el proveedor es responsable.", "isCorrect": false },
+      { "text": "La seguridad es opcional.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "¿Qué representa una CDN en una arquitectura cloud?",
+    "options": [
+      { "text": "Base de datos paralela.", "isCorrect": false },
+      { "text": "Sistema de copias de seguridad.", "isCorrect": false },
+      { "text": "Red de entrega de contenido.", "isCorrect": true },
+      { "text": "VPN corporativa.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "¿Cuál es una ventaja del uso de bases NoSQL en aplicaciones móviles?",
+    "options": [
+      { "text": "Integridad referencial.", "isCorrect": false },
+      { "text": "Escalabilidad y flexibilidad de esquema.", "isCorrect": true },
+      { "text": "Lenguaje SQL universal.", "isCorrect": false },
+      { "text": "Bajas tasas de lectura.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "¿Qué componente de red permite a una instancia en una subred privada acceder a Internet sin ser accesible desde el exterior?",
+    "options": [
+      { "text": "Internet Gateway.", "isCorrect": false },
+      { "text": "NAT Gateway.", "isCorrect": true },
+      { "text": "Route Table.", "isCorrect": false },
+      { "text": "DNS gestionado.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "¿Cuál de los siguientes protocolos se utiliza comúnmente para federar identidades en la nube?",
+    "options": [
+      { "text": "FTP.", "isCorrect": false },
+      { "text": "LDAP.", "isCorrect": false },
+      { "text": "IMAP.", "isCorrect": false },
+      { "text": "SAML.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "¿Qué servicio permite escalar automáticamente una base de datos en respuesta a aumentos de carga?",
+    "options": [
+      { "text": "AWS Lambda.", "isCorrect": false },
+      { "text": "Amazon Aurora Auto Scaling.", "isCorrect": true },
+      { "text": "Amazon S3.", "isCorrect": false },
+      { "text": "Amazon CloudFront.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "¿Qué herramienta permite definir infraestructura utilizando un lenguaje declarativo y es compatible con múltiples nubes?",
+    "options": [
+      { "text": "Terraform.", "isCorrect": true },
+      { "text": "CloudFormation.", "isCorrect": false },
+      { "text": "Azure Resource Manager.", "isCorrect": false },
+      { "text": "Docker Compose.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "¿Cuál es el principal beneficio de usar balanceadores de carga con health checks configurados?",
+    "options": [
+      { "text": "Reducir el uso de disco.", "isCorrect": false },
+      { "text": "Incrementar la velocidad de los discos SSD.", "isCorrect": false },
+      { "text": "Enviar tráfico solo a instancias saludables.", "isCorrect": true },
+      { "text": "Configurar firewalls automáticamente.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "¿Qué ventaja principal ofrece el uso de VPC en entornos cloud?",
+    "options": [
+      { "text": "Aislamiento lógico de los recursos.", "isCorrect": true },
+      { "text": "Reducción del tráfico DNS.", "isCorrect": false },
+      { "text": "Eliminación de la necesidad de firewalls.", "isCorrect": false },
+      { "text": "Acceso automático a redes locales.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "¿Qué tipo de control de acceso se basa en asignar permisos según atributos como el cargo o la localización?",
+    "options": [
+      { "text": "RBAC.", "isCorrect": false },
+      { "text": "ACL.", "isCorrect": false },
+      { "text": "ABAC.", "isCorrect": true },
+      { "text": "SCP.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "¿Qué servicio se utiliza para monitorear métricas como uso de CPU y red en AWS?",
+    "options": [
+      { "text": "Route 53.", "isCorrect": false },
+      { "text": "CloudWatch.", "isCorrect": true },
+      { "text": "CloudTrail.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "¿Qué herramienta se emplea en GitHub para definir flujos de trabajo CI/CD?",
+    "options": [
+      { "text": "Jenkins.", "isCorrect": false },
+      { "text": "GitLab CI.", "isCorrect": false },
+      { "text": "GitHub Actions.", "isCorrect": true },
+      { "text": "Terraform.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "¿Cuál es una característica del modelo Zero Trust en seguridad cloud?",
+    "options": [
+      { "text": "Confianza implícita en dispositivos internos.", "isCorrect": false },
+      { "text": "Ninguna entidad es confiable por defecto.", "isCorrect": true },
+      { "text": "Uso exclusivo de VPN.", "isCorrect": false },
+      { "text": "Permisos de lectura por defecto.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "¿Qué tipo de despliegue sustituye completamente la versión anterior del software sin modificarla?",
+    "options": [
+      { "text": "Blue/Green.", "isCorrect": false },
+      { "text": "Canary.", "isCorrect": false },
+      { "text": "Rolling.", "isCorrect": false },
+      { "text": "Inmutable.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "¿Qué componente DNS gestionado permite redirigir tráfico según la latencia o localización del usuario?",
+    "options": [
+      { "text": "Route 53.", "isCorrect": true },
+      { "text": "CloudWatch.", "isCorrect": false },
+      { "text": "S3.", "isCorrect": false },
+      { "text": "IAM.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "¿Qué ventaja ofrece el uso de Infrastructure as Code (IaC)?",
+    "options": [
+      { "text": "Configurar backups automáticos.", "isCorrect": false },
+      { "text": "Reproducibilidad y consistencia de entornos.", "isCorrect": true },
+      { "text": "Ejecución manual de scripts.", "isCorrect": false },
+      { "text": "Evitar el uso de sistemas de control de versiones.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "¿Qué es una política SCP (Service Control Policy) en AWS Organizations?",
+    "options": [
+      { "text": "Una política de red.", "isCorrect": false },
+      { "text": "Una política de grupo de seguridad.", "isCorrect": false },
+      { "text": "Una política que limita los permisos máximos en cuentas hijas.", "isCorrect": true },
+      { "text": "Una política para bases de datos.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "¿Qué componente permite desacoplar procesos y mejorar la resiliencia entre servicios distribuidos?",
+    "options": [
+      { "text": "Cola de mensajes.", "isCorrect": true },
+      { "text": "NAT Gateway.", "isCorrect": false },
+      { "text": "Security Group.", "isCorrect": false },
+      { "text": "CloudFront.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "¿Qué servicio permite acceder a máquinas virtuales sin abrir puertos como SSH o RDP?",
+    "options": [
+      { "text": "Bastion Host.", "isCorrect": false },
+      { "text": "NAT Gateway.", "isCorrect": false },
+      { "text": "Session Manager.", "isCorrect": true },
+      { "text": "Route 53.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 141,
+    "question": "¿Qué herramienta permite automatizar el despliegue de infraestructura en múltiples proveedores cloud?",
+    "options": [
+      { "text": "CloudFormation.", "isCorrect": false },
+      { "text": "Azure Bicep.", "isCorrect": false },
+      { "text": "Terraform.", "isCorrect": true },
+      { "text": "Jenkins.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "¿Qué tipo de actualización reemplaza las instancias antiguas una por una sin downtime?",
+    "options": [
+      { "text": "Blue/Green.", "isCorrect": false },
+      { "text": "Canary.", "isCorrect": false },
+      { "text": "Rolling Update.", "isCorrect": true },
+      { "text": "Failover.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "¿Qué componente elimina instancias defectuosas automáticamente en un grupo de autoescalado?",
+    "options": [
+      { "text": "Auto healing.", "isCorrect": true },
+      { "text": "DNS gestionado.", "isCorrect": false },
+      { "text": "Security Group.", "isCorrect": false },
+      { "text": "IAM.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "¿Qué política se utiliza para limitar el acceso de un usuario a una IP específica en AWS IAM?",
+    "options": [
+      { "text": "SCP.", "isCorrect": false },
+      { "text": "ACL.", "isCorrect": false },
+      { "text": "RBAC.", "isCorrect": false },
+      { "text": "Política basada en condiciones.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "¿Qué función tiene un bastion host en una arquitectura cloud?",
+    "options": [
+      { "text": "Cifrar datos en tránsito.", "isCorrect": false },
+      { "text": "Enrutar tráfico HTTP.", "isCorrect": false },
+      { "text": "Servir de punto seguro de acceso a instancias privadas.", "isCorrect": true },
+      { "text": "Gestionar DNS.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 146,
+    "question": "¿Qué característica tiene una red privada virtual (VPC)?",
+    "options": [
+      { "text": "Exposición directa a Internet.", "isCorrect": false },
+      { "text": "Control total sobre el direccionamiento y las reglas de red.", "isCorrect": true },
+      { "text": "Requiere NAT Gateway obligatoriamente.", "isCorrect": false },
+      { "text": "No permite VPN.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "¿Qué herramienta permite orquestar contenedores y escalar servicios automáticamente?",
+    "options": [
+      { "text": "Ansible.", "isCorrect": false },
+      { "text": "Docker Compose.", "isCorrect": false },
+      { "text": "Elastic Beanstalk.", "isCorrect": false },
+      { "text": "Kubernetes.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "¿Qué componente realiza balanceo de tráfico en nivel de aplicación (HTTP/HTTPS)?",
+    "options": [
+      { "text": "Application Load Balancer.", "isCorrect": true },
+      { "text": "NAT Gateway.", "isCorrect": false },
+      { "text": "Route 53.", "isCorrect": false },
+      { "text": "Network ACL.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 149,
+    "question": "¿Qué característica ofrece el uso de pipelines CI/CD con pruebas integradas?",
+    "options": [
+      { "text": "Ejecutar código sin revisión.", "isCorrect": false },
+      { "text": "Uso exclusivo en local.", "isCorrect": false },
+      { "text": "Evitar control de versiones.", "isCorrect": false },
+      { "text": "Validar cambios antes del despliegue.", "isCorrect": true }
+    ]
+  }
+]
