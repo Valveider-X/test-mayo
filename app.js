@@ -9,6 +9,7 @@ const initialState = {
   selectedCount: null,
   customCount: "",
   session: null,
+  reviewIndex: 0,
 };
 
 let appState = { ...initialState };
@@ -315,6 +316,11 @@ function renderResults() {
   const totalQuestions = session.questions.length;
   const resultPercent = Math.round((session.score / totalQuestions) * 100);
 
+  const mistakes = session.questions.filter(q => {
+    const userChoiceIdx = session.answers[q.id];
+    return !q.options[userChoiceIdx].isCorrect;
+  });
+
   appRoot.innerHTML = `
     <section class="card">
       <h2>Resultado final</h2>
@@ -325,10 +331,20 @@ function renderResults() {
         <button class="ghost" data-action="go-home">Volver al inicio</button>
       </div>
     </section>
+    
+    <div id="review-section">
+      ${mistakes.length > 0 ? renderReview(mistakes) : ""}
+    </div>
   `;
 
   appRoot.querySelector('[data-action="retry"]').addEventListener("click", retryQuiz);
   appRoot.querySelector('[data-action="go-home"]').addEventListener("click", goHome);
+
+  const prevBtn = appRoot.querySelector('[data-action="prev-mistake"]');
+  const nextBtn = appRoot.querySelector('[data-action="next-mistake"]');
+  
+  if (prevBtn) prevBtn.addEventListener("click", () => changeReviewIndex(-1));
+  if (nextBtn) nextBtn.addEventListener("click", () => changeReviewIndex(1));
 }
 
 function retryQuiz() {
@@ -336,6 +352,7 @@ function retryQuiz() {
     ...appState,
     view: "config",
     session: null,
+    reviewIndex: 0,
   });
 }
 
@@ -397,4 +414,43 @@ function escapeHtml(rawValue) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+function renderReview(mistakes) {
+ const currentMistake = mistakes[appState.reviewIndex];
+  const userChoice = currentMistake.options[appState.session.answers[currentMistake.id]];
+  const correctChoice = currentMistake.options.find(o => o.isCorrect);
+
+  const colorWrong = "var(--danger)";
+  const colorCorrect = "var(--primary)";
+
+  return `
+    <section class="card" style="margin-top: 1.5rem; border-color: ${colorWrong}">
+      <h3 style="font-size: 1.1rem; color: var(--text-muted)">
+        Error ${appState.reviewIndex + 1} de ${mistakes.length}
+      </h3>
+      <p><strong>${escapeHtml(currentMistake.question)}</strong></p>
+      
+      <div style="margin: 1rem 0; display: grid; gap: 0.5rem;">
+        <div style="color: ${colorWrong}; padding: 0.5rem; border-left: 3px solid ${colorWrong}">
+          ✕ Elección: ${escapeHtml(userChoice.text)}
+        </div>
+        <div style="color: ${colorCorrect}; padding: 0.5rem; border-left: 3px solid ${colorCorrect}">
+          ✓ Correcta: ${escapeHtml(correctChoice.text)}
+        </div>
+      </div>
+
+      <div class="actions">
+        <button class="ghost" data-action="prev-mistake" ${appState.reviewIndex === 0 ? "disabled" : ""}>Anterior</button>
+        <button class="ghost" data-action="next-mistake" ${appState.reviewIndex === mistakes.length - 1 ? "disabled" : ""}>Siguiente</button>
+      </div>
+    </section>
+  `;
+}
+
+function changeReviewIndex(step) {
+  setState({
+    ...appState,
+    reviewIndex: appState.reviewIndex + step
+  });
 }
