@@ -1,990 +1,502 @@
 [
   {
     "id": 1,
-    "question": "¿Cuál es una ventaja principal de la automatización en la Industria 4.0?",
+    "question": "Para poder ejecutar nuestras aplicaciones Android en nuestro ordenador debemos tener:",
     "options": [
-      { "text": "Aumento de la dependencia humana en procesos repetitivos.", "isCorrect": false },
-      { "text": "Incremento de errores manuales.", "isCorrect": false },
-      { "text": "Reducción de la eficiencia operativa.", "isCorrect": false },
-      { "text": "Mejora de la eficiencia y reducción de errores.", "isCorrect": true }
+      { "text": "Un móvil conectado con la versión de la API de nuestro proyecto.", "isCorrect": false },
+      { "text": "Configurado un emulador en Android Studio.", "isCorrect": false },
+      { "text": "Un emulador configurado en Android Studio o móvil conectado con la versión de la API de nuestro proyecto.", "isCorrect": true },
+      { "text": "No necesitamos nada, se ejecuta automáticamente en el escritorio.", "isCorrect": false }
     ]
   },
   {
     "id": 2,
-    "question": "¿Qué representa el concepto de smart factory?",
+    "question": "¿Cuál de las siguientes características del SDK es falsa?",
     "options": [
-      { "text": "Una fábrica con empleados altamente capacitados.", "isCorrect": false },
-      { "text": "Una fábrica automatizada e interconectada que se adapta dinámicamente a las necesidades.", "isCorrect": true },
-      { "text": "Un centro logístico.", "isCorrect": false },
-      { "text": "Una oficina inteligente.", "isCorrect": false }
+      { "text": "Acceso al hardware de wifi, GPS, Bluetooth y telefonía, lo que permite realizar y recibir tanto llamadas como SMS.", "isCorrect": false },
+      { "text": "Limitación de la aceleración gráfica para mejorar el rendimiento.", "isCorrect": true },
+      { "text": "Control completo de multimedia, lo que incluye la cámara y el micrófono.", "isCorrect": false },
+      { "text": "Controles de Google Maps en nuestras aplicaciones.", "isCorrect": false }
     ]
   },
   {
     "id": 3,
-    "question": "¿Qué término se refiere a la tecnología que permite que sistemas físicos y digitales interactúen?",
+    "question": "¿Cuál de estas afirmaciones es falsa?",
     "options": [
-      { "text": "Internet.", "isCorrect": false },
-      { "text": "Sistema ciberfísico.", "isCorrect": true },
-      { "text": "Red social.", "isCorrect": false },
-      { "text": "Almacenamiento en la nube.", "isCorrect": false }
+      { "text": "Xamarin utiliza el lenguaje de C# de Microsoft.", "isCorrect": false },
+      { "text": "Xamarin solo permite crear aplicaciones para Android e iOS.", "isCorrect": true },
+      { "text": "Ionic utiliza HTML y CSS para crear la UI.", "isCorrect": false },
+      { "text": "Todas son correctas", "isCorrect": false }
     ]
   },
   {
     "id": 4,
-    "question": "¿Cuál es una tendencia clara en la Industria 5.0 respecto al factor humano?",
+    "question": "Android Studio es el único IDE con el que podemos desarrollar proyectos Android:",
     "options": [
-      { "text": "Sustitución total de personas por robots.", "isCorrect": false },
-      { "text": "Exclusión de trabajadores en procesos clave.", "isCorrect": false },
-      { "text": "Integración del ser humano como centro del modelo productivo.", "isCorrect": true },
-      { "text": "Aislamiento de la innovación.", "isCorrect": false }
+      { "text": "Si, solo se puede usar Android Studio.", "isCorrect": false },
+      { "text": "Aparte de Android Studio, cabe la posibilidad de emplear Eclipse.", "isCorrect": false },
+      { "text": "Actualmente podemos usar Android Studio e IntelliJ IDEA.", "isCorrect": true },
+      { "text": "Todas las respuestas son incorrectas.", "isCorrect": false }
     ]
   },
   {
     "id": 5,
-    "question": "¿Cuál fue uno de los principales inventos de la Primera Revolución Industrial?",
+    "question": "¿A qué método de la clase Activity tendríamos que llamar para volver a hacerla visible?",
     "options": [
-      { "text": "Internet.", "isCorrect": false },
-      { "text": "La televisión.", "isCorrect": false },
-      { "text": "La máquina de vapor.", "isCorrect": true },
-      { "text": "La energía eléctrica.", "isCorrect": false }
+      { "text": "onRestart().", "isCorrect": false },
+      { "text": "onResume().", "isCorrect": false },
+      { "text": "onStart().", "isCorrect": true },
+      { "text": "onCreate().", "isCorrect": false }
     ]
   },
   {
     "id": 6,
-    "question": "¿Qué objetivo tiene la economía circular en la Industria 5.0?",
+    "question": "¿Qué lenguajes de programación soporta actualmente Android?",
     "options": [
-      { "text": "Sustituir personas por máquinas.", "isCorrect": false },
-      { "text": "Reutilizar recursos y reducir residuos.", "isCorrect": true },
-      { "text": "Eliminar toda innovación tecnológica.", "isCorrect": false },
-      { "text": "Crear productos únicos sin replicabilidad.", "isCorrect": false }
+      { "text": "Java.", "isCorrect": false },
+      { "text": "Java y Kotlin.", "isCorrect": true },
+      { "text": "Kotlin.", "isCorrect": false },
+      { "text": "JavaScript y Kotlin.", "isCorrect": false }
     ]
   },
   {
     "id": 7,
-    "question": "En el contexto de la Industria 4.0, ¿qué tecnología es comúnmente utilizada para almacenar grandes volúmenes de datos?",
+    "question": "¿Cuál de las siguientes afirmaciones es verdadera sobre Android?",
     "options": [
-      { "text": "Disquetes.", "isCorrect": false },
-      { "text": "Cintas magnéticas.", "isCorrect": false },
-      { "text": "Almacenamiento en la nube.", "isCorrect": true },
-      { "text": "CD-ROM.", "isCorrect": false }
+      { "text": "Está basado en el kernel de Linux.", "isCorrect": false },
+      { "text": "Todas son correctas.", "isCorrect": true },
+      { "text": "Las aplicaciones se suben y se descargan desde Google Play Store.", "isCorrect": false },
+      { "text": "Google es su diseñador.", "isCorrect": false }
     ]
   },
   {
     "id": 8,
-    "question": "¿Qué cambio supuso la Segunda Revolución Industrial?",
+    "question": "¿A qué método de la clase Activity deberíamos llamar al minimizar una Activity?",
     "options": [
-      { "text": "Introducción del big data.", "isCorrect": false },
-      { "text": "Uso de la robótica colaborativa.", "isCorrect": false },
-      { "text": "Uso de nuevas fuentes de energía como electricidad y gas.", "isCorrect": true },
-      { "text": "Digitalización de procesos.", "isCorrect": false }
+      { "text": "onPause()", "isCorrect": true },
+      { "text": "onStopped().", "isCorrect": false },
+      { "text": "on Resume().", "isCorrect": false },
+      { "text": "onPause() y, después, onDestroyed().", "isCorrect": false }
     ]
   },
   {
     "id": 9,
-    "question": "La interconexión autónoma de sistemas en la Industria 4.0 se refiere a:",
+    "question": "El emulador de Android Studio tiene ciertas limitaciones y, en particular, ¿cuál de estas características no admite?",
     "options": [
-      { "text": "Sistemas que operan de forma aislada.", "isCorrect": false },
-      { "text": "Conexión manual entre dispositivos.", "isCorrect": false },
-      { "text": "Sistemas que se comunican y toman decisiones sin intervención humana.", "isCorrect": true },
-      { "text": "Dependencia total de operadores humanos.", "isCorrect": false }
+      { "text": "Wifi y Bluetooth.", "isCorrect": false },
+      { "text": "Inserción/expulsión de tarjetas SD.", "isCorrect": false },
+      { "text": "USB.", "isCorrect": false },
+      { "text": "Todas son correctas.", "isCorrect": true }
     ]
   },
   {
     "id": 10,
-    "question": "¿Cuál fue un avance destacado de la Tercera Revolución Industrial?",
+    "question": "¿Cuál de las siguientes afirmaciones es falsa?",
     "options": [
-      { "text": "Desarrollo del motor de combustión.", "isCorrect": false },
-      { "text": "Uso del telégrafo.", "isCorrect": false },
-      { "text": "Aparición de ordenadores y energías renovables.", "isCorrect": true },
-      { "text": "Implementación del vapor.", "isCorrect": false }
+      { "text": "Amazon Fire es un SO independiente.", "isCorrect": false },
+      { "text": "Todas son falsas.", "isCorrect": false },
+      { "text": "Windows Phone de Microsoft es uno de los SO con más personas usuarias.", "isCorrect": true },
+      { "text": "El SO HarmonyOS ya ha desaparecido.", "isCorrect": false }
     ]
   },
   {
     "id": 11,
-    "question": "¿Qué aplicación es típica de la robótica colaborativa o cobótica?",
+    "question": "¿Cuál es el valor por defecto del tipo de retorno de una función en Kotlin si no se especifica?",
     "options": [
-      { "text": "Detección de fraudes en la nube.", "isCorrect": false },
-      { "text": "Automatización sin intervención humana.", "isCorrect": false },
-      { "text": "Diseño gráfico en 3D.", "isCorrect": false },
-      { "text": "Trabajo conjunto entre robots y operarios humanos.", "isCorrect": true }
+      { "text": "void.", "isCorrect": false },
+      { "text": "null.", "isCorrect": false },
+      { "text": "Unit.", "isCorrect": true },
+      { "text": "Init.", "isCorrect": false }
     ]
   },
   {
     "id": 12,
-    "question": "¿Qué característica principal ofrece la red 5G en comparación con 4G?",
+    "question": "¿Cuál es el propósito de la palabra clave Unit en Kotlin?",
     "options": [
-      { "text": "Menor cobertura real.", "isCorrect": false },
-      { "text": "Mayor consumo energético.", "isCorrect": false },
-      { "text": "Baja latencia y mayor velocidad de datos.", "isCorrect": true },
-      { "text": "Transmisión solo por cable.", "isCorrect": false }
+      { "text": "Declarar una constante.", "isCorrect": false },
+      { "text": "Declarar una variable.", "isCorrect": false },
+      { "text": "Indicar que una función no devuelve nada.", "isCorrect": true },
+      { "text": "Crear una interface .", "isCorrect": false }
     ]
   },
   {
     "id": 13,
-    "question": "¿Qué ventaja aporta la robótica colaborativa frente a la robótica tradicional?",
+    "question": "¿Cómo se define un rango en Kotlin que incluya números del 1 al 10?",
     "options": [
-      { "text": "Mayor consumo energético.", "isCorrect": false },
-      { "text": "Mayor aislamiento de los operarios.", "isCorrect": false },
-      { "text": "Interacción segura y directa con humanos.", "isCorrect": true },
-      { "text": "Funcionamiento solo en grandes empresas.", "isCorrect": false }
+      { "text": "range(1,10).", "isCorrect": false },
+      { "text": "{1,10}.", "isCorrect": false },
+      { "text": "[1,10].", "isCorrect": false },
+      { "text": "1..10.", "isCorrect": true }
     ]
   },
   {
     "id": 14,
-    "question": "¿Qué función tiene la informática en la nube en una empresa digitalizada?",
+    "question": "¿Qué expresión en Kotlin se utiliza a fin de manejar múltiples casos de comparación de un valor?",
     "options": [
-      { "text": "Controlar robots.", "isCorrect": false },
-      { "text": "Diseñar piezas industriales.", "isCorrect": false },
-      { "text": "Gestionar manualmente el mantenimiento.", "isCorrect": false },
-      { "text": "Procesar y almacenar datos de forma remota.", "isCorrect": true }
+      { "text": "switch.", "isCorrect": false },
+      { "text": "if-else.", "isCorrect": false },
+      { "text": "when.", "isCorrect": true },
+      { "text": "while.", "isCorrect": false }
     ]
   },
   {
     "id": 15,
-    "question": "¿Qué elemento caracteriza a la informática en la nube?",
+    "question": "¿Cuál es la estructura de control en Kotlin que garantiza que un bloque de código se ejecute, al menos, una vez?",
     "options": [
-      { "text": "Los servicios se acceden remotamente desde cualquier dispositivo.", "isCorrect": true },
-      { "text": "Los datos se almacenan en servidores físicos locales.", "isCorrect": false },
-      { "text": "No necesita conexión a Internet.", "isCorrect": false },
-      { "text": "Solo funciona en red local.", "isCorrect": false }
+      { "text": "do-while.", "isCorrect": true },
+      { "text": "while.", "isCorrect": false },
+      { "text": "when.", "isCorrect": false },
+      { "text": "return.", "isCorrect": false }
     ]
   },
   {
     "id": 16,
-    "question": "¿Qué problema puede causar un ciberataque a sistemas OT en la industria?",
+    "question": "¿Cuál es el tipo de dato predeterminado para un número decimal en Kotlin?",
     "options": [
-      { "text": "Mejora de la eficiencia de la producción.", "isCorrect": false },
-      { "text": "Simula el comportamiento del usuario.", "isCorrect": false },
-      { "text": "Provoca la interrupción de procesos físicos o daños reales.", "isCorrect": true },
-      { "text": "Solo afecta a los archivos de oficina.", "isCorrect": false }
+      { "text": "Float.", "isCorrect": false },
+      { "text": "Int.", "isCorrect": false },
+      { "text": "Long.", "isCorrect": false },
+      { "text": "Double.", "isCorrect": true }
     ]
   },
   {
     "id": 17,
-    "question": "¿Qué permite la tecnología háptica en un entorno de realidad virtual?",
+    "question": "¿Qué palabra clave se utiliza para crear una instancia de una clase en Kotlin?",
     "options": [
-      { "text": "Escuchar sonidos tridimensionales.", "isCorrect": false },
-      { "text": "Ver imágenes más nítidas.", "isCorrect": false },
-      { "text": "Sentir texturas y movimientos físicos simulados.", "isCorrect": true },
-      { "text": "Aumentar la velocidad de conexión.", "isCorrect": false }
+      { "text": "new.", "isCorrect": false },
+      { "text": "instance.", "isCorrect": false },
+      { "text": "construcctor.", "isCorrect": false },
+      { "text": "No se utilizan palabras clave.", "isCorrect": true }
     ]
   },
   {
     "id": 18,
-    "question": "¿Qué tecnología combina datos físicos y digitales para crear entornos inmersivos interactivos?",
+    "question": "¿Qué palabra clave se usa para declarar una variable mutable en Kotlin?",
     "options": [
-      { "text": "Robótica industrial.", "isCorrect": false },
-      { "text": "Big data.", "isCorrect": false },
-      { "text": "Realidad aumentada.", "isCorrect": true },
-      { "text": "Informática en la nube.", "isCorrect": false }
+      { "text": "let.", "isCorrect": false },
+      { "text": "const.", "isCorrect": false },
+      { "text": "var.", "isCorrect": true },
+      { "text": "val.", "isCorrect": false }
     ]
   },
   {
     "id": 19,
-    "question": "¿Qué tecnología se utiliza para recrear sensaciones táctiles en entornos digitales?",
+    "question": "¿Qué operador en Kotlin se utiliza para acceder de manera segura a una propiedad de un objeto nullable ?",
     "options": [
-      { "text": "Blockchain.", "isCorrect": false },
-      { "text": "Háptica.", "isCorrect": true },
-      { "text": "Ciberseguridad.", "isCorrect": false },
-      { "text": "Inteligencia artificial (IA).", "isCorrect": false }
+      { "text": "?=.", "isCorrect": false },
+      { "text": "?.", "isCorrect": true },
+      { "text": "?:.", "isCorrect": false },
+      { "text": "::.", "isCorrect": false }
     ]
   },
   {
     "id": 20,
-    "question": "¿Cuál de estas es una función de la ciberseguridad en entornos digitales?",
+    "question": "¿Cómo se declara una función en Kotlin?",
     "options": [
-      { "text": "Crear prototipos.", "isCorrect": false },
-      { "text": "Simular movimientos físicos.", "isCorrect": false },
-      { "text": "Proteger sistemas IT y OT de accesos no autorizados.", "isCorrect": true },
-      { "text": "Aumentar el rendimiento de impresoras.", "isCorrect": false }
+      { "text": "def mifuncion().", "isCorrect": false },
+      { "text": "function mifuncion().", "isCorrect": false },
+      { "text": "void mifuncion().", "isCorrect": false },
+      { "text": "fun mifuncion().", "isCorrect": true }
     ]
   },
   {
     "id": 21,
-    "question": "¿Qué permite la nube en sectores como la sanidad o la educación?",
+    "question": "¿Qué componente permite realizar solicitudes a API RESTful en aplicaciones Android?",
     "options": [
-      { "text": "Aumentar costes.", "isCorrect": false },
-      { "text": "Centralizar documentos físicos.", "isCorrect": false },
-      { "text": "Acceder a información desde múltiples centros.", "isCorrect": true },
-      { "text": "Eliminar datos personales.", "isCorrect": false }
+      { "text": "JUnit.", "isCorrect": false },
+      { "text": "Espresso.", "isCorrect": false },
+      { "text": "Retrofit.", "isCorrect": true },
+      { "text": "Glide.", "isCorrect": false }
     ]
   },
   {
     "id": 22,
-    "question": "¿Qué institución definió oficialmente el cloud computing en 2011?",
+    "question": "¿Qué tipo de archivo genera Android Studio para distribuir una aplicación en Google Play?",
     "options": [
-      { "text": "ISO.", "isCorrect": false },
-      { "text": "Microsoft.", "isCorrect": false },
-      { "text": "NIST.", "isCorrect": true },
-      { "text": "Google.", "isCorrect": false }
+      { "text": "AAB o APK.", "isCorrect": true },
+      { "text": ".exe.", "isCorrect": false },
+      { "text": ".jar.", "isCorrect": false },
+      { "text": ".deb.", "isCorrect": false }
     ]
   },
   {
     "id": 23,
-    "question": "¿Cuál de estas no es una ventaja del cloud?",
+    "question": "¿Cuál es el lenguaje de programación oficial para el desarrollo de aplicaciones Android?",
     "options": [
-      { "text": "Acceso remoto.", "isCorrect": false },
-      { "text": "Reducción de costes.", "isCorrect": false },
-      { "text": "Escalabilidad.", "isCorrect": false },
-      { "text": "Inversión fija obligatoria.", "isCorrect": true }
+      { "text": "JavaScript.", "isCorrect": false },
+      { "text": "Python.", "isCorrect": false },
+      { "text": "Kotlin.", "isCorrect": true },
+      { "text": "Swift.", "isCorrect": false }
     ]
   },
   {
     "id": 24,
-    "question": "¿Qué tipo de nube combina servicios públicos y privados?",
+    "question": "¿Qué componente se utiliza para gestionar la estructura visual de la UI en Android?",
     "options": [
-      { "text": "Pública.", "isCorrect": false },
-      { "text": "Privada.", "isCorrect": false },
-      { "text": "Híbrida.", "isCorrect": true },
-      { "text": "Comunitaria.", "isCorrect": false }
+      { "text": "ConstraintLayout.", "isCorrect": true },
+      { "text": "FrameLayout.", "isCorrect": false },
+      { "text": "GridLayout.", "isCorrect": false },
+      { "text": "RecyclerView.", "isCorrect": false }
     ]
   },
   {
     "id": 25,
-    "question": "¿Cuál es un proveedor de servicios cloud?",
+    "question": "¿Qué herramienta es útil para manejar imágenes en aplicaciones Android?",
     "options": [
-      { "text": "Canva.", "isCorrect": false },
-      { "text": "AWS.", "isCorrect": true },
-      { "text": "VLC Media Player.", "isCorrect": false },
-      { "text": "Moodle (instalado localmente).", "isCorrect": false }
+      { "text": "Retrofit.", "isCorrect": false },
+      { "text": "Espresso.", "isCorrect": false },
+      { "text": "Glide.", "isCorrect": true },
+      { "text": "Hilt.", "isCorrect": false }
     ]
   },
   {
     "id": 26,
-    "question": "¿Qué expresión define la alta disponibilidad en la nube?",
+    "question": "¿Cuál de estas fases forma parte del proceso de publicación de una aplicación Android?",
     "options": [
-      { "text": "Acceso solo en horas de oficina.", "isCorrect": false },
-      { "text": "Necesidad de instalar en local.", "isCorrect": false },
-      { "text": "Disponibilidad 24/7 desde cualquier lugar.", "isCorrect": true },
-      { "text": "Dependencia de disco duro físico.", "isCorrect": false }
+      { "text": "Depuración.", "isCorrect": false },
+      { "text": "Firmado de la aplicación.", "isCorrect": true },
+      { "text": "Desarrollo de la interfaz gráfica.", "isCorrect": false },
+      { "text": "Pruebas unitarias.", "isCorrect": false }
     ]
   },
   {
     "id": 27,
-    "question": "¿Cuál de estas características define al cloud?",
+    "question": "¿Qué permite el uso de JetPack Compose en Android?",
     "options": [
-      { "text": "Autoservicio bajo demanda.", "isCorrect": true },
-      { "text": "Licencia perpetua.", "isCorrect": false },
-      { "text": "Acceso solo local.", "isCorrect": false },
-      { "text": "Configuración fija.", "isCorrect": false }
+      { "text": "Crear pruebas unitarias.", "isCorrect": false },
+      { "text": "Desarrollar UI de forma declarativa.", "isCorrect": true },
+      { "text": "Gestionar la memoria.", "isCorrect": false },
+      { "text": "Compilar recursos gráficos.", "isCorrect": false }
     ]
   },
   {
     "id": 28,
-    "question": "¿Cuál de estas es una ventaja operativa del cloud?",
+    "question": "¿Qué archivo es esencial en un proyecto Android para declarar permisos y componentes de la aplicación?",
     "options": [
-      { "text": "Dificultad de integración.", "isCorrect": false },
-      { "text": "Reducción de la productividad.", "isCorrect": false },
-      { "text": "Requiere hardware propio.", "isCorrect": false },
-      { "text": "Disponibilidad 24/7.", "isCorrect": true }
+      { "text": "build.gradle.", "isCorrect": false },
+      { "text": "AndroidManifest.xml.", "isCorrect": true },
+      { "text": "settings.gradle.", "isCorrect": false },
+      { "text": "ProGuard.", "isCorrect": false }
     ]
   },
   {
     "id": 29,
-    "question": "¿Cuál es un riesgo si no se protege adecuadamente el acceso cloud?",
+    "question": "¿Cuál es el propósito de un Repository en el patrón MVVM?",
     "options": [
-      { "text": "Saturación del disco duro.", "isCorrect": false },
-      { "text": "Ransomware.", "isCorrect": true },
-      { "text": "Caída del monitor.", "isCorrect": false },
-      { "text": "Pérdida de teclado.", "isCorrect": false }
+      { "text": "Manejar la UI.", "isCorrect": false },
+      { "text": "Almacenar datos locales o de red.", "isCorrect": true },
+      { "text": "Crear animaciones.", "isCorrect": false },
+      { "text": "Diseñar interfaces gráficas.", "isCorrect": false }
     ]
   },
   {
     "id": 30,
-    "question": "¿Qué permite la escalabilidad del cloud?",
+    "question": "¿Qué herramienta de Android Studio facilita la creación de animaciones complejas?",
     "options": [
-      { "text": "Ajustar recursos según demanda.", "isCorrect": true },
-      { "text": "Reducir usuarios.", "isCorrect": false },
-      { "text": "Aumentar personal.", "isCorrect": false },
-      { "text": "Desactivar servicios fijos.", "isCorrect": false }
+      { "text": "Motion Editor.", "isCorrect": true },
+      { "text": "ConstraintLayout.", "isCorrect": false },
+      { "text": "Theme Editor.", "isCorrect": false },
+      { "text": "Layout Inspector.", "isCorrect": false }
     ]
   },
   {
     "id": 31,
-    "question": "¿Qué herramienta permite descubrir patrones ocultos en grandes volúmenes de información para apoyar la toma de decisiones?",
+    "question": "¿Qué característica de Jetpack Compose facilita la creación de animaciones sin código complejo?",
     "options": [
-      { "text": "Big data.", "isCorrect": false },
-      { "text": "Ciberseguridad.", "isCorrect": false },
-      { "text": "Minería de datos.", "isCorrect": true },
-      { "text": "Blockchain.", "isCorrect": false }
+      { "text": "Código imperativo.", "isCorrect": false },
+      { "text": "Controladores de animación.", "isCorrect": false },
+      { "text": "API de animación simplificadas.", "isCorrect": true },
+      { "text": "Listeners de animación manual.", "isCorrect": false }
     ]
   },
   {
     "id": 32,
-    "question": "¿Cuál es un sistema considerado de riesgo inaceptable, según la Ley de Inteligencia Artificial de la Unión Europea?",
+    "question": "¿Qué característica permite a Jetpack Compose actualizar automáticamente la UI cuando cambian los datos?",
     "options": [
-      { "text": "Sistemas de puntuación social.", "isCorrect": true },
-      { "text": "Predicción del clima.", "isCorrect": false },
-      { "text": "Recomendación de productos.", "isCorrect": false },
-      { "text": "Traducción automática.", "isCorrect": false }
+      { "text": "Programación reactiva.", "isCorrect": true },
+      { "text": "Renderizado manual.", "isCorrect": false },
+      { "text": "Programación imperativa.", "isCorrect": false },
+      { "text": "Funciones síncronas.", "isCorrect": false }
     ]
   },
   {
     "id": 33,
-    "question": "¿Qué característica es fundamental en los sistemas de IA de alto riesgo según la normativa europea?",
+    "question": "¿Qué función se utiliza para recordar un estado en Jetpack Compose?",
     "options": [
-      { "text": "Pueden operar sin supervisión humana.", "isCorrect": false },
-      { "text": "Requieren registro en una base de datos de la Unión Europea (UE).", "isCorrect": true },
-      { "text": "Están prohibidos automáticamente.", "isCorrect": false },
-      { "text": "No requieren evaluación previa.", "isCorrect": false }
+      { "text": "observeState.", "isCorrect": false },
+      { "text": "reactiveState.", "isCorrect": false },
+      { "text": "remember.", "isCorrect": true },
+      { "text": "mutableState.", "isCorrect": false }
     ]
   },
   {
     "id": 34,
-    "question": "¿Qué tipo de IA simula razonamiento lógico utilizando reglas del tipo si-entonces?",
+    "question": "¿Qué componente de Jetpack Compose se utiliza para crear un campo de entrada de texto?",
     "options": [
-      { "text": "IA subsimbólica.", "isCorrect": false },
-      { "text": "IA generativa.", "isCorrect": false },
-      { "text": "IA simbólica.", "isCorrect": true },
-      { "text": "IA débil.", "isCorrect": false }
+      { "text": "TextField.", "isCorrect": true },
+      { "text": "EditText.", "isCorrect": false },
+      { "text": "TextInput.", "isCorrect": false },
+      { "text": "InputField.", "isCorrect": false }
     ]
   },
   {
     "id": 35,
-    "question": "¿Qué principio guía el desarrollo de una IA confiable en Europa?",
+    "question": "¿Qué función se utiliza para declarar un estado mutable en Jetpack Compose?",
     "options": [
-      { "text": "Rentabilidad.", "isCorrect": false },
-      { "text": "Respeto a los derechos fundamentales.", "isCorrect": true },
-      { "text": "Automatización total.", "isCorrect": false },
-      { "text": "Minimización de costes.", "isCorrect": false }
+      { "text": "mutableStateOf().", "isCorrect": true },
+      { "text": "rememberState().", "isCorrect": false },
+      { "text": "observableState().", "isCorrect": false },
+      { "text": "saveState().", "isCorrect": false }
     ]
   },
   {
     "id": 36,
-    "question": "¿Qué tipo de IA está diseñada para ejecutar tareas específicas sin simular una inteligencia humana completa?",
+    "question": "¿Cómo se define una función en Jetpack Compose que puede componer una UI?",
     "options": [
-      { "text": "IA general.", "isCorrect": false },
-      { "text": "IA débil.", "isCorrect": true },
-      { "text": "IA fuerte.", "isCorrect": false },
-      { "text": "IA generativa.", "isCorrect": false }
+      { "text": "@Composable.", "isCorrect": true },
+      { "text": "@View.", "isCorrect": false },
+      { "text": "@Componet.", "isCorrect": false },
+      { "text": "DeclareUI.", "isCorrect": false }
     ]
   },
   {
     "id": 37,
-    "question": "¿Qué tipo de inteligencia artificial (IA) está diseñada para realizar tareas específicas como responder preguntas o clasificar correos electrónicos?",
+    "question": "¿Cuál es el lenguaje utilizado por Jetpack Compose?",
     "options": [
-      { "text": "IA general.", "isCorrect": false },
-      { "text": "IA simbólica.", "isCorrect": false },
-      { "text": "IA débil.", "isCorrect": true },
-      { "text": "IA fuerte.", "isCorrect": false }
+      { "text": "Java.", "isCorrect": false },
+      { "text": "Swift.", "isCorrect": false },
+      { "text": "Python.", "isCorrect": false },
+      { "text": "Kotlin.", "isCorrect": true }
     ]
   },
   {
     "id": 38,
-    "question": "¿Qué tecnología de IA se utiliza para ajustar la producción en función de la demanda real en la industria?",
+    "question": "¿Qué modificador se utiliza para aplicar un fondo de color a un componente?",
     "options": [
-      { "text": "Blockchain.", "isCorrect": false },
-      { "text": "Drones.", "isCorrect": false },
-      { "text": "Producción basada en demanda con sensores e IA.", "isCorrect": true },
-      { "text": "Redes sociales.", "isCorrect": false }
+      { "text": "setBackground().", "isCorrect": false },
+      { "text": "bgColor().", "isCorrect": false },
+      { "text": "background().", "isCorrect": true },
+      { "text": "fillBackground().", "isCorrect": false }
     ]
   },
   {
     "id": 39,
-    "question": "¿Qué IA derrotó por primera vez a un campeón mundial de ajedrez en 1997?",
+    "question": "¿Cuál es una ventaja de Jetpack Compose sobre el sistema tradicional, basado en XML?",
     "options": [
-      { "text": "AlphaGo.", "isCorrect": false },
-      { "text": "Deep Blue.", "isCorrect": true },
-      { "text": "Watson.", "isCorrect": false },
-      { "text": "Eliza.", "isCorrect": false }
+      { "text": "Es más difícil de aprender.", "isCorrect": false },
+      { "text": "Produce más código.", "isCorrect": false },
+      { "text": "Es más declarativo y reduce la cantidad de código necesario.", "isCorrect": true },
+      { "text": "Requiere archivos XML adicionales.", "isCorrect": false }
     ]
   },
   {
     "id": 40,
-    "question": "¿Qué tipo de información no puede compartirse libremente según la normativa de datos en la UE?",
+    "question": "¿Cuál es el modificador en Jetpack Compose con el que se agrega un espacio alrededor de un composable ?",
     "options": [
-      { "text": "Datos personales.", "isCorrect": true },
-      { "text": "Datos del tiempo.", "isCorrect": false },
-      { "text": "Datos financieros públicos.", "isCorrect": false },
-      { "text": "Datos completamente anonimizados.", "isCorrect": false }
+      { "text": "margin().", "isCorrect": false },
+      { "text": "padding().", "isCorrect": true },
+      { "text": "gap().", "isCorrect": false },
+      { "text": "space().", "isCorrect": false }
     ]
   },
   {
     "id": 41,
-    "question": "¿Qué normativa europea regula la protección de datos personales?",
+    "question": "¿Qué tipo de almacenamiento es el mejor para datos sensibles en Android?",
     "options": [
-      { "text": "ISO 9001.", "isCorrect": false },
-      { "text": "Directiva de telecomunicaciones.", "isCorrect": false },
-      { "text": "RGPD (Reglamento General de Protección de Datos).", "isCorrect": true },
-      { "text": "Ley de cookies.", "isCorrect": false }
+      { "text": "Interno.", "isCorrect": true },
+      { "text": "Externo.", "isCorrect": false },
+      { "text": "Firebase Realtime Database.", "isCorrect": false },
+      { "text": "Proveedores de contenido.", "isCorrect": false }
     ]
   },
   {
     "id": 42,
-    "question": "¿Qué característica del big data está relacionada con la precisión y veracidad de los datos?",
+    "question": "¿Qué método de corrutinas devuelve el resultado de forma diferida?",
     "options": [
-      { "text": "Velocidad.", "isCorrect": false },
-      { "text": "Visualización.", "isCorrect": false },
-      { "text": "Veracidad.", "isCorrect": true },
-      { "text": "Variedad.", "isCorrect": false }
+      { "text": "async.", "isCorrect": true },
+      { "text": "launch.", "isCorrect": false },
+      { "text": "runBlocking.", "isCorrect": false },
+      { "text": "withTimeout.", "isCorrect": false }
     ]
   },
   {
     "id": 43,
-    "question": "¿Cuál es un riesgo específico de la falta de seguridad en la nube?",
+    "question": "¿Qué es un servicio en Android?",
     "options": [
-      { "text": "Mejora de la visualización.", "isCorrect": false },
-      { "text": "Accesos no autorizados a datos confidenciales.", "isCorrect": true },
-      { "text": "Mayor flexibilidad.", "isCorrect": false },
-      { "text": "Mayor velocidad de conexión.", "isCorrect": false }
+      { "text": "Un componente que proporciona una UI.", "isCorrect": false },
+      { "text": "Un componente para realizar operaciones de larga duración en segundo plano.", "isCorrect": true },
+      { "text": "Una herramienta con la que gestionar conexiones de red.", "isCorrect": false },
+      { "text": "Un controlador para animaciones avanzadas.", "isCorrect": false }
     ]
   },
   {
     "id": 44,
-    "question": "¿Qué es la ciencia de datos?",
+    "question": "¿Qué método de Room permite acceder a la base de datos?",
     "options": [
-      { "text": "Una herramienta de marketing.", "isCorrect": false },
-      { "text": "Un lenguaje de programación.", "isCorrect": false },
-      { "text": "Una disciplina para extraer conocimiento de datos.", "isCorrect": true },
-      { "text": "Una técnica de contabilidad.", "isCorrect": false }
+      { "text": "query().", "isCorrect": false },
+      { "text": "select().", "isCorrect": false },
+      { "text": "DAO.", "isCorrect": true },
+      { "text": "update().", "isCorrect": false }
     ]
   },
   {
     "id": 45,
-    "question": "¿Qué es un backup o copia de seguridad?",
+    "question": "¿Qué elemento de Room se utiliza para definir tablas de base de datos?",
     "options": [
-      { "text": "Eliminar datos duplicados.", "isCorrect": false },
-      { "text": "Crear una copia de los datos para recuperarlos en caso de fallo.", "isCorrect": true },
-      { "text": "Cambiar datos erróneos.", "isCorrect": false },
-      { "text": "Compartir datos en redes sociales.", "isCorrect": false }
+      { "text": "DAO.", "isCorrect": false },
+      { "text": "Entidad.", "isCorrect": true },
+      { "text": "AppDatabase.", "isCorrect": false },
+      { "text": "DataAccessObject.", "isCorrect": false }
     ]
   },
   {
     "id": 46,
-    "question": "¿Qué significa disponibilidad en la seguridad de la información?",
+    "question": "¿Qué diferencia principal tiene un Service respecto a una Activity ?",
     "options": [
-      { "text": "Datos modificados sin control.", "isCorrect": false },
-      { "text": "Acceso público ilimitado.", "isCorrect": false },
-      { "text": "Datos accesibles cuando se necesitan.", "isCorrect": true },
-      { "text": "Eliminación inmediata de datos.", "isCorrect": false }
+      { "text": "Los servicios no tienen ciclo de vida.", "isCorrect": false },
+      { "text": "Las actividades no permiten multitarea.", "isCorrect": false },
+      { "text": "Los servicios no dependen de una UI.", "isCorrect": true },
+      { "text": "Las actividades son menos eficientes.", "isCorrect": false }
     ]
   },
   {
     "id": 47,
-    "question": "¿Qué herramienta ayuda a visualizar patrones y datos en gráficos?",
+    "question": "¿Cuál es la ventaja principal de usar Room como biblioteca de persistencia?",
     "options": [
-      { "text": "Antivirus.", "isCorrect": false },
-      { "text": "Cortafuegos.", "isCorrect": false },
-      { "text": "Power BI.", "isCorrect": true },
-      { "text": "Cifrado de datos.", "isCorrect": false }
+      { "text": "Mayor compatibilidad con Java.", "isCorrect": false },
+      { "text": "Reducción del uso de memoria.", "isCorrect": false },
+      { "text": "Soporte limitado para bases de datos relacionales.", "isCorrect": false },
+      { "text": "Verificación de consultas SQL en tiempo de compilación.", "isCorrect": true }
     ]
   },
   {
     "id": 48,
-    "question": "¿Qué técnica permite a un sistema identificar grupos en los datos sin etiquetas previas?",
+    "question": "¿Qué clase se utiliza a fin de manejar etiquetas NFC en Android?",
     "options": [
-      { "text": "Supervisado.", "isCorrect": false },
-      { "text": "No supervisado.", "isCorrect": true },
-      { "text": "Supervisado y no supervisado a la vez.", "isCorrect": false }
+      { "text": "NFCController.", "isCorrect": false },
+      { "text": "NfcAdapter.", "isCorrect": true },
+      { "text": "NfcManager.", "isCorrect": false },
+      { "text": "NfcConnection.", "isCorrect": false }
     ]
   },
   {
     "id": 49,
-    "question": "¿Qué técnica de IA se usa para hacer predicciones y recomendaciones personalizadas?",
+    "question": "¿Qué anotación se utiliza con el fin de identificar la clave primaria en Room ?",
     "options": [
-      { "text": "Solo almacenamiento en la nube.", "isCorrect": false },
-      { "text": "Solo procesamiento manual.", "isCorrect": false },
-      { "text": "Machine learning.", "isCorrect": true },
-      { "text": "Solo control de calidad.", "isCorrect": false }
+      { "text": "@ColumnInfo.", "isCorrect": false },
+      { "text": "@PrimaryKey(autoGenerate=false).", "isCorrect": false },
+      { "text": "@PrimaryKey.", "isCorrect": true },
+      { "text": "@Entity.", "isCorrect": false }
     ]
   },
   {
     "id": 50,
-    "question": "¿Cuál de estas amenazas afecta a la seguridad de los datos?",
+    "question": "¿Qué método debe sobrescribirse para manejar solicitudes de enlace a un servicio?",
     "options": [
-      { "text": "Incremento de ventas.", "isCorrect": false },
-      { "text": "Malware y ransomware.", "isCorrect": true },
-      { "text": "Crecimiento de personal.", "isCorrect": false },
-      { "text": "Uso de emails corporativos.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 51,
-    "question": "¿Qué permiten las tecnologías habilitadoras digitales (THD)?",
-    "options": [
-      { "text": "Reemplazar al profesorado.", "isCorrect": false },
-      { "text": "Transformar procesos productivos.", "isCorrect": true },
-      { "text": "Eliminar la industria.", "isCorrect": false },
-      { "text": "Reducir salarios.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 52,
-    "question": "¿Cuál de las siguientes es una THD?",
-    "options": [
-      { "text": "Fotocopiadora.", "isCorrect": false },
-      { "text": "Impresora láser.", "isCorrect": false },
-      { "text": "Inteligencia artificial.", "isCorrect": true },
-      { "text": "Bolígrafo digital.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 53,
-    "question": "¿Qué organización definió el modelo cloud ampliamente citado?",
-    "options": [
-      { "text": "IEEE.", "isCorrect": false },
-      { "text": "MIT.", "isCorrect": false },
-      { "text": "NIST.", "isCorrect": true },
-      { "text": "Apple.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 54,
-    "question": "¿Qué característica define a la nube pública?",
-    "options": [
-      { "text": "Uso exclusivo de una organización.", "isCorrect": false },
-      { "text": "Infraestructura compartida.", "isCorrect": true },
-      { "text": "Solo disponible en Europa.", "isCorrect": false },
-      { "text": "No escalable.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 55,
-    "question": "¿Qué permite el big data?",
-    "options": [
-      { "text": "Almacenar información de manera analógica.", "isCorrect": false },
-      { "text": "Procesar grandes volúmenes de datos.", "isCorrect": true },
-      { "text": "Imprimir datos en papel.", "isCorrect": false },
-      { "text": "Reducir la conectividad.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 56,
-    "question": "¿Cuál es una ventaja económica del cloud?",
-    "options": [
-      { "text": "Mayor coste en hardware.", "isCorrect": false },
-      { "text": "Mayor gasto en licencias.", "isCorrect": false },
-      { "text": "Pago por uso.", "isCorrect": true },
-      { "text": "Necesidad de centros de datos propios.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 57,
-    "question": "¿Qué es un gemelo digital?",
-    "options": [
-      { "text": "Un robot físico.", "isCorrect": false },
-      { "text": "Una copia en papel.", "isCorrect": false },
-      { "text": "Una réplica virtual de un objeto real.", "isCorrect": true },
-      { "text": "Una impresora 3D.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 58,
-    "question": "¿Qué permite la red 5G?",
-    "options": [
-      { "text": "Mayor latencia.", "isCorrect": false },
-      { "text": "Baja velocidad.", "isCorrect": false },
-      { "text": "Conectividad lenta.", "isCorrect": false },
-      { "text": "Alta velocidad y baja latencia.", "isCorrect": true }
-    ]
-  },
-  {
-    "id": 59,
-    "question": "¿Cuál es una característica del modelo cloud?",
-    "options": [
-      { "text": "Acceso bajo demanda desde cualquier lugar.", "isCorrect": true },
-      { "text": "Acceso limitado solo desde la empresa.", "isCorrect": false },
-      { "text": "Solo funciona con conexión 5G.", "isCorrect": false },
-      { "text": "Solo disponible en papel.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 60,
-    "question": "¿Qué es la informática en la nube?",
-    "options": [
-      { "text": "El uso de papel digital.", "isCorrect": false },
-      { "text": "La creación de robots físicos.", "isCorrect": false },
-      { "text": "El acceso remoto a datos y aplicaciones por Internet.", "isCorrect": true },
-      { "text": "Un sistema de energía renovable.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 61,
-    "question": "¿Cuál de estas tecnologías se considera parte de las realidades inmersivas?",
-    "options": [
-      { "text": "Bluetooth.", "isCorrect": false },
-      { "text": "Realidad virtual.", "isCorrect": true },
-      { "text": "Nube híbrida.", "isCorrect": false },
-      { "text": "USB-C.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 62,
-    "question": "¿Cuál de las siguientes opciones es una ventaja del cloud para las pymes?",
-    "options": [
-      { "text": "Altos costes iniciales.", "isCorrect": false },
-      { "text": "Dependencia de servidores locales.", "isCorrect": false },
-      { "text": "Acceso a tecnologías avanzadas sin gran inversión.", "isCorrect": true },
-      { "text": "Falta de escalabilidad.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 63,
-    "question": "¿Qué implica la escalabilidad del cloud?",
-    "options": [
-      { "text": "Reducción del personal.", "isCorrect": false },
-      { "text": "Adaptación flexible del servicio según la demanda.", "isCorrect": true },
-      { "text": "Cierre de servidores.", "isCorrect": false },
-      { "text": "Duplicación de documentos.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 64,
-    "question": "¿Cuál es una buena práctica en ciberseguridad cloud?",
-    "options": [
-      { "text": "Compartir contraseñas.", "isCorrect": false },
-      { "text": "Usar 2FA (doble autenticación).", "isCorrect": true },
-      { "text": "Hacer copias físicas diarias.", "isCorrect": false },
-      { "text": "Conectar desde redes abiertas.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 65,
-    "question": "¿Qué permite la robótica colaborativa?",
-    "options": [
-      { "text": "Controlar ordenadores a distancia.", "isCorrect": false },
-      { "text": "Simular datos.", "isCorrect": false },
-      { "text": "Colaborar de forma segura entre humanos y robots.", "isCorrect": true },
-      { "text": "Enseñar idiomas.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 66,
-    "question": "¿Qué define a una nube híbrida?",
-    "options": [
-      { "text": "Combina nube privada y pública.", "isCorrect": true },
-      { "text": "Es exclusivamente pública.", "isCorrect": false },
-      { "text": "Solo sirve para correo.", "isCorrect": false },
-      { "text": "Es parte de una red cerrada.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 67,
-    "question": "¿Qué permite el procesamiento masivo de datos?",
-    "options": [
-      { "text": "Imprimir informes físicos rápidamente.", "isCorrect": false },
-      { "text": "Analizar grandes cantidades de información en tiempo real.", "isCorrect": true },
-      { "text": "Eliminar datos antiguos.", "isCorrect": false },
-      { "text": "Desconectar sistemas.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 68,
-    "question": "¿Qué característica es clave en las realidades inmersivas?",
-    "options": [
-      { "text": "Imágenes impresas.", "isCorrect": false },
-      { "text": "Documentación en papel.", "isCorrect": false },
-      { "text": "Impresoras 3D.", "isCorrect": false },
-      { "text": "Simulación digital del entorno.", "isCorrect": true }
-    ]
-  },
-  {
-    "id": 69,
-    "question": "¿Qué tecnología mejora la toma de decisiones mediante datos?",
-    "options": [
-      { "text": "Inteligencia artificial.", "isCorrect": true },
-      { "text": "Cableado estructurado.", "isCorrect": false },
-      { "text": "Sensor de humedad.", "isCorrect": false },
-      { "text": "Fotocopiadora.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 70,
-    "question": "¿Qué sector puede beneficiarse de la IA para diagnósticos médicos?",
-    "options": [
-      { "text": "Logística.", "isCorrect": false },
-      { "text": "Educación.", "isCorrect": false },
-      { "text": "Sanidad.", "isCorrect": true },
-      { "text": "Turismo.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 71,
-    "question": "¿Cuál es una ventaja del cloud en sostenibilidad?",
-    "options": [
-      { "text": "Mayor consumo energético.", "isCorrect": false },
-      { "text": "Centros de datos poco eficientes.", "isCorrect": false },
-      { "text": "Uso más eficiente de recursos compartidos.", "isCorrect": true },
-      { "text": "Necesidad de papel.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 72,
-    "question": "¿Cuál de las siguientes afirmaciones refleja una ventaja estratégica del uso de cloud computing en empresas?",
-    "options": [
-      { "text": "Facilita la transformación y escalabilidad del modelo de negocio.", "isCorrect": true },
-      { "text": "Permite mantener estructuras tradicionales sin cambios.", "isCorrect": false },
-      { "text": "Reduce el contacto digital con el cliente.", "isCorrect": false },
-      { "text": "Elimina la necesidad de planificación a largo plazo.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 73,
-    "question": "¿Qué papel desempeñan los gemelos digitales en la toma de decisiones industriales?",
-    "options": [
-      { "text": "Son modelos artísticos 3D.", "isCorrect": false },
-      { "text": "Simulan procesos para optimizar decisiones sin riesgo físico.", "isCorrect": true },
-      { "text": "Sustituyen los recursos humanos.", "isCorrect": false },
-      { "text": "Se usan solo en videojuegos.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 74,
-    "question": "¿Cuál es una diferencia clave entre el edge computing y el cloud computing tradicional?",
-    "options": [
-      { "text": "El edge procesa los datos en servidores centrales.", "isCorrect": false },
-      { "text": "El cloud tiene menor latencia.", "isCorrect": false },
-      { "text": "El edge reduce la latencia al acercar el procesamiento al origen del dato.", "isCorrect": true },
-      { "text": "Ambos funcionan sin Internet.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 75,
-    "question": "¿Qué es la IA simbólica?",
-    "options": [
-      { "text": "Una técnica de minería de datos.", "isCorrect": false },
-      { "text": "Un modelo biológico de redes neuronales.", "isCorrect": false },
-      { "text": "Un enfoque que usa reglas lógicas para resolver problemas.", "isCorrect": true },
-      { "text": "Una técnica para procesar imágenes médicas.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 76,
-    "question": "¿Qué tipo de IA (inteligencia artificial) busca imitar la mente humana en su totalidad?",
-    "options": [
-      { "text": "IA subsimbólica.", "isCorrect": false },
-      { "text": "IA fuerte.", "isCorrect": true },
-      { "text": "IA débil.", "isCorrect": false },
-      { "text": "IA de lenguaje natural.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 77,
-    "question": "¿Qué son las siete V del big data?",
-    "options": [
-      { "text": "Valores, volumen, velocidad, variedad, veracidad, visualización y valor.", "isCorrect": false },
-      { "text": "Valores, volumen, veracidad, variedad, victoria, vivacidad y verificación.", "isCorrect": false },
-      { "text": "Volumen, velocidad, variedad, veracidad, viabilidad, visualización y valor.", "isCorrect": true },
-      { "text": "Volumen, velocidad, vulnerabilidad, veracidad, virtualidad, variedad y valor.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 78,
-    "question": "¿Cuál de estos no es un método de aprendizaje en IA?",
-    "options": [
-      { "text": "Aprendizaje supervisado.", "isCorrect": false },
-      { "text": "Aprendizaje no supervisado.", "isCorrect": false },
-      { "text": "Aprendizaje por refuerzo.", "isCorrect": false },
-      { "text": "Aprendizaje estancado.", "isCorrect": true }
-    ]
-  },
-  {
-    "id": 79,
-    "question": "¿Qué principio de seguridad busca que los datos permanezcan exactos y sin alteraciones?",
-    "options": [
-      { "text": "Confidencialidad.", "isCorrect": false },
-      { "text": "Integridad.", "isCorrect": true },
-      { "text": "Disponibilidad.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 80,
-    "question": "¿Qué técnica de IA utiliza múltiples capas de redes neuronales?",
-    "options": [
-      { "text": "Aprendizaje supervisado.", "isCorrect": false },
-      { "text": "Algoritmos básicos de IA.", "isCorrect": false },
-      { "text": "Deep learning.", "isCorrect": true },
-      { "text": "Algoritmos de segmentación manual.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 81,
-    "question": "¿Qué principio busca que solo usuarios autorizados accedan a la información?",
-    "options": [
-      { "text": "Confidencialidad.", "isCorrect": true },
-      { "text": "Integridad.", "isCorrect": false },
-      { "text": "Disponibilidad.", "isCorrect": false },
-      { "text": "Visualización.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 82,
-    "question": "¿Qué campo de la IA se ocupa de procesar el lenguaje humano?",
-    "options": [
-      { "text": "Análisis de imágenes.", "isCorrect": false },
-      { "text": "Control de calidad en fábricas.", "isCorrect": false },
-      { "text": "Procesamiento de lenguaje natural (PLN).", "isCorrect": true },
-      { "text": "Mantenimiento predictivo.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 83,
-    "question": "¿Qué objetivo tiene la personalización en las empresas?",
-    "options": [
-      { "text": "Igualar las ofertas para todos.", "isCorrect": false },
-      { "text": "Reducir la variedad de productos.", "isCorrect": false },
-      { "text": "Adaptar los productos y servicios a cada cliente.", "isCorrect": true },
-      { "text": "Eliminar la segmentación.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 84,
-    "question": "¿Qué representa la veracidad en big data?",
-    "options": [
-      { "text": "La rapidez con la que llegan los datos.", "isCorrect": false },
-      { "text": "El tamaño del conjunto de datos.", "isCorrect": false },
-      { "text": "La calidad y fiabilidad de los datos.", "isCorrect": true },
-      { "text": "La forma gráfica de representar los datos.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 85,
-    "question": "¿Qué medida ayuda a proteger datos frente a accesos no autorizados?",
-    "options": [
-      { "text": "Compartir las contraseñas.", "isCorrect": false },
-      { "text": "Eliminar los backups.", "isCorrect": false },
-      { "text": "Autenticación multifactor.", "isCorrect": true },
-      { "text": "Guardar los datos sin protección.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 86,
-    "question": "¿Qué recurso ayuda a representar patrones complejos y dinámicos?",
-    "options": [
-      { "text": "Reglas de papel.", "isCorrect": false },
-      { "text": "Redes manuales de contactos.", "isCorrect": false },
-      { "text": "Visualización de datos.", "isCorrect": true },
-      { "text": "Libros de texto en papel.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 87,
-    "question": "¿Qué aspecto mide la velocidad en big data?",
-    "options": [
-      { "text": "Cuánto dinero se gana.", "isCorrect": false },
-      { "text": "Qué tanto se varía el tipo de dato.", "isCorrect": false },
-      { "text": "Cuán rápido se generan y procesan los datos.", "isCorrect": true },
-      { "text": "Cuántas personas los ven.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 88,
-    "question": "¿Qué tipo de aprendizaje utiliza datos sin etiquetas?",
-    "options": [
-      { "text": "Supervisado.", "isCorrect": false },
-      { "text": "Supervisado reforzado.", "isCorrect": false },
-      { "text": "No supervisado.", "isCorrect": true },
-      { "text": "Ninguno.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 89,
-    "question": "¿Qué técnica detecta patrones extraños en datos financieros?",
-    "options": [
-      { "text": "Pintura de gráficos.", "isCorrect": false },
-      { "text": "Marketing digital.", "isCorrect": false },
-      { "text": "Análisis de fraude y riesgo.", "isCorrect": true },
-      { "text": "Elaboración de flyers.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 90,
-    "question": "¿Qué significa visualización de datos?",
-    "options": [
-      { "text": "Representar gráficamente patrones y tendencias.", "isCorrect": true },
-      { "text": "Compartir datos en redes sociales.", "isCorrect": false },
-      { "text": "Cambiar datos manualmente.", "isCorrect": false },
-      { "text": "Crear música a partir de datos.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 91,
-    "question": "¿Qué tipo de IA incluye asistentes virtuales como Alexa o Siri?",
-    "options": [
-      { "text": "IA simbólica básica.", "isCorrect": false },
-      { "text": "Árboles de decisión manuales.", "isCorrect": false },
-      { "text": "Deep learning.", "isCorrect": true },
-      { "text": "Ninguna de las anteriores.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 92,
-    "question": "¿Qué principio de seguridad garantiza que los datos estén disponibles cuando se necesiten?",
-    "options": [
-      { "text": "Confidencialidad.", "isCorrect": false },
-      { "text": "Integridad.", "isCorrect": false },
-      { "text": "Disponibilidad.", "isCorrect": true },
-      { "text": "Visualización.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 93,
-    "question": "¿Qué tecnología permite gestionar grandes volúmenes de datos a través de clústeres distribuidos?",
-    "options": [
-      { "text": "Word y PowerPoint.", "isCorrect": false },
-      { "text": "Procesadores de texto.", "isCorrect": false },
-      { "text": "Hadoop.", "isCorrect": true },
-      { "text": "Hojas de cálculo básicas.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 94,
-    "question": "¿Qué riesgo puede tener el uso inadecuado de datos?",
-    "options": [
-      { "text": "Mejora continua garantizada.", "isCorrect": false },
-      { "text": "Mayor creatividad sin límites.", "isCorrect": false },
-      { "text": "Vulneración de la privacidad y normativas legales.", "isCorrect": true },
-      { "text": "Aumento automático de beneficios.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 95,
-    "question": "¿Qué significa que la IA sea fuerte?",
-    "options": [
-      { "text": "Simula la mente humana completa.", "isCorrect": true },
-      { "text": "No requiere entrenamiento de datos.", "isCorrect": false },
-      { "text": "Solo realiza cálculos simples.", "isCorrect": false },
-      { "text": "Funciona sin datos.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 96,
-    "question": "¿Qué técnica usa datos etiquetados para entrenar modelos?",
-    "options": [
-      { "text": "No supervisado.", "isCorrect": false },
-      { "text": "Supervisado.", "isCorrect": true },
-      { "text": "Aprendizaje difuso.", "isCorrect": false },
-      { "text": "Aleatorio.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 97,
-    "question": "¿Qué es un árbol de decisión en IA?",
-    "options": [
-      { "text": "Una lista de tareas.", "isCorrect": false },
-      { "text": "Una red social para empresas.", "isCorrect": false },
-      { "text": "Un diagrama con reglas lógicas de decisión.", "isCorrect": true },
-      { "text": "Una hoja de cálculo básica.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 98,
-    "question": "¿Qué permite la analítica avanzada?",
-    "options": [
-      { "text": "Decorar las oficinas.", "isCorrect": false },
-      { "text": "Tomar decisiones basadas en datos reales.", "isCorrect": true },
-      { "text": "Reemplazar todos los empleados.", "isCorrect": false },
-      { "text": "Hacer copias de seguridad únicamente.", "isCorrect": false }
-    ]
-  },
-  {
-    "id": 99,
-    "question": "¿Qué es el deep learning?",
-    "options": [
-      { "text": "Aprender solo manualmente.", "isCorrect": false },
-      { "text": "Solo usar gráficos.", "isCorrect": false },
-      { "text": "Aprender a partir de grandes cantidades de datos y redes neuronales profundas.", "isCorrect": true },
-      { "text": "Revisión de correo electrónico.", "isCorrect": false }
+      { "text": "onStartCommand().", "isCorrect": false },
+      { "text": "onBind().", "isCorrect": true },
+      { "text": "onDestroy().", "isCorrect": false },
+      { "text": "onPause().", "isCorrect": false }
     ]
   }
 ]
