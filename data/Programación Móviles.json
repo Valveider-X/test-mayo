@@ -1,502 +1,802 @@
 [
   {
     "id": 1,
-    "question": "Para poder ejecutar nuestras aplicaciones Android en nuestro ordenador debemos tener:",
+    "question": "¿Qué función cumple NavController?",
     "options": [
-      { "text": "Un móvil conectado con la versión de la API de nuestro proyecto.", "isCorrect": false },
-      { "text": "Configurado un emulador en Android Studio.", "isCorrect": false },
-      { "text": "Un emulador configurado en Android Studio o móvil conectado con la versión de la API de nuestro proyecto.", "isCorrect": true },
-      { "text": "No necesitamos nada, se ejecuta automáticamente en el escritorio.", "isCorrect": false }
+      { "text": "Gestionar el diseño visual", "isCorrect": false },
+      { "text": "Controlar la base de datos", "isCorrect": false },
+      { "text": "Gestionar el back stack y las rutas de navegación", "isCorrect": true },
+      { "text": "Administrar permisos", "isCorrect": false }
     ]
   },
   {
     "id": 2,
-    "question": "¿Cuál de las siguientes características del SDK es falsa?",
+    "question": "¿Qué permiso suele necesitar internet?",
     "options": [
-      { "text": "Acceso al hardware de wifi, GPS, Bluetooth y telefonía, lo que permite realizar y recibir tanto llamadas como SMS.", "isCorrect": false },
-      { "text": "Limitación de la aceleración gráfica para mejorar el rendimiento.", "isCorrect": true },
-      { "text": "Control completo de multimedia, lo que incluye la cámara y el micrófono.", "isCorrect": false },
-      { "text": "Controles de Google Maps en nuestras aplicaciones.", "isCorrect": false }
+      { "text": "HTTP_PERMISSION", "isCorrect": false },
+      { "text": "INTERNET", "isCorrect": true },
+      { "text": "ACCESS_WIFI", "isCorrect": false },
+      { "text": "NETWORK_ACCESS", "isCorrect": false }
     ]
   },
   {
     "id": 3,
-    "question": "¿Cuál de estas afirmaciones es falsa?",
+    "question": "¿Qué componente define métodos SQL en Room?",
     "options": [
-      { "text": "Xamarin utiliza el lenguaje de C# de Microsoft.", "isCorrect": false },
-      { "text": "Xamarin solo permite crear aplicaciones para Android e iOS.", "isCorrect": true },
-      { "text": "Ionic utiliza HTML y CSS para crear la UI.", "isCorrect": false },
-      { "text": "Todas son correctas", "isCorrect": false }
+      { "text": "Entity", "isCorrect": false },
+      { "text": "Dao", "isCorrect": true },
+      { "text": "Retrofit", "isCorrect": false },
+      { "text": "MediaItem", "isCorrect": false }
     ]
   },
   {
     "id": 4,
-    "question": "Android Studio es el único IDE con el que podemos desarrollar proyectos Android:",
+    "question": "¿Qué diferencia hay entre Button y OutlinedButton?",
     "options": [
-      { "text": "Si, solo se puede usar Android Studio.", "isCorrect": false },
-      { "text": "Aparte de Android Studio, cabe la posibilidad de emplear Eclipse.", "isCorrect": false },
-      { "text": "Actualmente podemos usar Android Studio e IntelliJ IDEA.", "isCorrect": true },
-      { "text": "Todas las respuestas son incorrectas.", "isCorrect": false }
+      { "text": "OutlinedButton tiene borde", "isCorrect": true },
+      { "text": "Ninguna", "isCorrect": false },
+      { "text": "OutlinedButton no admite texto", "isCorrect": false },
+      { "text": "Button solo funciona en XML", "isCorrect": false }
     ]
   },
   {
     "id": 5,
-    "question": "¿A qué método de la clase Activity tendríamos que llamar para volver a hacerla visible?",
+    "question": "¿Qué ventaja tienen las corrutinas frente a los hilos tradicionales?",
     "options": [
-      { "text": "onRestart().", "isCorrect": false },
-      { "text": "onResume().", "isCorrect": false },
-      { "text": "onStart().", "isCorrect": true },
-      { "text": "onCreate().", "isCorrect": false }
+      { "text": "Solo funcionan con XML", "isCorrect": false },
+      { "text": "Código asíncrono más simple y eficiente", "isCorrect": true },
+      { "text": "Menor legibilidad", "isCorrect": false },
+      { "text": "Más código repetitivo", "isCorrect": false }
     ]
   },
   {
     "id": 6,
-    "question": "¿Qué lenguajes de programación soporta actualmente Android?",
+    "question": "¿Qué componente de Unity detecta colisiones físicas?",
     "options": [
-      { "text": "Java.", "isCorrect": false },
-      { "text": "Java y Kotlin.", "isCorrect": true },
-      { "text": "Kotlin.", "isCorrect": false },
-      { "text": "JavaScript y Kotlin.", "isCorrect": false }
+      { "text": "Transform", "isCorrect": false },
+      { "text": "Collider", "isCorrect": true },
+      { "text": "Canvas", "isCorrect": false },
+      { "text": "Animator", "isCorrect": false }
     ]
   },
   {
     "id": 7,
-    "question": "¿Cuál de las siguientes afirmaciones es verdadera sobre Android?",
+    "question": "¿Qué componente permite introducir texto en Compose?",
     "options": [
-      { "text": "Está basado en el kernel de Linux.", "isCorrect": false },
-      { "text": "Todas son correctas.", "isCorrect": true },
-      { "text": "Las aplicaciones se suben y se descargan desde Google Play Store.", "isCorrect": false },
-      { "text": "Google es su diseñador.", "isCorrect": false }
+      { "text": "EditTextCompose", "isCorrect": false },
+      { "text": "InputView", "isCorrect": false },
+      { "text": "TextField", "isCorrect": true },
+      { "text": "TextInput", "isCorrect": false }
     ]
   },
   {
     "id": 8,
-    "question": "¿A qué método de la clase Activity deberíamos llamar al minimizar una Activity?",
+    "question": "¿Qué hace println() en Kotlin?",
     "options": [
-      { "text": "onPause()", "isCorrect": true },
-      { "text": "onStopped().", "isCorrect": false },
-      { "text": "on Resume().", "isCorrect": false },
-      { "text": "onPause() y, después, onDestroyed().", "isCorrect": false }
+      { "text": "Guardar datos", "isCorrect": false },
+      { "text": "Navegar", "isCorrect": false },
+      { "text": "Mostrar texto en consola", "isCorrect": true },
+      { "text": "Crear botones", "isCorrect": false }
     ]
   },
   {
     "id": 9,
-    "question": "El emulador de Android Studio tiene ciertas limitaciones y, en particular, ¿cuál de estas características no admite?",
+    "question": "¿Qué palabra clave declara una variable inmutable?",
     "options": [
-      { "text": "Wifi y Bluetooth.", "isCorrect": false },
-      { "text": "Inserción/expulsión de tarjetas SD.", "isCorrect": false },
-      { "text": "USB.", "isCorrect": false },
-      { "text": "Todas son correctas.", "isCorrect": true }
+      { "text": "static", "isCorrect": false },
+      { "text": "val", "isCorrect": true },
+      { "text": "var", "isCorrect": false },
+      { "text": "mutable", "isCorrect": false }
     ]
   },
   {
     "id": 10,
-    "question": "¿Cuál de las siguientes afirmaciones es falsa?",
+    "question": "¿Qué anotación se usa en Retrofit para enviar datos?",
     "options": [
-      { "text": "Amazon Fire es un SO independiente.", "isCorrect": false },
-      { "text": "Todas son falsas.", "isCorrect": false },
-      { "text": "Windows Phone de Microsoft es uno de los SO con más personas usuarias.", "isCorrect": true },
-      { "text": "El SO HarmonyOS ya ha desaparecido.", "isCorrect": false }
+      { "text": "@GET", "isCorrect": false },
+      { "text": "@FETCH", "isCorrect": false },
+      { "text": "@UPDATE", "isCorrect": false },
+      { "text": "@POST", "isCorrect": true }
     ]
   },
   {
     "id": 11,
-    "question": "¿Cuál es el valor por defecto del tipo de retorno de una función en Kotlin si no se especifica?",
+    "question": "¿Qué función se utiliza para recordar un estado dentro de un composable?",
     "options": [
-      { "text": "void.", "isCorrect": false },
-      { "text": "null.", "isCorrect": false },
-      { "text": "Unit.", "isCorrect": true },
-      { "text": "Init.", "isCorrect": false }
+      { "text": "observeState", "isCorrect": false },
+      { "text": "keepState", "isCorrect": false },
+      { "text": "stateOf", "isCorrect": false },
+      { "text": "remember", "isCorrect": true }
     ]
   },
   {
     "id": 12,
-    "question": "¿Cuál es el propósito de la palabra clave Unit en Kotlin?",
+    "question": "¿Qué estructura repite código varias veces?",
     "options": [
-      { "text": "Declarar una constante.", "isCorrect": false },
-      { "text": "Declarar una variable.", "isCorrect": false },
-      { "text": "Indicar que una función no devuelve nada.", "isCorrect": true },
-      { "text": "Crear una interface .", "isCorrect": false }
+      { "text": "for", "isCorrect": true },
+      { "text": "when", "isCorrect": false },
+      { "text": "if", "isCorrect": false },
+      { "text": "val", "isCorrect": false }
     ]
   },
   {
     "id": 13,
-    "question": "¿Cómo se define un rango en Kotlin que incluya números del 1 al 10?",
+    "question": "¿Qué ocurre cuando cambia un estado en Compose?",
     "options": [
-      { "text": "range(1,10).", "isCorrect": false },
-      { "text": "{1,10}.", "isCorrect": false },
-      { "text": "[1,10].", "isCorrect": false },
-      { "text": "1..10.", "isCorrect": true }
+      { "text": "La app se reinicia", "isCorrect": false },
+      { "text": "Se cierra la Activity", "isCorrect": false },
+      { "text": "No ocurre nada", "isCorrect": false },
+      { "text": "El composable se recompone", "isCorrect": true }
     ]
   },
   {
     "id": 14,
-    "question": "¿Qué expresión en Kotlin se utiliza a fin de manejar múltiples casos de comparación de un valor?",
+    "question": "¿Qué hace popBackStack()?",
     "options": [
-      { "text": "switch.", "isCorrect": false },
-      { "text": "if-else.", "isCorrect": false },
-      { "text": "when.", "isCorrect": true },
-      { "text": "while.", "isCorrect": false }
+      { "text": "Reinicia estado", "isCorrect": false },
+      { "text": "Reproduce sonido", "isCorrect": false },
+      { "text": "Añade una pantalla", "isCorrect": false },
+      { "text": "Retrocede en navegación", "isCorrect": true }
     ]
   },
   {
     "id": 15,
-    "question": "¿Cuál es la estructura de control en Kotlin que garantiza que un bloque de código se ejecute, al menos, una vez?",
+    "question": "¿Qué significa API?",
     "options": [
-      { "text": "do-while.", "isCorrect": true },
-      { "text": "while.", "isCorrect": false },
-      { "text": "when.", "isCorrect": false },
-      { "text": "return.", "isCorrect": false }
+      { "text": "Application Programming Interface", "isCorrect": true },
+      { "text": "Advanced Program Internet", "isCorrect": false },
+      { "text": "Android Program Interface", "isCorrect": false },
+      { "text": "Application Process Internet", "isCorrect": false }
     ]
   },
   {
     "id": 16,
-    "question": "¿Cuál es el tipo de dato predeterminado para un número decimal en Kotlin?",
+    "question": "¿Qué mecanismo moderno se utiliza para asincronía estructurada?",
     "options": [
-      { "text": "Float.", "isCorrect": false },
-      { "text": "Int.", "isCorrect": false },
-      { "text": "Long.", "isCorrect": false },
-      { "text": "Double.", "isCorrect": true }
+      { "text": "Coroutines con suspend", "isCorrect": true },
+      { "text": "AsyncTask", "isCorrect": false },
+      { "text": "Threads manuales", "isCorrect": false },
+      { "text": "TimerTask", "isCorrect": false }
     ]
   },
   {
     "id": 17,
-    "question": "¿Qué palabra clave se utiliza para crear una instancia de una clase en Kotlin?",
+    "question": "¿Qué palabra clave declara una variable mutable?",
     "options": [
-      { "text": "new.", "isCorrect": false },
-      { "text": "instance.", "isCorrect": false },
-      { "text": "construcctor.", "isCorrect": false },
-      { "text": "No se utilizan palabras clave.", "isCorrect": true }
+      { "text": "val", "isCorrect": false },
+      { "text": "var", "isCorrect": true },
+      { "text": "let", "isCorrect": false },
+      { "text": "const", "isCorrect": false }
     ]
   },
   {
     "id": 18,
-    "question": "¿Qué palabra clave se usa para declarar una variable mutable en Kotlin?",
+    "question": "¿Qué anotación se usa para insertar datos en Room?",
     "options": [
-      { "text": "let.", "isCorrect": false },
-      { "text": "const.", "isCorrect": false },
-      { "text": "var.", "isCorrect": true },
-      { "text": "val.", "isCorrect": false }
+      { "text": "@Insert", "isCorrect": true },
+      { "text": "@Put", "isCorrect": false },
+      { "text": "@Push", "isCorrect": false },
+      { "text": "@Save", "isCorrect": false }
     ]
   },
   {
     "id": 19,
-    "question": "¿Qué operador en Kotlin se utiliza para acceder de manera segura a una propiedad de un objeto nullable ?",
+    "question": "¿Qué clase representa un elemento multimedia reproducible en Media3?",
     "options": [
-      { "text": "?=.", "isCorrect": false },
-      { "text": "?.", "isCorrect": true },
-      { "text": "?:.", "isCorrect": false },
-      { "text": "::.", "isCorrect": false }
+      { "text": "MediaBrowser", "isCorrect": false },
+      { "text": "MediaItem", "isCorrect": true },
+      { "text": "MediaController", "isCorrect": false },
+      { "text": "MediaSession", "isCorrect": false }
     ]
   },
   {
     "id": 20,
-    "question": "¿Cómo se declara una función en Kotlin?",
+    "question": "¿Cuál es la principal ventaja de Compose frente al sistema basado en XML?",
     "options": [
-      { "text": "def mifuncion().", "isCorrect": false },
-      { "text": "function mifuncion().", "isCorrect": false },
-      { "text": "void mifuncion().", "isCorrect": false },
-      { "text": "fun mifuncion().", "isCorrect": true }
+      { "text": "No permite personalización", "isCorrect": false },
+      { "text": "Usa más archivos", "isCorrect": false },
+      { "text": "Es más declarativo y reduce código repetitivo", "isCorrect": true },
+      { "text": "Obliga a usar Java", "isCorrect": false }
     ]
   },
   {
     "id": 21,
-    "question": "¿Qué componente permite realizar solicitudes a API RESTful en aplicaciones Android?",
+    "question": "¿Qué anotación se usa en Room para definir una tabla?",
     "options": [
-      { "text": "JUnit.", "isCorrect": false },
-      { "text": "Espresso.", "isCorrect": false },
-      { "text": "Retrofit.", "isCorrect": true },
-      { "text": "Glide.", "isCorrect": false }
+      { "text": "@Database", "isCorrect": false },
+      { "text": "@Table", "isCorrect": false },
+      { "text": "@Entity", "isCorrect": true },
+      { "text": "@Dao", "isCorrect": false }
     ]
   },
   {
     "id": 22,
-    "question": "¿Qué tipo de archivo genera Android Studio para distribuir una aplicación en Google Play?",
+    "question": "¿Qué hace Modifier.height(16.dp)?",
     "options": [
-      { "text": "AAB o APK.", "isCorrect": true },
-      { "text": ".exe.", "isCorrect": false },
-      { "text": ".jar.", "isCorrect": false },
-      { "text": ".deb.", "isCorrect": false }
+      { "text": "Define transparencia", "isCorrect": false },
+      { "text": "Añade padding", "isCorrect": false },
+      { "text": "Cambia la anchura", "isCorrect": false },
+      { "text": "Define la altura", "isCorrect": true }
     ]
   },
   {
     "id": 23,
-    "question": "¿Cuál es el lenguaje de programación oficial para el desarrollo de aplicaciones Android?",
+    "question": "¿Qué componente se utiliza en Compose para mostrar listas de forma eficiente?",
     "options": [
-      { "text": "JavaScript.", "isCorrect": false },
-      { "text": "Python.", "isCorrect": false },
-      { "text": "Kotlin.", "isCorrect": true },
-      { "text": "Swift.", "isCorrect": false }
+      { "text": "ListView", "isCorrect": false },
+      { "text": "LazyColumn", "isCorrect": true },
+      { "text": "ScrollColumn", "isCorrect": false },
+      { "text": "RecyclerView", "isCorrect": false }
     ]
   },
   {
     "id": 24,
-    "question": "¿Qué componente se utiliza para gestionar la estructura visual de la UI en Android?",
+    "question": "¿Qué componente suele contener la estructura general de una pantalla?",
     "options": [
-      { "text": "ConstraintLayout.", "isCorrect": true },
-      { "text": "FrameLayout.", "isCorrect": false },
-      { "text": "GridLayout.", "isCorrect": false },
-      { "text": "RecyclerView.", "isCorrect": false }
+      { "text": "Scaffold", "isCorrect": true },
+      { "text": "Box", "isCorrect": false },
+      { "text": "Surface", "isCorrect": false },
+      { "text": "Card", "isCorrect": false }
     ]
   },
   {
     "id": 25,
-    "question": "¿Qué herramienta es útil para manejar imágenes en aplicaciones Android?",
+    "question": "¿Qué componente permite crear botones en Compose?",
     "options": [
-      { "text": "Retrofit.", "isCorrect": false },
-      { "text": "Espresso.", "isCorrect": false },
-      { "text": "Glide.", "isCorrect": true },
-      { "text": "Hilt.", "isCorrect": false }
+      { "text": "ClickableView", "isCorrect": false },
+      { "text": "Button", "isCorrect": true },
+      { "text": "ActionButton", "isCorrect": false },
+      { "text": "Pressable", "isCorrect": false }
     ]
   },
   {
     "id": 26,
-    "question": "¿Cuál de estas fases forma parte del proceso de publicación de una aplicación Android?",
+    "question": "¿Qué función permite pausar una corrutina un tiempo sin bloquear el hilo?",
     "options": [
-      { "text": "Depuración.", "isCorrect": false },
-      { "text": "Firmado de la aplicación.", "isCorrect": true },
-      { "text": "Desarrollo de la interfaz gráfica.", "isCorrect": false },
-      { "text": "Pruebas unitarias.", "isCorrect": false }
+      { "text": "delay()", "isCorrect": true },
+      { "text": "pause()", "isCorrect": false },
+      { "text": "stop()", "isCorrect": false },
+      { "text": "Thread.sleep()", "isCorrect": false }
     ]
   },
   {
     "id": 27,
-    "question": "¿Qué permite el uso de JetPack Compose en Android?",
+    "question": "¿Qué expresión en Kotlin permite evaluar múltiples casos sobre un valor?",
     "options": [
-      { "text": "Crear pruebas unitarias.", "isCorrect": false },
-      { "text": "Desarrollar UI de forma declarativa.", "isCorrect": true },
-      { "text": "Gestionar la memoria.", "isCorrect": false },
-      { "text": "Compilar recursos gráficos.", "isCorrect": false }
+      { "text": "when", "isCorrect": true },
+      { "text": "foreach", "isCorrect": false },
+      { "text": "switch", "isCorrect": false },
+      { "text": "case", "isCorrect": false }
     ]
   },
   {
     "id": 28,
-    "question": "¿Qué archivo es esencial en un proyecto Android para declarar permisos y componentes de la aplicación?",
+    "question": "¿Qué componente permite superponer elementos en Compose?",
     "options": [
-      { "text": "build.gradle.", "isCorrect": false },
-      { "text": "AndroidManifest.xml.", "isCorrect": true },
-      { "text": "settings.gradle.", "isCorrect": false },
-      { "text": "ProGuard.", "isCorrect": false }
+      { "text": "Text", "isCorrect": false },
+      { "text": "LazyColumn", "isCorrect": false },
+      { "text": "Box", "isCorrect": true },
+      { "text": "Card", "isCorrect": false }
     ]
   },
   {
     "id": 29,
-    "question": "¿Cuál es el propósito de un Repository en el patrón MVVM?",
+    "question": "¿Qué es Jetpack Media3?",
     "options": [
-      { "text": "Manejar la UI.", "isCorrect": false },
-      { "text": "Almacenar datos locales o de red.", "isCorrect": true },
-      { "text": "Crear animaciones.", "isCorrect": false },
-      { "text": "Diseñar interfaces gráficas.", "isCorrect": false }
+      { "text": "Un motor gráfico", "isCorrect": false },
+      { "text": "Un editor de vídeo", "isCorrect": false },
+      { "text": "Una biblioteca moderna para experiencias multimedia en Android", "isCorrect": true },
+      { "text": "Un sistema de notificaciones", "isCorrect": false }
     ]
   },
   {
     "id": 30,
-    "question": "¿Qué herramienta de Android Studio facilita la creación de animaciones complejas?",
+    "question": "¿Qué método se ejecuta en cada frame en Unity?",
     "options": [
-      { "text": "Motion Editor.", "isCorrect": true },
-      { "text": "ConstraintLayout.", "isCorrect": false },
-      { "text": "Theme Editor.", "isCorrect": false },
-      { "text": "Layout Inspector.", "isCorrect": false }
+      { "text": "Tick()", "isCorrect": false },
+      { "text": "Update()", "isCorrect": true },
+      { "text": "Render()", "isCorrect": false },
+      { "text": "Frame()", "isCorrect": false }
     ]
   },
   {
     "id": 31,
-    "question": "¿Qué característica de Jetpack Compose facilita la creación de animaciones sin código complejo?",
+    "question": "¿Qué anotación de Retrofit se usa para obtener datos de un endpoint?",
     "options": [
-      { "text": "Código imperativo.", "isCorrect": false },
-      { "text": "Controladores de animación.", "isCorrect": false },
-      { "text": "API de animación simplificadas.", "isCorrect": true },
-      { "text": "Listeners de animación manual.", "isCorrect": false }
+      { "text": "@GET", "isCorrect": true },
+      { "text": "@FETCH", "isCorrect": false },
+      { "text": "@PUT", "isCorrect": false },
+      { "text": "@POST", "isCorrect": false }
     ]
   },
   {
     "id": 32,
-    "question": "¿Qué característica permite a Jetpack Compose actualizar automáticamente la UI cuando cambian los datos?",
+    "question": "¿Qué hace rememberSaveable?",
     "options": [
-      { "text": "Programación reactiva.", "isCorrect": true },
-      { "text": "Renderizado manual.", "isCorrect": false },
-      { "text": "Programación imperativa.", "isCorrect": false },
-      { "text": "Funciones síncronas.", "isCorrect": false }
+      { "text": "Navega entre pantallas", "isCorrect": false },
+      { "text": "Gestiona imágenes", "isCorrect": false },
+      { "text": "Guarda estado incluso tras rotaciones", "isCorrect": true },
+      { "text": "Borra estados", "isCorrect": false }
     ]
   },
   {
     "id": 33,
-    "question": "¿Qué función se utiliza para recordar un estado en Jetpack Compose?",
+    "question": "¿Qué componente organiza elementos verticalmente en Compose?",
     "options": [
-      { "text": "observeState.", "isCorrect": false },
-      { "text": "reactiveState.", "isCorrect": false },
-      { "text": "remember.", "isCorrect": true },
-      { "text": "mutableState.", "isCorrect": false }
+      { "text": "Scaffold", "isCorrect": false },
+      { "text": "Surface", "isCorrect": false },
+      { "text": "Column", "isCorrect": true },
+      { "text": "Row", "isCorrect": false }
     ]
   },
   {
     "id": 34,
-    "question": "¿Qué componente de Jetpack Compose se utiliza para crear un campo de entrada de texto?",
+    "question": "¿Qué parámetro define la primera pantalla en NavHost?",
     "options": [
-      { "text": "TextField.", "isCorrect": true },
-      { "text": "EditText.", "isCorrect": false },
-      { "text": "TextInput.", "isCorrect": false },
-      { "text": "InputField.", "isCorrect": false }
+      { "text": "initialRoute", "isCorrect": false },
+      { "text": "startDestination", "isCorrect": true },
+      { "text": "firstScreen", "isCorrect": false },
+      { "text": "routeStart", "isCorrect": false }
     ]
   },
   {
     "id": 35,
-    "question": "¿Qué función se utiliza para declarar un estado mutable en Jetpack Compose?",
+    "question": "¿Qué hace LazyRow?",
     "options": [
-      { "text": "mutableStateOf().", "isCorrect": true },
-      { "text": "rememberState().", "isCorrect": false },
-      { "text": "observableState().", "isCorrect": false },
-      { "text": "saveState().", "isCorrect": false }
+      { "text": "Lista vertical", "isCorrect": false },
+      { "text": "Navegación", "isCorrect": false },
+      { "text": "Lista horizontal eficiente", "isCorrect": true },
+      { "text": "Multimedia", "isCorrect": false }
     ]
   },
   {
     "id": 36,
-    "question": "¿Cómo se define una función en Jetpack Compose que puede componer una UI?",
+    "question": "¿Qué ventaja tiene delay frente a Thread.sleep()?",
     "options": [
-      { "text": "@Composable.", "isCorrect": true },
-      { "text": "@View.", "isCorrect": false },
-      { "text": "@Componet.", "isCorrect": false },
-      { "text": "DeclareUI.", "isCorrect": false }
+      { "text": "No bloquea el hilo", "isCorrect": true },
+      { "text": "No pausa nada", "isCorrect": false },
+      { "text": "Reinicia Compose", "isCorrect": false },
+      { "text": "Solo funciona en Java", "isCorrect": false }
     ]
   },
   {
     "id": 37,
-    "question": "¿Cuál es el lenguaje utilizado por Jetpack Compose?",
+    "question": "¿Qué archivo define permisos en Android?",
     "options": [
-      { "text": "Java.", "isCorrect": false },
-      { "text": "Swift.", "isCorrect": false },
-      { "text": "Python.", "isCorrect": false },
-      { "text": "Kotlin.", "isCorrect": true }
+      { "text": "AndroidManifest.xml", "isCorrect": true },
+      { "text": "themes.xml", "isCorrect": false },
+      { "text": "MainActivity.kt", "isCorrect": false },
+      { "text": "nav_graph.xml", "isCorrect": false }
     ]
   },
   {
     "id": 38,
-    "question": "¿Qué modificador se utiliza para aplicar un fondo de color a un componente?",
+    "question": "¿Qué función suele utilizarse para iniciar una corrutina?",
     "options": [
-      { "text": "setBackground().", "isCorrect": false },
-      { "text": "bgColor().", "isCorrect": false },
-      { "text": "background().", "isCorrect": true },
-      { "text": "fillBackground().", "isCorrect": false }
+      { "text": "launch()", "isCorrect": true },
+      { "text": "begin()", "isCorrect": false },
+      { "text": "execute()", "isCorrect": false },
+      { "text": "suspend()", "isCorrect": false }
     ]
   },
   {
     "id": 39,
-    "question": "¿Cuál es una ventaja de Jetpack Compose sobre el sistema tradicional, basado en XML?",
+    "question": "¿Qué función tiene mutableStateOf?",
     "options": [
-      { "text": "Es más difícil de aprender.", "isCorrect": false },
-      { "text": "Produce más código.", "isCorrect": false },
-      { "text": "Es más declarativo y reduce la cantidad de código necesario.", "isCorrect": true },
-      { "text": "Requiere archivos XML adicionales.", "isCorrect": false }
+      { "text": "Crear listas", "isCorrect": false },
+      { "text": "Gestionar navegación", "isCorrect": false },
+      { "text": "Crear bases de datos", "isCorrect": false },
+      { "text": "Guardar estado observable", "isCorrect": true }
     ]
   },
   {
     "id": 40,
-    "question": "¿Cuál es el modificador en Jetpack Compose con el que se agrega un espacio alrededor de un composable ?",
+    "question": "¿Qué hace Spacer en Compose?",
     "options": [
-      { "text": "margin().", "isCorrect": false },
-      { "text": "padding().", "isCorrect": true },
-      { "text": "gap().", "isCorrect": false },
-      { "text": "space().", "isCorrect": false }
+      { "text": "Inserta espacio vacío", "isCorrect": true },
+      { "text": "Crea botones", "isCorrect": false },
+      { "text": "Añade animaciones", "isCorrect": false },
+      { "text": "Navega entre pantallas", "isCorrect": false }
     ]
   },
   {
     "id": 41,
-    "question": "¿Qué tipo de almacenamiento es el mejor para datos sensibles en Android?",
+    "question": "¿Qué es una Entity en Room?",
     "options": [
-      { "text": "Interno.", "isCorrect": true },
-      { "text": "Externo.", "isCorrect": false },
-      { "text": "Firebase Realtime Database.", "isCorrect": false },
-      { "text": "Proveedores de contenido.", "isCorrect": false }
+      { "text": "Un servicio HTTP", "isCorrect": false },
+      { "text": "Una tabla de la base de datos", "isCorrect": true },
+      { "text": "Un botón", "isCorrect": false },
+      { "text": "Una pantalla", "isCorrect": false }
     ]
   },
   {
     "id": 42,
-    "question": "¿Qué método de corrutinas devuelve el resultado de forma diferida?",
+    "question": "¿Qué hace setContent en Android Compose?",
     "options": [
-      { "text": "async.", "isCorrect": true },
-      { "text": "launch.", "isCorrect": false },
-      { "text": "runBlocking.", "isCorrect": false },
-      { "text": "withTimeout.", "isCorrect": false }
+      { "text": "Define la UI Compose", "isCorrect": true },
+      { "text": "Cierra la app", "isCorrect": false },
+      { "text": "Navega", "isCorrect": false },
+      { "text": "Abre una Activity", "isCorrect": false }
     ]
   },
   {
     "id": 43,
-    "question": "¿Qué es un servicio en Android?",
+    "question": "¿Cuál es la diferencia principal entre GET y POST?",
     "options": [
-      { "text": "Un componente que proporciona una UI.", "isCorrect": false },
-      { "text": "Un componente para realizar operaciones de larga duración en segundo plano.", "isCorrect": true },
-      { "text": "Una herramienta con la que gestionar conexiones de red.", "isCorrect": false },
-      { "text": "Un controlador para animaciones avanzadas.", "isCorrect": false }
+      { "text": "POST solo sirve para borrar", "isCorrect": false },
+      { "text": "No hay diferencia", "isCorrect": false },
+      { "text": "GET obtiene datos y POST envía o crea datos", "isCorrect": true },
+      { "text": "GET elimina datos", "isCorrect": false }
     ]
   },
   {
     "id": 44,
-    "question": "¿Qué método de Room permite acceder a la base de datos?",
+    "question": "¿Qué archivo contiene dependencias Gradle?",
     "options": [
-      { "text": "query().", "isCorrect": false },
-      { "text": "select().", "isCorrect": false },
-      { "text": "DAO.", "isCorrect": true },
-      { "text": "update().", "isCorrect": false }
+      { "text": "build.gradle.kts", "isCorrect": true },
+      { "text": "settings.json", "isCorrect": false },
+      { "text": "AndroidManifest.xml", "isCorrect": false },
+      { "text": "strings.xml", "isCorrect": false }
     ]
   },
   {
     "id": 45,
-    "question": "¿Qué elemento de Room se utiliza para definir tablas de base de datos?",
+    "question": "¿Qué componente en Unity gestiona posición, rotación y escala?",
     "options": [
-      { "text": "DAO.", "isCorrect": false },
-      { "text": "Entidad.", "isCorrect": true },
-      { "text": "AppDatabase.", "isCorrect": false },
-      { "text": "DataAccessObject.", "isCorrect": false }
+      { "text": "Collider", "isCorrect": false },
+      { "text": "Transform", "isCorrect": true },
+      { "text": "Animator", "isCorrect": false },
+      { "text": "Rigidbody", "isCorrect": false }
     ]
   },
   {
     "id": 46,
-    "question": "¿Qué diferencia principal tiene un Service respecto a una Activity ?",
+    "question": "¿Cuál es una ventaja principal de Room?",
     "options": [
-      { "text": "Los servicios no tienen ciclo de vida.", "isCorrect": false },
-      { "text": "Las actividades no permiten multitarea.", "isCorrect": false },
-      { "text": "Los servicios no dependen de una UI.", "isCorrect": true },
-      { "text": "Las actividades son menos eficientes.", "isCorrect": false }
+      { "text": "Verifica consultas SQL en tiempo de compilación", "isCorrect": true },
+      { "text": "Reduce el tamaño de la app", "isCorrect": false },
+      { "text": "No usa SQLite", "isCorrect": false },
+      { "text": "Funciona sin base de datos", "isCorrect": false }
     ]
   },
   {
     "id": 47,
-    "question": "¿Cuál es la ventaja principal de usar Room como biblioteca de persistencia?",
+    "question": "¿Qué componente gestiona la navegación entre pantallas en Compose?",
     "options": [
-      { "text": "Mayor compatibilidad con Java.", "isCorrect": false },
-      { "text": "Reducción del uso de memoria.", "isCorrect": false },
-      { "text": "Soporte limitado para bases de datos relacionales.", "isCorrect": false },
-      { "text": "Verificación de consultas SQL en tiempo de compilación.", "isCorrect": true }
+      { "text": "RouterView", "isCorrect": false },
+      { "text": "ActivityManager", "isCorrect": false },
+      { "text": "NavHost", "isCorrect": true },
+      { "text": "Navigator", "isCorrect": false }
     ]
   },
   {
     "id": 48,
-    "question": "¿Qué clase se utiliza a fin de manejar etiquetas NFC en Android?",
+    "question": "¿Qué clase representa una Activity en Android?",
     "options": [
-      { "text": "NFCController.", "isCorrect": false },
-      { "text": "NfcAdapter.", "isCorrect": true },
-      { "text": "NfcManager.", "isCorrect": false },
-      { "text": "NfcConnection.", "isCorrect": false }
+      { "text": "FragmentView", "isCorrect": false },
+      { "text": "Window", "isCorrect": false },
+      { "text": "Activity", "isCorrect": true },
+      { "text": "Screen", "isCorrect": false }
     ]
   },
   {
     "id": 49,
-    "question": "¿Qué anotación se utiliza con el fin de identificar la clave primaria en Room ?",
+    "question": "¿Qué es Retrofit?",
     "options": [
-      { "text": "@ColumnInfo.", "isCorrect": false },
-      { "text": "@PrimaryKey(autoGenerate=false).", "isCorrect": false },
-      { "text": "@PrimaryKey.", "isCorrect": true },
-      { "text": "@Entity.", "isCorrect": false }
+      { "text": "Motor gráfico", "isCorrect": false },
+      { "text": "Librería para peticiones HTTP", "isCorrect": true },
+      { "text": "Base de datos", "isCorrect": false },
+      { "text": "Editor XML", "isCorrect": false }
     ]
   },
   {
     "id": 50,
-    "question": "¿Qué método debe sobrescribirse para manejar solicitudes de enlace a un servicio?",
+    "question": "¿Qué método se ejecuta una vez al iniciar un script en Unity?",
     "options": [
-      { "text": "onStartCommand().", "isCorrect": false },
-      { "text": "onBind().", "isCorrect": true },
-      { "text": "onDestroy().", "isCorrect": false },
-      { "text": "onPause().", "isCorrect": false }
+      { "text": "Begin()", "isCorrect": false },
+      { "text": "Start()", "isCorrect": true },
+      { "text": "Init()", "isCorrect": false },
+      { "text": "AwakeLoop()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "¿Qué formato suele devolver una API REST?",
+    "options": [
+      { "text": "JSON", "isCorrect": true },
+      { "text": "DOCX", "isCorrect": false },
+      { "text": "EXE", "isCorrect": false },
+      { "text": "MP3", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "¿Qué hace NavHost?",
+    "options": [
+      { "text": "Controla sensores", "isCorrect": false },
+      { "text": "Gestiona bases de datos", "isCorrect": false },
+      { "text": "Contiene destinos de navegación", "isCorrect": true },
+      { "text": "Reproduce multimedia", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "¿Qué componente organiza elementos horizontalmente en Compose?",
+    "options": [
+      { "text": "Column", "isCorrect": false },
+      { "text": "Row", "isCorrect": true },
+      { "text": "Box", "isCorrect": false },
+      { "text": "Card", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "¿Qué hace Icon?",
+    "options": [
+      { "text": "Gestionar Room", "isCorrect": false },
+      { "text": "Crear Activities", "isCorrect": false },
+      { "text": "Mostrar iconos", "isCorrect": true },
+      { "text": "Crear APIs", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "¿Qué es Jetpack Compose?",
+    "options": [
+      { "text": "Un toolkit moderno declarativo para construir interfaces Android", "isCorrect": true },
+      { "text": "Una base de datos", "isCorrect": false },
+      { "text": "Un sistema operativo móvil", "isCorrect": false },
+      { "text": "Un lenguaje de programación", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "¿Qué formato de datos es más común en comunicación cliente-servidor?",
+    "options": [
+      { "text": "CSV", "isCorrect": false },
+      { "text": "TXT", "isCorrect": false },
+      { "text": "YAML", "isCorrect": false },
+      { "text": "JSON", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "¿Qué significa que Compose sea declarativo?",
+    "options": [
+      { "text": "La UI se define según el estado", "isCorrect": true },
+      { "text": "Solo funciona online", "isCorrect": false },
+      { "text": "Usa XML obligatorio", "isCorrect": false },
+      { "text": "No permite eventos", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "¿Qué método se usa para navegar con NavController?",
+    "options": [
+      { "text": "open()", "isCorrect": false },
+      { "text": "navigate()", "isCorrect": true },
+      { "text": "move()", "isCorrect": false },
+      { "text": "route()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "¿Qué componente permite crear tarjetas visuales en Compose?",
+    "options": [
+      { "text": "Row", "isCorrect": false },
+      { "text": "Spacer", "isCorrect": false },
+      { "text": "Box", "isCorrect": false },
+      { "text": "Card", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "¿Qué hace Modifier.fillMaxWidth()?",
+    "options": [
+      { "text": "Ocupa el ancho disponible", "isCorrect": true },
+      { "text": "Centra contenido", "isCorrect": false },
+      { "text": "Rota la pantalla", "isCorrect": false },
+      { "text": "Cambia el color", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "¿Qué hace Modifier.padding()?",
+    "options": [
+      { "text": "Elimina espacio", "isCorrect": false },
+      { "text": "Cambia el color", "isCorrect": false },
+      { "text": "Añade margen interno", "isCorrect": true },
+      { "text": "Cambia el tamaño del texto", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "¿Cuál es el lenguaje recomendado actualmente por Google como primera opción para desarrollar aplicaciones Android?",
+    "options": [
+      { "text": "Dart", "isCorrect": false },
+      { "text": "Kotlin", "isCorrect": true },
+      { "text": "Java", "isCorrect": false },
+      { "text": "C#", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "¿Qué componente añade físicas en Unity?",
+    "options": [
+      { "text": "Sprite", "isCorrect": false },
+      { "text": "Camera", "isCorrect": false },
+      { "text": "Rigidbody", "isCorrect": true },
+      { "text": "Transform", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "¿Qué ocurre con el back stack al navegar?",
+    "options": [
+      { "text": "Se reinicia la app", "isCorrect": false },
+      { "text": "Se elimina NavHost", "isCorrect": false },
+      { "text": "Se añade una nueva pantalla", "isCorrect": true },
+      { "text": "Se borra todo", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "¿Qué lenguaje se usa principalmente en Unity?",
+    "options": [
+      { "text": "Swift", "isCorrect": false },
+      { "text": "Java", "isCorrect": false },
+      { "text": "C#", "isCorrect": true },
+      { "text": "Kotlin", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "¿Qué es una corrutina en Android?",
+    "options": [
+      { "text": "Una tarea suspendible para manejar asincronía", "isCorrect": true },
+      { "text": "Un servicio en segundo plano", "isCorrect": false },
+      { "text": "Un hilo físico", "isCorrect": false },
+      { "text": "Una base de datos", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "¿Qué componente reproduce animaciones en Unity?",
+    "options": [
+      { "text": "Animator", "isCorrect": true },
+      { "text": "Canvas", "isCorrect": false },
+      { "text": "Rigidbody", "isCorrect": false },
+      { "text": "Collider", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "¿Qué componente de Compose se utiliza para mostrar texto?",
+    "options": [
+      { "text": "Label", "isCorrect": false },
+      { "text": "Typography", "isCorrect": false },
+      { "text": "Text", "isCorrect": true },
+      { "text": "TextView", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "¿Qué hace @Delete en Room?",
+    "options": [
+      { "text": "Actualiza UI", "isCorrect": false },
+      { "text": "Inserta datos", "isCorrect": false },
+      { "text": "Navega", "isCorrect": false },
+      { "text": "Elimina registros", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "¿Cuál es el propósito del tipo Unit en Kotlin?",
+    "options": [
+      { "text": "Indicar que una función no devuelve valor significativo", "isCorrect": true },
+      { "text": "Crear una interfaz", "isCorrect": false },
+      { "text": "Declarar una variable global", "isCorrect": false },
+      { "text": "Declarar una constante", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "¿Qué anotación define una consulta SQL en Room?",
+    "options": [
+      { "text": "@Sql", "isCorrect": false },
+      { "text": "@Data", "isCorrect": false },
+      { "text": "@Query", "isCorrect": true },
+      { "text": "@Select", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "¿Qué tipo representa verdadero o falso?",
+    "options": [
+      { "text": "Float", "isCorrect": false },
+      { "text": "Int", "isCorrect": false },
+      { "text": "String", "isCorrect": false },
+      { "text": "Boolean", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "¿Qué unidad se usa habitualmente para tamaños en Compose?",
+    "options": [
+      { "text": "em", "isCorrect": false },
+      { "text": "px", "isCorrect": false },
+      { "text": "rem", "isCorrect": false },
+      { "text": "dp", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "¿Cómo se define una función que genera UI en Compose?",
+    "options": [
+      { "text": "@Component", "isCorrect": false },
+      { "text": "@Layout", "isCorrect": false },
+      { "text": "@UI", "isCorrect": false },
+      { "text": "@Composable", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "¿Qué hace Scaffold?",
+    "options": [
+      { "text": "Hace peticiones HTTP", "isCorrect": false },
+      { "text": "Guarda datos", "isCorrect": false },
+      { "text": "Reproduce vídeo", "isCorrect": false },
+      { "text": "Gestiona la estructura visual principal", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "¿Qué hace Image en Compose?",
+    "options": [
+      { "text": "Mostrar imágenes", "isCorrect": true },
+      { "text": "Navegar", "isCorrect": false },
+      { "text": "Reproducir vídeo", "isCorrect": false },
+      { "text": "Guardar datos", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "¿Qué hace Modifier.clickable?",
+    "options": [
+      { "text": "Añade interacción táctil", "isCorrect": true },
+      { "text": "Cambia tamaño", "isCorrect": false },
+      { "text": "Reproduce sonido", "isCorrect": false },
+      { "text": "Elimina padding", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "¿Qué ventaja tiene LazyColumn frente a Column?",
+    "options": [
+      { "text": "Usa XML", "isCorrect": false },
+      { "text": "Es más lenta", "isCorrect": false },
+      { "text": "No admite listas", "isCorrect": false },
+      { "text": "Renderiza solo elementos visibles", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "¿Qué hace un if en Kotlin?",
+    "options": [
+      { "text": "Evaluar condiciones", "isCorrect": true },
+      { "text": "Repetir código", "isCorrect": false },
+      { "text": "Crear listas", "isCorrect": false },
+      { "text": "Navegar", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "¿Qué palabra clave indica que una función puede suspenderse?",
+    "options": [
+      { "text": "async", "isCorrect": false },
+      { "text": "wait", "isCorrect": false },
+      { "text": "coroutine", "isCorrect": false },
+      { "text": "suspend", "isCorrect": true }
     ]
   }
 ]
