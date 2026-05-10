@@ -1,0 +1,722 @@
+[
+    {
+      "id": 1,
+      "question": "En el contexto de Smart Cities, ¿qué papel juega el loT?",
+      "options": [
+        { "text": "Reducir el número de ciudadanos", "isCorrect": false },
+        { "text": "Eliminar las redes de transporte", "isCorrect": false },
+        { "text": "Optimizar servicios como el tráfico o alumbrado", "isCorrect": true },
+        { "text": "Prohibir el uso de smartphones", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "¿Qué es un ataque de 'phishing'?",
+      "options": [
+        { "text": "Una técnica de minado de criptomonedas", "isCorrect": false },
+        { "text": "Un fallo en la conexión Wi-Fi", "isCorrect": false },
+        { "text": "Un intento de engañar para obtener datos sensibles", "isCorrect": true },
+        { "text": "Un virus que borra fotos", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "¿Cómo acelerar el lanzamiento de nuevos productos?",
+      "options": [
+        { "text": "Reduciendo el equipo de diseño", "isCorrect": false },
+        { "text": "Evitando las pruebas de calidad", "isCorrect": false },
+        { "text": "Haciendo más lenta la fabricación", "isCorrect": false },
+        { "text": "Mediante prototipado digital y análisis de mercado rápido", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Si no tenemos datos etiquetados, ¿qué aprendizaje automático usamos?",
+      "options": [
+        { "text": "Aprendizaje no supervisado", "isCorrect": true },
+        { "text": "Aprendizaje memorístico", "isCorrect": false },
+        { "text": "Aprendizaje supervisado", "isCorrect": false },
+        { "text": "Ninguno", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "La sostenibilidad en la nube se relaciona con:",
+      "options": [
+        { "text": "Reducción de huella de carbono", "isCorrect": true },
+        { "text": "Mayor consumo energético", "isCorrect": false },
+        { "text": "Más servidores locales", "isCorrect": false },
+        { "text": "Menor eficiencia", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "¿Quién es responsable de la seguridad de la infraestructura en nube pública?",
+      "options": [
+        { "text": "El proveedor del servicio (ej. AWS, Google, Azure)", "isCorrect": true },
+        { "text": "La compañía eléctrica", "isCorrect": false },
+        { "text": "El cliente", "isCorrect": false },
+        { "text": "Nadie", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "¿De qué manera ayuda la transformación digital a la optimización de costes?",
+      "options": [
+        { "text": "Reduciendo ineficiencias mediante el análisis de procesos", "isCorrect": true },
+        { "text": "Evitando el uso de la nube", "isCorrect": false },
+        { "text": "Aumentando el gasto en papel", "isCorrect": false },
+        { "text": "Contratando más personal administrativo", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "¿Qué es el 'Green Computing'?",
+      "options": [
+        { "text": "Usar ordenadores viejos", "isCorrect": false },
+        { "text": "No usar tecnología", "isCorrect": false },
+        { "text": "Pintar los ordenadores de verde", "isCorrect": false },
+        { "text": "Prácticas de computación ambientalmente responsables", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "¿Cuál es la función principal de los sensores en un ecosistema loT?",
+      "options": [
+        { "text": "Capturar datos del entorno físico", "isCorrect": true },
+        { "text": "Eliminar la necesidad de internet", "isCorrect": false },
+        { "text": "Sustituir a los servidores Cloud", "isCorrect": false },
+        { "text": "Almacenar energía", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "¿Qué objetivo busca la IA al analizar grandes volúmenes de datos históricos?",
+      "options": [
+        { "text": "Borrar los datos antiguos", "isCorrect": false },
+        { "text": "Identificar patrones y realizar predicciones", "isCorrect": true },
+        { "text": "Reducir la capacidad de almacenamiento", "isCorrect": false },
+        { "text": "Aumentar el ruido en los datos", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "¿Cómo utiliza el retail el análisis predictivo?",
+      "options": [
+        { "text": "Para limpiar el suelo", "isCorrect": false },
+        { "text": "Para cambiar el logo", "isCorrect": false },
+        { "text": "Para contratar cajeros", "isCorrect": false },
+        { "text": "Para anticipar qué productos se venderán más y gestionar stock", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "¿Qué importancia tiene la baja latencia en servicios en la nube?",
+      "options": [
+        { "text": "Ahorra espacio en disco", "isCorrect": false },
+        { "text": "Aumenta el retraso en la respuesta", "isCorrect": false },
+        { "text": "No tiene importancia", "isCorrect": false },
+        { "text": "Mejora la fluidez y rapidez del acceso a datos", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Una ventaja estratégica de la digitalización es:",
+      "options": [
+        { "text": "Más costes fijos", "isCorrect": false },
+        { "text": "Menor competitividad", "isCorrect": false },
+        { "text": "Mayor adaptación al mercado", "isCorrect": true },
+        { "text": "Mayor rigidez", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "La IA generativa se caracteriza por:",
+      "options": [
+        { "text": "Crear textos, imágenes o música", "isCorrect": true },
+        { "text": "Solo clasificar datos", "isCorrect": false },
+        { "text": "Solo almacenar información", "isCorrect": false },
+        { "text": "Solo analizar sensores", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "¿Cómo facilita la nube el trabajo colaborativo?",
+      "options": [
+        { "text": "Obligando a usar cables largos", "isCorrect": false },
+        { "text": "Limitando el horario de acceso", "isCorrect": false },
+        { "text": "Impidiendo el acceso simultáneo", "isCorrect": false },
+        { "text": "Permitiendo editar documentos en tiempo real desde distintos sitios", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "El Big Data se caracteriza por las 3 Vs:",
+      "options": [
+        { "text": "Velocidad, Ventana, Vista", "isCorrect": false },
+        { "text": "Ventaja, Valor, Venta", "isCorrect": false },
+        { "text": "Volumen, Velocidad, Variedad", "isCorrect": true },
+        { "text": "Visión, Verdad, Valor", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "El Internet de las Cosas (IoT) permite:",
+      "options": [
+        { "text": "Conexión de objetos cotidianos a Internet", "isCorrect": true },
+        { "text": "Eliminar el uso de sensores", "isCorrect": false },
+        { "text": "Solo conexión de PCs", "isCorrect": false },
+        { "text": "Uso exclusivo industrial", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "¿Puede el análisis predictivo prevenir la fuga de clientes?",
+      "options": [
+        { "text": "Sí, identificando señales de abandono antes de que ocurra", "isCorrect": true },
+        { "text": "Solo si el cliente lo dice", "isCorrect": false },
+        { "text": "No, es imposible", "isCorrect": false },
+        { "text": "Solo en empresas pequeñas", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Una ventaja de la convergencia IT/OT es:",
+      "options": [
+        { "text": "Aislamiento de datos", "isCorrect": false },
+        { "text": "Menor análisis", "isCorrect": false },
+        { "text": "Mayor detección anticipada de incidencias", "isCorrect": true },
+        { "text": "Menor innovación", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es el beneficio de integrar un CRM con el departamento de ventas?",
+      "options": [
+        { "text": "Tener una visión 360° del embudo de ventas", "isCorrect": true },
+        { "text": "Complicar el cierre de tratos", "isCorrect": false },
+        { "text": "Sustituir a los comerciales", "isCorrect": false },
+        { "text": "Reducir el uso del correo electrónico", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "¿Qué diferencia a la minería de datos de la estadística descriptiva?",
+      "options": [
+        { "text": "No hay diferencia", "isCorrect": false },
+        { "text": "La minería solo usa papel", "isCorrect": false },
+        { "text": "La estadística es más moderna", "isCorrect": false },
+        { "text": "La minería se enfoca en descubrir relaciones y predecir", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "¿Cómo reduce la IA el tiempo de inactividad?",
+      "options": [
+        { "text": "Parando la fábrica a diario", "isCorrect": false },
+        { "text": "Avisando cuando la máquina ya se ha roto", "isCorrect": false },
+        { "text": "Obligando a trabajar más horas", "isCorrect": false },
+        { "text": "Prediciendo el fallo antes de que ocurra", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "¿Cómo se asegura la integridad de los datos en un entorno de Big Data?",
+      "options": [
+        { "text": "Mediante procesos de limpieza y validación (Data Cleansing)", "isCorrect": true },
+        { "text": "Aumentando el volumen de datos", "isCorrect": false },
+        { "text": "Apagando los servidores a diario", "isCorrect": false },
+        { "text": "Haciendo fotos a la pantalla", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "¿Por qué la digitalización es un proceso continuo?",
+      "options": [
+        { "text": "Porque la tecnología y el mercado evolucionan constantemente", "isCorrect": true },
+        { "text": "Porque los ordenadores se rompen", "isCorrect": false },
+        { "text": "Porque es una moda", "isCorrect": false },
+        { "text": "Porque nunca se termina de pagar", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "¿Cómo mejora la visibilidad de la cadena de producción la convergencia IT/OT?",
+      "options": [
+        { "text": "Escondiendo los fallos", "isCorrect": false },
+        { "text": "Eliminando el acceso remoto", "isCorrect": false },
+        { "text": "Reduciendo el número de sensores", "isCorrect": false },
+        { "text": "Proporcionando datos en tiempo real de lo que ocurre en planta", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "¿Qué ventaja ofrece la escalabilidad en los servicios de Cloud Computing?",
+      "options": [
+        { "text": "Reducir la velocidad de red", "isCorrect": false },
+        { "text": "Ajustar recursos según la demanda", "isCorrect": true },
+        { "text": "Limitar el acceso a un solo usuario", "isCorrect": false },
+        { "text": "Forzar la compra de hardware nuevo", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "El Cloud Computing ofrece principalmente:",
+      "options": [
+        { "text": "Menor seguridad que un servidor físico", "isCorrect": false },
+        { "text": "Uso restringido a expertos", "isCorrect": false },
+        { "text": "Almacenamiento físico local", "isCorrect": false },
+        { "text": "Acceso a recursos bajo demanda vía red", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "¿Cuál es la relación entre minería de datos y patrones ocultos?",
+      "options": [
+        { "text": "La minería borra los patrones", "isCorrect": false },
+        { "text": "La minería busca extraer esos patrones de grandes datasets", "isCorrect": true },
+        { "text": "La minería oculta los patrones", "isCorrect": false },
+        { "text": "No tienen relación", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "¿Por qué la 'Variedad' es un desafío para los sistemas tradicionales?",
+      "options": [
+        { "text": "Porque requiere pantallas de colores", "isCorrect": false },
+        { "text": "Porque los datos son todos iguales", "isCorrect": false },
+        { "text": "Porque solo aceptan un tipo de letra", "isCorrect": false },
+        { "text": "Debido a la mezcla de datos estructurados y no estructurados", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "¿Qué importancia tiene el histórico de datos en modelos predictivos?",
+      "options": [
+        { "text": "Es la base para entrenar el modelo y detectar tendencias", "isCorrect": true },
+        { "text": "Ninguna", "isCorrect": false },
+        { "text": "Es para el archivo histórico", "isCorrect": false },
+        { "text": "Sirve para ocupar espacio", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "El análisis predictivo sirve para:",
+      "options": [
+        { "text": "Anticipar fallos o comportamientos", "isCorrect": true },
+        { "text": "Eliminar datos", "isCorrect": false },
+        { "text": "Mirar solo el pasado", "isCorrect": false },
+        { "text": "Sustituir sensores", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "El aprendizaje no supervisado se basa en:",
+      "options": [
+        { "text": "Solo reglas fijas", "isCorrect": false },
+        { "text": "Etiquetas conocidas", "isCorrect": false },
+        { "text": "Resultados esperados", "isCorrect": false },
+        { "text": "Detección autónoma de patrones", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "¿Cómo ayuda el modelo de 'pago por uso' en la nube a las PYMES?",
+      "options": [
+        { "text": "Aumenta los costes de mantenimiento", "isCorrect": false },
+        { "text": "Obliga a pagar anualidades fijas", "isCorrect": false },
+        { "text": "Permite acceder a tecnología avanzada sin grandes inversiones", "isCorrect": true },
+        { "text": "Requiere tener servidores propios", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "¿Qué tecnología permite que una fábrica monitorice sus máquinas en tiempo real?",
+      "options": [
+        { "text": "Manuales de usuario físicos", "isCorrect": false },
+        { "text": "Impresión offset", "isCorrect": false },
+        { "text": "Sistemas ERP de escritorio", "isCorrect": false },
+        { "text": "Sensores conectados mediante loT", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "¿En qué consiste el procesamiento de lenguaje natural (PLN) dentro de la IA?",
+      "options": [
+        { "text": "En el diseño de teclados ergonómicos", "isCorrect": false },
+        { "text": "En traducir código binario", "isCorrect": false },
+        { "text": "En la velocidad de escritura", "isCorrect": false },
+        { "text": "En la interacción entre máquinas y lenguaje humano", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "¿Para qué se utiliza el 'clustering'?",
+      "options": [
+        { "text": "Para multiplicar números", "isCorrect": false },
+        { "text": "Para ordenar por fecha", "isCorrect": false },
+        { "text": "Para borrar datos", "isCorrect": false },
+        { "text": "Para agrupar elementos similares sin etiquetas previas", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "¿Cómo influye la digitalización en la reducción de tiempos de respuesta?",
+      "options": [
+        { "text": "Obligando al uso de fax", "isCorrect": false },
+        { "text": "Automatizando procesos y flujos de trabajo", "isCorrect": true },
+        { "text": "Aumentando la burocracia", "isCorrect": false },
+        { "text": "Aumentando el número de reuniones", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "¿Cuál es el primer paso en un ciclo de vida de un proyecto de Data Science?",
+      "options": [
+        { "text": "Crear gráficos circulares", "isCorrect": false },
+        { "text": "Comprensión del problema de negocio", "isCorrect": true },
+        { "text": "Borrar la base de datos", "isCorrect": false },
+        { "text": "Comprar el software más caro", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "¿Qué capacidad define a un sistema de Inteligencia Artificial frente a un software convencional?",
+      "options": [
+        { "text": "La necesidad de una pantalla táctil", "isCorrect": false },
+        { "text": "El uso de cables de fibra óptica", "isCorrect": false },
+        { "text": "La capacidad de aprender y mejorar con la experiencia", "isCorrect": true },
+        { "text": "La capacidad de realizar cálculos básicos", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "¿Qué diferencia al mantenimiento preventivo del predictivo?",
+      "options": [
+        { "text": "El preventivo es más caro", "isCorrect": false },
+        { "text": "El preventivo es por tiempo/uso; el predictivo es por estado real", "isCorrect": true },
+        { "text": "No hay diferencia", "isCorrect": false },
+        { "text": "El predictivo no usa datos", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Un objetivo de la minería de datos es:",
+      "options": [
+        { "text": "Eliminar algoritmos", "isCorrect": false },
+        { "text": "Predecir comportamientos", "isCorrect": true },
+        { "text": "Crear copias de seguridad", "isCorrect": false },
+        { "text": "Reducir almacenamiento", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "¿Qué significa que los sistemas IT se integren con OT?",
+      "options": [
+        { "text": "Que la informática de gestión se conecta con el control de maquinaria", "isCorrect": true },
+        { "text": "Que se vuelve al control manual", "isCorrect": false },
+        { "text": "Que se fusionan los departamentos de RRHH", "isCorrect": false },
+        { "text": "Que se eliminan los ordenadores", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Un sistema CRM sirve para:",
+      "options": [
+        { "text": "Enviar spam", "isCorrect": false },
+        { "text": "Crear páginas web", "isCorrect": false },
+        { "text": "Limpiar el disco duro", "isCorrect": false },
+        { "text": "Gestionar la relación con los clientes", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Si hablamos de Terabytes y Petabytes, ¿a qué 'V' del Big Data nos referimos?",
+      "options": [
+        { "text": "Veracidad", "isCorrect": false },
+        { "text": "Variedad", "isCorrect": false },
+        { "text": "Volumen", "isCorrect": true },
+        { "text": "Velocidad", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "La Inteligencia Artificial (IA) se define como:",
+      "options": [
+        { "text": "Sistemas que simulan procesos de inteligencia humana", "isCorrect": true },
+        { "text": "Un nuevo tipo de hardware", "isCorrect": false },
+        { "text": "Conexión de cables", "isCorrect": false },
+        { "text": "Un software de edición de fotos", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "¿Cómo ayuda el análisis en tiempo real?",
+      "options": [
+        { "text": "Para ver qué pasó hace un año", "isCorrect": false },
+        { "text": "Para retrasar la respuesta", "isCorrect": false },
+        { "text": "Para reaccionar inmediatamente ante cambios o problemas", "isCorrect": true },
+        { "text": "No ayuda", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "En Big Data, ¿qué significa que un dato sea consistente?",
+      "options": [
+        { "text": "Que ocupa mucho espacio", "isCorrect": false },
+        { "text": "Que es un dato numérico", "isCorrect": false },
+        { "text": "Que es difícil de borrar", "isCorrect": false },
+        { "text": "Que es igual en todos los sistemas donde se encuentra", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "¿Qué es una cultura 'data-driven'?",
+      "options": [
+        { "text": "Una cultura de solo usar hojas de cálculo", "isCorrect": false },
+        { "text": "Una cultura de no usar datos", "isCorrect": false },
+        { "text": "Una cultura donde los datos guían las decisiones", "isCorrect": true },
+        { "text": "Una cultura de diseño gráfico", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "La veracidad en big data se refiere a:",
+      "options": [
+        { "text": "Cantidad de datos", "isCorrect": false },
+        { "text": "Velocidad de red", "isCorrect": false },
+        { "text": "Calidad y fiabilidad de los datos", "isCorrect": true },
+        { "text": "Tamaño de archivos", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Una ventaja del big data es:",
+      "options": [
+        { "text": "Menor volumen", "isCorrect": false },
+        { "text": "Eliminar análisis", "isCorrect": false },
+        { "text": "Better toma de decisiones", "isCorrect": true },
+        { "text": "Menor variedad", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "La IA en el sector industrial permite:",
+      "options": [
+        { "text": "Eliminar mantenimiento", "isCorrect": false },
+        { "text": "Menor calidad", "isCorrect": false },
+        { "text": "Mantenimiento predictivo", "isCorrect": true },
+        { "text": "Solo control manual", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "¿A qué se refiere la 'Velocidad' en el contexto de procesamiento de Big Data?",
+      "options": [
+        { "text": "Al tiempo que tarda en encenderse el servidor", "isCorrect": false },
+        { "text": "A la frecuencia con la que se generan y procesan los datos", "isCorrect": true },
+        { "text": "A la rapidez del personal de IT", "isCorrect": false },
+        { "text": "A la velocidad del cursor en pantalla", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "La ciencia de datos busca principalmente:",
+      "options": [
+        { "text": "Eliminar datos antiguos", "isCorrect": false },
+        { "text": "Convertir datos en conocimiento útil", "isCorrect": true },
+        { "text": "Reducir conectividad", "isCorrect": false },
+        { "text": "Guardar información", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "¿Qué tipo de datos centraliza un sistema CRM en una empresa?",
+      "options": [
+        { "text": "Inventario de suministros de oficina", "isCorrect": false },
+        { "text": "Planos de las instalaciones", "isCorrect": false },
+        { "text": "Interacciones, pedidos y preferencias del cliente", "isCorrect": true },
+        { "text": "Nóminas de empleados", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "¿Cómo transforma el Big Data la intuición en decisiones basadas en hechos?",
+      "options": [
+        { "text": "Aportando evidencia objetiva extraída de los datos", "isCorrect": true },
+        { "text": "Sustituyendo a los jefes", "isCorrect": false },
+        { "text": "Confirmando lo que el jefe ya pensaba", "isCorrect": false },
+        { "text": "Haciendo las decisiones más lentas", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "¿Por qué mudar servidores a la nube puede reducir el consumo?",
+      "options": [
+        { "text": "Porque los servidores son más pequeñas", "isCorrect": false },
+        { "text": "Porque se apagan por la noche", "isCorrect": false },
+        { "text": "Porque la nube no gasta luz", "isCorrect": false },
+        { "text": "Por la mayor eficiencia de los centros de datos especializados", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "¿Qué diferencia hay entre un analista de datos y un científico de datos?",
+      "options": [
+        { "text": "No hay diferencia", "isCorrect": false },
+        { "text": "El científico solo trabaja en laboratorios", "isCorrect": false },
+        { "text": "El científico suele crear modelos predictivos complejos", "isCorrect": true },
+        { "text": "El analista solo usa papel y lápiz", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 58,
+      "question": "La ciberseguridad en la empresa busca:",
+      "options": [
+        { "text": "Ralentizar el trabajo", "isCorrect": false },
+        { "text": "Publicar datos en la web", "isCorrect": false },
+        { "text": "Eliminar internet", "isCorrect": false },
+        { "text": "Proteger la integridad y privacidad de los datos", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 59,
+      "question": "La digitalización fomenta principalmente:",
+      "options": [
+        { "text": "Innovación continua", "isCorrect": true },
+        { "text": "Procesos manuales", "isCorrect": false },
+        { "text": "Menor conectividad", "isCorrect": false },
+        { "text": "Aislamiento tecnológico", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 60,
+      "question": "¿Qué herramientas son comunes para la visualización de datos?",
+      "options": [
+        { "text": "Adobe Premiere", "isCorrect": false },
+        { "text": "Microsoft Paint", "isCorrect": false },
+        { "text": "Tableau, Power BI o librerías de Python", "isCorrect": true },
+        { "text": "Calculadoras científicas", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 61,
+      "question": "¿Qué problemas puede causar el uso de datos 'sucios' en una empresa?",
+      "options": [
+        { "text": "Toma de decisiones erróneas basadas en información falsa", "isCorrect": true },
+        { "text": "Mejorar el marketing", "isCorrect": false },
+        { "text": "Aumento de la velocidad de red", "isCorrect": false },
+        { "text": "Reducción del consumo eléctrico", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 62,
+      "question": "¿Qué papel juegan las actualizaciones de software en la ciberseguridad?",
+      "options": [
+        { "text": "Gastar batería innecesariamente", "isCorrect": false },
+        { "text": "Borrar archivos temporales", "isCorrect": false },
+        { "text": "Cambiar los colores de la interfaz", "isCorrect": false },
+        { "text": "Corregir vulnerabilidades de seguridad", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 63,
+      "question": "¿Por qué la movilidad es una gran ventaja del Cloud?",
+      "options": [
+        { "text": "Porque los servidores se mueven en camiones", "isCorrect": false },
+        { "text": "Porque permite trabajar desde cualquier dispositivo con internet", "isCorrect": true },
+        { "text": "Porque no requiere batería", "isCorrect": false },
+        { "text": "Porque las pantallas son más pequeñas", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 64,
+      "question": "El acceso amplio a la red en cloud permite:",
+      "options": [
+        { "text": "Sin conexión", "isCorrect": false },
+        { "text": "Acceso desde múltiples dispositivos", "isCorrect": true },
+        { "text": "Acceso solo desde servidores", "isCorrect": false },
+        { "text": "Acceso solo local", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 65,
+      "question": "¿Qué diferencia al almacenamiento en la nube del almacenamiento local tradicional?",
+      "options": [
+        { "text": "El Cloud permite acceso remoto y alta disponibilidad", "isCorrect": true },
+        { "text": "No hay diferencia técnica", "isCorrect": false },
+        { "text": "El Cloud no usa discos físicos", "isCorrect": false },
+        { "text": "El almacenamiento local es accesible desde cualquier lugar", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 66,
+      "question": "¿Cómo ayuda el aprendizaje no supervisado a descubrir segmentos de clientes?",
+      "options": [
+        { "text": "Encontrando patrones ocultos de comportamiento en los datos", "isCorrect": true },
+        { "text": "Enviando encuestas", "isCorrect": false },
+        { "text": "Preguntando uno a uno", "isCorrect": false },
+        { "text": "Llamando por teléfono", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 67,
+      "question": "¿Cómo ayuda un CRM a mejorar la fidelización de los clientes?",
+      "options": [
+        { "text": "Mediante el envío masivo de publicidad", "isCorrect": false },
+        { "text": "Eliminando el soporte técnico telefónico", "isCorrect": false },
+        { "text": "Aumentando los precios de forma automática", "isCorrect": false },
+        { "text": "Personalizando la atención según el historial del cliente", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 68,
+      "question": "¿Qué diferencia a la nube pública de una híbrida?",
+      "options": [
+        { "text": "La híbrida combina recursos propios con nube pública", "isCorrect": true },
+        { "text": "La pública es gratis", "isCorrect": false },
+        { "text": "No hay diferencia", "isCorrect": false },
+        { "text": "La pública no tiene seguridad", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 69,
+      "question": "¿Cuál es la importancia de la encriptación en la transmisión de datos?",
+      "options": [
+        { "text": "Acelerar la descarga de archivos", "isCorrect": false },
+        { "text": "Hacer que los datos ocupen más espacio", "isCorrect": false },
+        { "text": "Garantizar que solo el receptor autorizado pueda leerlos", "isCorrect": true },
+        { "text": "Mejorar la resolución de las imágenes", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 70,
+      "question": "La nube pública se caracteriza por:",
+      "options": [
+        { "text": "Uso exclusivo", "isCorrect": false },
+        { "text": "Mayor coste siempre", "isCorrect": false },
+        { "text": "Control total interno", "isCorrect": false },
+        { "text": "Recursos compartidos", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 71,
+      "question": "¿Qué papel juega el 'feedback' digital del cliente?",
+      "options": [
+        { "text": "No tiene utilidad", "isCorrect": false },
+        { "text": "Molestar a los empleados", "isCorrect": false },
+        { "text": "Permitir una mejora constante del producto basada en el uso real", "isCorrect": true },
+        { "text": "Es para borrarlo", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 72,
+      "question": "¿Cómo contribuye el uso compartido de servidores a la eficiencia?",
+      "options": [
+        { "text": "No influye", "isCorrect": false },
+        { "text": "Maximizando el uso del hardware y reduciendo el desperdicio energético", "isCorrect": true },
+        { "text": "Aumentando el número de máquinas encendidas", "isCorrect": false },
+        { "text": "Calentando más los edificios", "isCorrect": false }
+      ]
+    }
+  ]
